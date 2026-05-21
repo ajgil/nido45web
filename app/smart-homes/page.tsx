@@ -54,15 +54,11 @@ export default function SmartHomesPage() {
             <ArrowLeft className="w-4 h-4" />
             <span className="text-sm">Volver al catálogo</span>
           </Link>
-          <a
-            href="https://nido45spain.github.io/nido45"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <Link href="/presupuesto">
             <Button variant="default" size="sm" className="bg-accent hover:bg-accent/90 text-accent-foreground">
               Solicitar Presupuesto
             </Button>
-          </a>
+          </Link>
         </div>
       </header>
 
@@ -190,16 +186,11 @@ export default function SmartHomesPage() {
                 </div>
 
                 <div className="flex flex-col gap-3">
-                  <a
-                    href="https://nido45spain.github.io/nido45"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block"
-                  >
+                  <Link href="/presupuesto" className="block">
                     <Button className="w-full bg-accent hover:bg-accent/90 text-accent-foreground h-12">
                       Solicitar Presupuesto
                     </Button>
-                  </a>
+                  </Link>
                   <a
                     href="/NIDO45_Catalogo.pdf"
                     download
@@ -281,16 +272,11 @@ export default function SmartHomesPage() {
                 </div>
 
                 <div className="flex flex-col gap-3">
-                  <a
-                    href="https://nido45spain.github.io/nido45"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block"
-                  >
+                  <Link href="/presupuesto" className="block">
                     <Button className="w-full bg-accent hover:bg-accent/90 text-accent-foreground h-12">
                       Solicitar Presupuesto
                     </Button>
-                  </a>
+                  </Link>
                   <a
                     href="/NIDO45_Catalogo.pdf"
                     download

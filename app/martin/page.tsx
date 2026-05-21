@@ -110,15 +110,11 @@ export default function OficinasModularesPage() {
               </div>
 
               <div className="flex flex-col gap-3">
-                <a
-                  href="https://nido45spain.github.io/nido45"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <Link href="/presupuesto">
                   <Button size="lg" className="w-full bg-[#c9a55c] hover:bg-[#c9a55c]/90 text-black font-medium">
                     Solicitar Presupuesto
                   </Button>
-                </a>
+                </Link>
                 <a
                   href="/NIDO45_Catalogo.pdf"
                   download

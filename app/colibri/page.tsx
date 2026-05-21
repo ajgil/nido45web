@@ -94,9 +94,7 @@ export default function CapsulaEspacialPage() {
 
               <div className="flex flex-col gap-3">
                 <a
-                  href="https://nido45spain.github.io/nido45"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="/presupuesto"
                 >
                   <Button size="lg" className="w-full bg-[#c9a55c] hover:bg-[#c9a55c]/90 text-black font-medium">
                     Solicitar Presupuesto

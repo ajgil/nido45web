@@ -1,5 +1,6 @@
 "use client"
 
+import Link from "next/link"
 import { Phone, Mail, MapPin, Shield, FileText } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { useLocale } from "@/lib/locale-context"
@@ -71,18 +72,14 @@ export function Contact() {
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4">
-              <a
-                href="https://nido45spain.github.io/nido45"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
+              <Link href="/presupuesto">
                 <Button 
                   size="lg" 
                   className="bg-[#c9a55c] hover:bg-[#b8944b] text-black font-serif tracking-wide px-8"
                 >
                   {t.contact.cta}
                 </Button>
-              </a>
+              </Link>
               <a
                 href="/NIDO45_Catalogo.pdf"
                 download

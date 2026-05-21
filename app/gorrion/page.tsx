@@ -86,9 +86,7 @@ export default function ModuloBasicoPage() {
 
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
-                  href="https://nido45spain.github.io/nido45"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="/presupuesto"
                 >
                   <Button size="lg" className="bg-[#c9a55c] hover:bg-[#c9a55c]/90 text-black font-medium text-lg px-8 py-6">
                     Solicitar Presupuesto
@@ -293,15 +291,11 @@ export default function ModuloBasicoPage() {
             Contáctanos para recibir un presupuesto personalizado sin compromiso.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
-            <a
-              href="https://nido45spain.github.io/nido45"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <Link href="/presupuesto">
               <Button size="lg" className="bg-[#c9a55c] hover:bg-[#c9a55c]/90 text-black font-medium text-lg px-8 py-6">
                 Solicitar Presupuesto
               </Button>
-            </a>
+            </Link>
             <a
               href="/NIDO45_Catalogo.pdf"
               download

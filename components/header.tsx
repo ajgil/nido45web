@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect, useRef } from "react"
+import Link from "next/link"
 import { Menu, X, FileText } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { LanguageSelector } from "@/components/language-selector"
@@ -121,16 +122,14 @@ export function Header() {
           
           <div className="mt-8 flex flex-col gap-4">
             <LanguageSelector />
-            <a
-              href="https://nido45spain.github.io/nido45"
-              target="_blank"
-              rel="noopener noreferrer"
+            <Link
+              href="/presupuesto"
               onClick={() => setIsMenuOpen(false)}
             >
               <Button className="w-full bg-[#c9a55c] hover:bg-[#b8944b] text-black font-serif tracking-wide py-3">
                 {t.nav.requestQuote || "Solicitar Presupuesto"}
               </Button>
-            </a>
+            </Link>
             <a
               href="/NIDO45_Catalogo.pdf"
               download

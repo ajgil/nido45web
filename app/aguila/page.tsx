@@ -94,9 +94,7 @@ export default function MansionModularPage() {
 
             <div className="flex flex-col gap-3 mb-8">
               <a
-                href="https://nido45spain.github.io/nido45"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="/presupuesto"
               >
                 <Button size="lg" className="w-full bg-[#c9a55c] hover:bg-[#b8944b] text-black font-serif tracking-wide">
                   Solicitar Presupuesto

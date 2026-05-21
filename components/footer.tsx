@@ -1,5 +1,6 @@
 "use client"
 
+import Link from "next/link"
 import { useLocale } from "@/lib/locale-context"
 import { LanguageSelector } from "@/components/language-selector"
 import { FileText } from "lucide-react"
@@ -49,17 +50,13 @@ export function Footer() {
         {/* Language Selector and CTAs */}
         <div className="flex flex-wrap justify-center gap-4 mb-8">
           <LanguageSelector />
-          <a
-            href="https://nido45spain.github.io/nido45"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <Link href="/presupuesto">
             <Button 
               className="bg-[#c9a55c] hover:bg-[#b8944b] text-black font-serif tracking-wide text-sm"
             >
               {t.nav?.requestQuote || "Solicitar Presupuesto"}
             </Button>
-          </a>
+          </Link>
           <a
             href="/NIDO45_Catalogo.pdf"
             download
