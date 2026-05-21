@@ -4,8 +4,6 @@ import { useState, type FormEvent } from "react"
 import Link from "next/link"
 import { ArrowLeft } from "lucide-react"
 
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwCYZZT32_KUk_GUM23kxy81kouIElqmap7wuiSECUBCYpM-zBlN5wzbnb4gfluAWg/exec"
-
 export default function PresupuestoPage() {
   const [success, setSuccess] = useState(false)
   const [sending, setSending] = useState(false)
@@ -14,26 +12,25 @@ export default function PresupuestoPage() {
   const [fachadaColor, setFachadaColor] = useState("Blanco (Incluido)")
   const [necesitaTerreno, setNecesitaTerreno] = useState("no")
 
-async function submitForm(e: FormEvent<HTMLFormElement>) {
-  e.preventDefault()
-  setSending(true)
-  const fd = new FormData(e.currentTarget)
-  const params = new URLSearchParams()
-  fd.forEach((value, key) => params.append(key, value.toString()))
+  async function submitForm(e: FormEvent<HTMLFormElement>) {
+    e.preventDefault()
+    setSending(true)
+    const fd = new FormData(e.currentTarget)
 
-  try {
-    await fetch(SCRIPT_URL, {
-      method: "POST",
-      body: params,
-      mode: "no-cors",
-    })
-    setSuccess(true)
-    window.scrollTo({ top: 0, behavior: "smooth" })
-  } catch {
-    setSending(false)
-    alert("Error al enviar...")
+    try {
+      const res = await fetch("/api/presupuesto", {
+        method: "POST",
+        body: fd,
+      })
+      const json = await res.json()
+      if (!json.ok) throw new Error(json.error || "Error del servidor")
+      setSuccess(true)
+      window.scrollTo({ top: 0, behavior: "smooth" })
+    } catch {
+      setSending(false)
+      alert("Error al enviar. Por favor inténtalo de nuevo o escríbenos a nido45spain@gmail.com")
+    }
   }
-}
 
   if (success) {
     return (
