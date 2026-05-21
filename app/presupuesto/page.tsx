@@ -14,19 +14,26 @@ export default function PresupuestoPage() {
   const [fachadaColor, setFachadaColor] = useState("Blanco (Incluido)")
   const [necesitaTerreno, setNecesitaTerreno] = useState("no")
 
-  async function submitForm(e: FormEvent<HTMLFormElement>) {
-    e.preventDefault()
-    setSending(true)
-    const fd = new FormData(e.currentTarget)
-    try {
-      await fetch(SCRIPT_URL, { method: "POST", body: fd, mode: "no-cors" })
-      setSuccess(true)
-      window.scrollTo({ top: 0, behavior: "smooth" })
-    } catch {
-      setSending(false)
-      alert("Error al enviar. Por favor inténtalo de nuevo o escríbenos a nido45spain@gmail.com")
-    }
+async function submitForm(e: FormEvent<HTMLFormElement>) {
+  e.preventDefault()
+  setSending(true)
+  const fd = new FormData(e.currentTarget)
+  const params = new URLSearchParams()
+  fd.forEach((value, key) => params.append(key, value.toString()))
+
+  try {
+    await fetch(SCRIPT_URL, {
+      method: "POST",
+      body: params,
+      mode: "no-cors",
+    })
+    setSuccess(true)
+    window.scrollTo({ top: 0, behavior: "smooth" })
+  } catch {
+    setSending(false)
+    alert("Error al enviar...")
   }
+}
 
   if (success) {
     return (
