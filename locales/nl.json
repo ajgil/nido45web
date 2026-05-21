@@ -1,0 +1,327 @@
+{
+  "nav": {
+    "models": "Modellen",
+    "advantages": "Voordelen",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Uw Huis in 45 Dagen",
+    "subtitle": "CE+ISO gecertificeerde New Generation Homes. Onbeperkt oppervlak door modules te combineren. Verzending in 45 dagen, installatie in slechts enkele uren.",
+    "cta": "Bekijk Modellen",
+    "ctaSecondary": "Contact",
+    "badge1": "Verzending in 45 dagen",
+    "badge2": "Onbeperkt oppervlak",
+    "badge3": "Vanaf 6.000€ per module"
+  },
+  "models": {
+    "title": "Onze Modellen",
+    "subtitle": "Catalogus",
+    "description": "Zeven exclusieve creaties, ontworpen voor wie op zoek is naar het buitengewone. Avant-garde modulaire architectuur met volledige CTE-certificering op alle 7 modellen — hypotheekbaar, registreerbaar en legaal voor jaarrond wonen.",
+    "speedTitle": "sneller dan traditionele bouw",
+    "profitTitle": "winstgevender dan conventionele bouw",
+    "daysTitle": "dagen tot uw nieuwe woning",
+    "manufacturingNote": "Industriële precisie uit 's werelds grootste fabriek gespecialiseerd in modulaire woningen. Uw huis reist 45 dagen over zee naar Spanje, gevolgd door premium deur-tot-deur levering. Professionele installatie in enkele uren. Van productielijn tot verhuizen: ongeveer 60 dagen.",
+    "viewMore": "Bekijk",
+    "askPrice": "Offerte",
+    "basicModule": {
+      "name": "De Mus",
+      "description": "Klein, wendbaar, gaat waar u gaat. 15 m² compleet met geïntegreerde badkamer. Montage in 4-6 uur. Zonder zware machines.",
+      "features": ["15 m²", "Badkamer inbegrepen", "Flat Pack"]
+    },
+    "casa90": {
+      "name": "De Valk",
+      "description": "Krachtig en evenwichtig. 1-laags huis met 6 flat pack modules: 3 slaapkamers, woon-eetkamer en keuken. Uw droomhuis.",
+      "features": ["90 m²", "3 slaapkamers", "6 modules"]
+    },
+    "mansion": {
+      "name": "De Arend",
+      "description": "De top van de catalogus. 2-laagse luxe villa met 10 flat pack modules. 4 slaapkamers, 2 badkamers, woonkamer en grote keuken.",
+      "features": ["150 m²", "2 verdiepingen", "10 modules"]
+    },
+    "offices": {
+      "name": "De IJsvogel",
+      "description": "Professioneel, efficiënt en veelzijdig. Kantoorgebouwen met meerdere verdiepingen. Vergaderruimtes, open ruimtes en glazen gevels.",
+      "features": ["Flat Pack", "Vergaderruimtes", "Glazen gevel"]
+    },
+    "cuco36": {
+      "name": "De Koekoek 36",
+      "description": "Compact en functioneel. Hydraulisch uitklapbaar systeem. 36 m² met 2 slaapkamers + badkamer. Ideaal voor koppels.",
+      "features": ["36 m²", "2 slaapkamers", "Hydraulisch"]
+    },
+    "cuco68": {
+      "name": "De Koekoek 68",
+      "description": "Familieruimte. Hydraulisch uitklapbaar systeem. 68 m² met 2-3 slaapkamers + badkamer. Ideaal voor gezinnen.",
+      "features": ["68 m²", "2-3 slaapkamers", "Hydraulisch"]
+    },
+    "appleCabin": {
+      "name": "De Flamingo",
+      "description": "Elegant en stijlvol. Kant-en-klare luxewoningen. Modules onbeperkt te combineren. Ontwerp uw woning op maat.",
+      "features": ["Onbeperkt", "Kant-en-klaar", "Combineerbaar"]
+    },
+    "spaceCapsule": {
+      "name": "De Kolibrie",
+      "description": "Futuristisch, uniek en kostbaar. High-tech capsule met verwarming, verborgen airco en Smart Toilet. Modellen Z5 en Z7.",
+      "features": ["27-38 m²", "Smart Toilet", "High-Tech"]
+    }
+  },
+  "advantages": {
+    "title": "Waarom NIDO45 Kiezen",
+    "subtitle": "Voordelen",
+    "items": {
+      "certified": {
+        "title": "CE + ISO Certificering",
+        "description": "Al onze huizen voldoen aan de strengste Europese voorschriften, wat kwaliteit en veiligheid garandeert."
+      },
+      "fast": {
+        "title": "Verzending in 45 Dagen",
+        "description": "Productie in enkele weken en directe verzending vanuit de fabriek. Uw huis klaar in recordtijd."
+      },
+      "installation": {
+        "title": "Installatie in Uren",
+        "description": "Ultrasnelle professionele montage. Van container naar bewoonbaar huis in slechts enkele uren."
+      },
+      "quality": {
+        "title": "Premium Materialen",
+        "description": "Gegalvaniseerd staal, hoogwaardige isolatie en weerbestendige afwerkingen."
+      },
+      "flexible": {
+        "title": "Flexibel Ontwerp",
+        "description": "Meerdere configuraties en aanpasbare afwerkingen naar uw behoeften."
+      },
+      "support": {
+        "title": "Volledige Ondersteuning",
+        "description": "Wij adviseren u van het terrein tot de uiteindelijke installatie. Altijd aan uw zijde."
+      }
+    }
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen over Woningen van Nieuwe Generatie",
+    "subtitle": "Wij beantwoorden uw vragen",
+    "description": "Alles wat u moet weten over prefab woningen, vergunningen, installatie en financiering in Spanje.",
+    "items": {
+      "q1": {
+        "question": "Heb ik een bouwvergunning nodig voor een woning van nieuwe generatie in Spanje?",
+        "answer": "Op stedelijk gebied met woonfunctie, ja. Onze woningen van nieuwe generatie hebben exact dezelfde juridische geldigheid als elke traditionele bouw. Een bouwvergunning, technisch project goedgekeurd door architect en eerste bewoningsvergunning zijn vereist. Na registratie kunt u het probleemloos hypothekeren, verkopen en nalaten."
+      },
+      "q2": {
+        "question": "Hoe lang duurt het hele proces van bestelling tot intrekken?",
+        "answer": "De totale tijd van ondertekening tot sleutels is 6 tot 12 maanden, vergeleken met 18-30 maanden voor traditionele bouw. Uitsplitsing: productie in enkele weken, verzending in 45 dagen, vergunningsprocedures 1-3 maanden, en installatie in uren of dagen afhankelijk van het model."
+      },
+      "q3": {
+        "question": "Wat is inbegrepen in de prijs van een NIDO45 woning van nieuwe generatie?",
+        "answer": "De prijs omvat de complete gegalvaniseerde staalstructuur, premium thermische en akoestische isolatie, voorbereide elektrische installatie, binnen- en buitenschrijnwerk en standaardafwerkingen. Apart gefactureerd: verzending, fundering, nutsaansluitingen en technisch project. De kosten per m2 liggen tussen 900 en 1.500 euro all-inclusive."
+      },
+      "q4": {
+        "question": "Kan ik een hypotheek krijgen voor een woning van nieuwe generatie?",
+        "answer": "Ja, na registratie in het Kadaster en met bewoonbaarheidscertificaat behandelt elke bank het als een conventionele woning. Wij hebben klanten die het probleemloos voor 80% hebben gefinancierd. Het huis waardeert mee met de vastgoedmarkt."
+      },
+      "q5": {
+        "question": "Welk type grond heb ik nodig voor een woning van nieuwe generatie?",
+        "answer": "De ideale grond is stedelijk met toegestane woonfunctie. Vraag voor aankoop het stedenbouwkundig certificaat aan bij het gemeentehuis ter bevestiging: grondclassificatie, bebouwbare meters, maximale hoogte, afstanden en toegang tot voorzieningen."
+      },
+      "q6": {
+        "question": "Welke bureaucratische procedures heb ik nodig om mijn woning van nieuwe generatie te legaliseren?",
+        "answer": "De procedures op stedelijk gebied zijn: 1) Stedenbouwkundig certificaat, 2) Technisch project door architect goedgekeurd, 3) Geotechnisch onderzoek, 4) Bouwvergunning, 5) Aansluiting op voorzieningen, 6) Eerste bewoningsvergunning, 7) Verklaring van nieuwbouw bij notaris, 8) Kadasterregistratie. Wij begeleiden u door het hele proces."
+      },
+      "q7": {
+        "question": "Hoeveel kosten belastingen en heffingen voor een woning van nieuwe generatie?",
+        "answer": "Belastingen zijn hetzelfde als voor elk huis: 10% btw op de prijs, 2-4% gemeentelijke ICIO, 2-6% vergunningskosten afhankelijk van gemeente, en 1-1,5% IAJD bij de verklaring. Totaal vertegenwoordigt het bureaucratische deel tussen 6% en 10% van de woonkosten."
+      },
+      "q8": {
+        "question": "Kan ik mijn woning van nieuwe generatie in de toekomst uitbreiden?",
+        "answer": "Ja, dat is precies een van de grote voordelen van het flat pack systeem: u kunt modules toevoegen als uw terrein en het gemeentelijke PGOU dit toestaan. De structuur is horizontaal en verticaal combineerbaar, zonder oppervlaktelimiet."
+      },
+      "q9": {
+        "question": "Welke voordelen heeft een woning van nieuwe generatie ten opzichte van traditionele bouw?",
+        "answer": "De belangrijkste voordelen zijn: bouwtijd van 4-8 weken na vergunning (vs 12-18 maanden), vast budget zonder verrassingen, energiecertificering A met superieure isolatie, industriele productie met uniforme kwaliteit, minder milieu-impact, en kosten per m2 tussen 30% en 50% lager."
+      },
+      "q10": {
+        "question": "Welke garantie hebben NIDO45 woningen van nieuwe generatie?",
+        "answer": "Wij bieden 2 jaar garantie op de hoofdstructuur en 1 jaar op componenten en installaties. Alle huizen worden geleverd met CE- en ISO-fabriekscertificering, conform CTE in veiligheid, bewoonbaarheid en energie-efficientie."
+      },
+      "q11": {
+        "question": "Kan ik een woning van nieuwe generatie zonder fundering op landelijk gebied installeren?",
+        "answer": "Dit is een juridische grijs gebied. Uitbreidbare huizen zijn transporteerbaar en kunnen in sommige gemeenten, als ze geen vaste fundering hebben en op het originele chassis blijven, als roerend goed worden behandeld. Dit is niet uniform gereguleerd in Spanje. Wij garanderen deze optie nooit, we informeren het als mogelijkheid om per geval te valideren."
+      },
+      "q12": {
+        "question": "Kan ik een modelwoning bezoeken voor aankoop?",
+        "answer": "Ja, wij hebben modelwoningen beschikbaar voor bezoek in ons hoofdkantoor in El Capitan, Almayate (Malaga). Neem contact met ons op om een bezoek te plannen."
+      },
+      "q13": {
+        "question": "Zijn woningen van nieuwe generatie geschikt om het hele jaar te wonen of alleen voor vakantie?",
+        "answer": "Onze huizen zijn ontworpen voor permanent gebruik als hoofdverblijf. Ze hebben hoge dichtheid thermische en akoestische isolatie, geschikt voor elk Spaans klimaat. Ze voldoen aan CTE-eisen voor continu gebruik."
+      },
+      "q14": {
+        "question": "Welk type fundering heeft elk woningmodel van nieuwe generatie nodig?",
+        "answer": "Het hangt af van het model: uitbreidbare huizen kunnen op hun eigen chassis worden geinstalleerd (geen vaste fundering) of met betonplots. Flat Pack modellen vereisen een plaat of lichte fundering. Wij voeren altijd een geotechnisch onderzoek uit."
+      },
+      "q15": {
+        "question": "Helpt NIDO45 ook bij het vinden van grond?",
+        "answer": "Ja, wij begeleiden u over wat u moet zoeken en wat u moet vermijden. Wij helpen bij het identificeren van bebouwbare stedelijke percelen in uw regio, verifieren het stedenbouwkundig certificaat bij het gemeentehuis voor aankoop, en begeleiden u door het hele proces."
+      },
+      "q16": {
+        "question": "Welke vloerplaat of fundering heb ik nodig voor de modules?",
+        "answer": "Voor flat pack modules raden wij een gewapende betonplaat van 10-15 cm dik aan op een verdichte grindlaag van 15-20 cm. De afmetingen moeten iets groter zijn dan de modulevoetafdruk (minimaal 6,2m x 2,7m voor een basis 15m2 module). Het beton moet HA-25 zijn met elektrogelast gaas. Geldige alternatieven: betonplots op hoeken en midden (elke 2-3m), of omtrekfundering met doorlopende stroken. Voor hellingen of onstabiel terrein wordt een voorafgaand geotechnisch onderzoek aanbevolen. Uitbreidbare huizen kunnen op hun eigen chassis worden geinstalleerd zonder vaste fundering, of met betonplots voor meer stabiliteit. Wij adviseren altijd de optimale oplossing voor uw terrein."
+      },
+      "q17": {
+        "question": "Wat is inbegrepen in de prijs en wat wordt apart geoffreerd?",
+        "answer": "De basisprijs omvat: gefabriceerde modules met alle binnenafwerkingen, zeevervoer van fabriek naar Spaanse haven (Algeciras) en douaneafhandeling. Apart geoffreerd volgens uw project: landtransport van haven naar uw perceel (varieert naar afstand en bereikbaarheid), fundering en terreinvoorbereiding, montage en installatie (kraanlossing, assemblage, aansluitingen), bouwvergunning en gemeentelijke kosten, nutsaansluitingen voor elektriciteit, water en riolering. Wij sturen u een gedetailleerde offerte met alle posten uitgesplitst. Zo weet u precies wat elk concept omvat en kunt u transparant vergelijken."
+      },
+      "q18": {
+        "question": "Kan ik het kopen en zelf monteren?",
+        "answer": "Ja. Onze modules zijn ontworpen voor eenvoudige montage. Bij zelfinstallatie leveren wij de complete technische handleiding en bieden gratis videobel-ondersteuning. U heeft nodig: minimaal 2-3 personen voor montage, kraan of heftruck om modules te positioneren, REBT-gecertificeerde elektricien voor elektrische installatie (verplicht volgens Spaanse regelgeving), en gekwalificeerde loodgieter als de netaansluiting gemeentelijke certificering vereist. Nutsaansluitingen moeten altijd door professionals met de juiste kwalificaties worden uitgevoerd."
+      },
+      "q19": {
+        "question": "Bieden jullie een complete installatieservice aan?",
+        "answer": "Ja. Wij werken met gecertificeerde installateurs in Andalusië, op de Canarische Eilanden en Balearen. De complete installatieservice omvat: lossen en positioneren met kraan, structuurmontage, elektrische aansluiting (REBT-gecertificeerde installateur), loodgieter- en rioleringsaansluiting, en eindinspectie en oplevering met opleveringsrapport. Neem het op in uw offerteaanvraag en wij bieden alles tegen één prijs."
+      },
+      "q20": {
+        "question": "Hoe lang duurt de installatie?",
+        "answer": "Montage is snel. Indicatieve tijden per model: Enkele module (15 m2) halve dag structuurmontage; Uitbreidbaar Huis (68 m2) 1 dag om de structuur uit te vouwen; Multi-module modulair huis (90-150 m2) 1 tot 2 dagen montage; elektrische en loodgieteraansluitingen 1 tot 2 extra dagen. Een complete installatie met nutsvoorzieningen is meestal klaar in 2 tot 4 dagen. De exacte tijd hangt af van de voorafgaande terreinvoorbereiding."
+      },
+      "q21": {
+        "question": "Is het toegankelijk voor mensen met beperkte mobiliteit?",
+        "answer": "Ja. Onze woningen zijn volledig aanpasbaar qua toegankelijkheid. Op verzoek van de klant kunnen wij opnemen: bredere voordeur (tot 90 cm vrije doorgang) voor rolstoeltoegang, toegangsoprit in plaats van ingangsdrempel, aangepaste binnendeuren (minimaal 80 cm doorgang), aangepaste badkamer met vlakke douchebak en steunbeugels, en interieurindeling zonder architectonische barrières. Geef uw behoeften aan bij het aanvragen van een offerte en wij passen de module aan zonder significante meerkosten."
+      },
+      "q22": {
+        "question": "Wat dekt de garantie precies en wie is verantwoordelijk bij gebreken?",
+        "answer": "De commerciële garantie van NIDO45 dekt: 3 jaar op de hoofdstructuur (stalen frame, verbindingen, dak) en 1 jaar op componenten (ramen, deuren, elektrische en sanitaire installaties, afwerkingen). Tijdens het zeevervoer (China-Algeciras) is de verzekering van de internationale vervoerder verantwoordelijk. Tijdens het landvervoer (Algeciras-perceel) is de aansprakelijkheidsverzekering van de vervoerder verantwoordelijk. Tijdens montage en installatie is de aansprakelijkheidsverzekering van de installateur verantwoordelijk (minimaal 300.000 EUR dekking, 1 jaar na installatie geldig). Voor fabricagefouten die niet gerelateerd zijn aan transport of installatie, is NIDO45 direct als fabrikant verantwoordelijk. Tip: fotografeer de staat van de modules bij het lossen en aan het begin van de montage om de oorsprong van schade te documenteren. Bewaar altijd de aankoopdocumentatie en het garantiecertificaat dat wij u overhandigen."
+      },
+      "q23": {
+        "question": "Kan ik de binnen- en buitenafwerking aanpassen?",
+        "answer": "Ja. Wij bieden verschillende aanpassingsopties: buitenafwerking (wit, grijs sandwichpaneel, kunststof hout of maatwerk bekleding), binnenvloeren (vinyl, keramiek of parket), keuken en badkamer (meubels en sanitair naar keuze), schrijnwerk (wit PVC, antraciet of houtimitatie) en interieurindeling (verplaatsbare scheidingswanden, schuifdeuren). Wij sturen u de afwerkingscatalogus met de offerte. Wijzigingen ten opzichte van standaard kunnen de productietijd beïnvloeden."
+      },
+      "q24": {
+        "question": "Welk onderhoud vereist een nieuwegeneratie woning?",
+        "answer": "Het onderhoud is minimaal en vergelijkbaar met elk huis: jaarlijkse controle van voegen en afdichtingen, schoonmaken van dakgoten, controle van elektrische en sanitaire installaties. De gegalvaniseerde stalen structuur vereist minstens 25 jaar geen extra behandeling. Wij raden aan om de buitenkant elke 10-15 jaar opnieuw te schilderen als u het oorspronkelijke uiterlijk wilt behouden. Er is geen risico op termieten, capillaire vochtigheid of typische structurele problemen van traditionele bouw."
+      },
+      "q25": {
+        "question": "Levert u naar de Canarische Eilanden, Balearen of andere landen?",
+        "answer": "Ja. Wij leveren in heel Spaans vasteland, naar de Canarische Eilanden en Balearen. Het zeevervoer naar de eilanden heeft extra kosten die in de offerte worden gespecificeerd. Wij exporteren ook naar Portugal, Frankrijk, Italië en andere Europese landen. Wij regelen het import- en douaneproces in alle gevallen. Voor bestemmingen buiten de EU, vraag naar specifieke voorwaarden."
+      },
+      "q26": {
+        "question": "Welke termijnen moeten worden verwacht tussen bestelling en installatie?",
+        "answer": "De totale tijd is ongeveer 60 dagen vanaf contractondertekening. Verdeling: 18 dagen fabricage in de fabriek, ongeveer 45 dagen zeevervoer, dan montage en installatie op uw perceel (1-5 dagen afhankelijk van complexiteit). Voor urgente projecten kunnen wij de fabricage versnellen tegen een toeslag. Wij houden u bij elke stap op de hoogte met real-time tracking."
+      },
+      "q27": {
+        "question": "Welke betaalmethoden accepteren jullie?",
+        "answer": "Wij accepteren bankoverschrijving en financiering. Het gebruikelijke betalingsproces is: 30% aanbetaling bij orderbevestiging, 40% bij vertrek uit de fabriek, 20% bij aankomst op uw perceel, en de resterende 10% bij eindlevering. Voor grotere projecten bieden we aangepaste betalingsplannen. Alle transacties verlopen via geverifieerde Spaanse bankrekeningen."
+      },
+      "q28": {
+        "question": "Bieden jullie financiering voor de aankoop?",
+        "answer": "Ja, wij werken samen met financiële instellingen die persoonlijke leningen voor de module-aankoop aanbieden. Zodra het huis is ingeschreven in het Kadaster, kunt u het omzetten naar een conventionele hypotheek met betere voorwaarden. Wij adviseren u ook over subsidies en toelagen die in uw regio beschikbaar zijn voor efficiënte of landelijke woningen."
+      },
+      "q29": {
+        "question": "Heb ik een speciale verzekering nodig voor mijn modulaire woning?",
+        "answer": "U heeft geen speciale verzekering nodig. Eenmaal ingeschreven in het Kadaster, dekt elke verzekeraar het als een conventionele woning: opstal- en inboedelverzekering, aansprakelijkheid, brand, diefstal, enz. Tijdens transport en installatie zijn goederen gedekt door de verzekering van de vervoerder en installateur. Wij raden aan om voor de eindlevering een woonhuisverzekering af te sluiten."
+      },
+      "q30": {
+        "question": "Kan ik mijn modulaire woning doorverkopen? Stijgt het in waarde?",
+        "answer": "Ja, u kunt het verkopen als elk onroerend goed zodra het is ingeschreven in het Kadaster. Kwaliteits modulaire woningen stijgen in waarde met de vastgoedmarkt net als traditionele. Sterker nog, gecertificeerde energie-efficiëntie (klasse A of B) en lage onderhoudskosten zijn tegenwoordig zeer gewaardeerde verkoopargumenten. Wij hebben klanten die hun modulaire woning met winst hebben verkocht."
+      },
+      "q31": {
+        "question": "Welke materialen worden gebruikt voor thermische isolatie in NIDO45-woningen?",
+        "answer": "Wij gebruiken materialen van de hoogste kwaliteit voor thermische isolatie. Bij flat pack modules (El Gorrión, El Halcón, El Águila) is de standaard een sandwichpaneel met 50mm dikke steenwol. Optioneel, voor extremere klimaten of grotere energie-efficiëntie, bieden wij versies met 75mm of 100mm op aanvraag. Steenwol is onbrandbaar, absorbeert geen vocht en behoudt zijn isolerende eigenschappen gedurende de hele levensduur van de woning. In uitklapbare huizen (El Cuco) en ruimtecapsules (El Colibrí) gebruiken wij hoogwaardig polyurethaan van 60-80mm, dat maximale thermische prestaties biedt in beperkte ruimtes. Al onze isolatie voldoet aan CTE energiebesparingsvoorschriften en maakt energiecertificering A of B mogelijk."
+      },
+      "q32": {
+        "question": "Welk type ramen hebben NIDO45 modulaire woningen?",
+        "answer": "Al onze huizen hebben dubbel glas ramen met luchtkamer of argongas voor maximale thermische en akoestische isolatie. De profielen zijn van PVC of aluminium met thermische onderbreking, ter voorkoming van condensatie en warmteverlies. De panoramische ramen van Apple Cabin (El Flamenco) en Space Cabin (El Colibrí) modellen bevatten speciale thermische behandeling met zonwering om opwarming in de zomer te verminderen. Beschikbare opties: draai-kiep, schuif, vast of klepopening. Kozijnkleuren: wit, antraciet, grijs, houtimitatie. De akoestische isolatie van onze ramen vermindert buitengeluid met 30-40 dB, ideaal voor locaties nabij wegen of stedelijke gebieden."
+      },
+      "q33": {
+        "question": "Welke buitenafwerkingsopties zijn beschikbaar?",
+        "answer": "Wij bieden meerdere buitenafwerkingen om uw modulaire woning te personaliseren. Standaard afwerking: sandwichpaneel in wit, antracietgrijs of crème. Kunststof hout afwerking: weerbestendige natuurhoutimitatie, onderhoudsvrij. Premium afwerking: geventileerde keramische bekleding, gereconstitueerde natuursteen, of high-end composiet. RAL kleuren: elke kleur uit de RAL kaart op aanvraag. Voor het Apple Cabin model (El Flamenco) vallen witte of natuurhout effect afwerkingen met onderscheidende gebogen lijnen op. Voor El Colibrí (Space Cabin) bieden wij futuristische metalen afwerkingen met geïntegreerde LED-verlichting. Alle buitenafwerkingen zijn ontworpen om minstens 15-20 jaar zonder significant onderhoud mediterraan weer te weerstaan."
+      },
+      "q34": {
+        "question": "Welke binnenvloeropties zijn beschikbaar?",
+        "answer": "Wij hebben drie categorieën binnenvloeren. Hoogwaardig vinyl (standaard): waterbestendig, makkelijk schoon te maken, meerdere afwerkingen (hout, steen, effen). Ideaal voor badkamers, keukens en gebieden met veel verkeer. Keramische of porseleinen tegels: maximale duurzaamheid, grote variëteit aan ontwerpen, ideaal voor warme klimaten. Parket of laminaat: premium afwerking in hoogwaardig natuurlijk of synthetisch hout, warmte en comfort. Voor luxemodellen zoals El Águila (landhuis) en El Flamenco (Apple Cabin) bevelen wij grootformaat porselein of eiken parket aan. Voor El Colibrí (Space Cabin) complementeren premium design vinylvloeren de futuristische afwerking. Alle vloeren worden geïnstalleerd op een geëgaliseerde basis met akoestische isolatie om contactgeluidsoverdracht te voorkomen."
+      },
+      "q35": {
+        "question": "Worden de woningen geleverd met verwarming en airconditioning?",
+        "answer": "Het hangt af van het model. El Colibrí (Space Cabin) en El Flamenco (Apple Cabin) bevatten standaard de nieuwste generatie verwarming en hoogefficiënte verborgen airconditioning in de prijs. U hoeft niets extra te installeren: ze komen klaar om aan te sluiten op het elektriciteitsnet. De overige modellen (El Gorrión, El Halcón, El Águila, El Cuco, El Martín) zijn voorbereid voor klimaatinstallatie: elektrische voorinstallatie, kanalen en gereserveerde locatie. U kunt kiezen uit: conventionele split airconditioning (meest economische optie), lucht-water warmtepomp (maximale efficiëntie, verwarmen en koelen), vloerverwarming (premium comfort, ideaal voor grote huizen), of gecentraliseerd VRV/VRF systeem (voor kantoren en grote oppervlakken). Wij adviseren u over de beste optie volgens uw klimaat en gebruik."
+      },
+      "q36": {
+        "question": "Wat is de kwaliteit van de stalen structuur van modulaire woningen?",
+        "answer": "De structuur van al onze huizen is van hoogwaardig gegalvaniseerd staal. De minimale dikte is 2mm in de hoofdprofielen, oplopend tot 3mm bij verbindingen en lastpunten. Thermisch verzinken (zink) beschermt het staal minstens 50 jaar zonder onderhoud tegen corrosie. De structuur is berekend om sneeuwlasten tot 150 kg/m², winden tot 120 km/u en aardbevingen volgens Europese voorschriften te dragen. Modules worden verbonden met AISI 304 roestvrijstalen bevestigingsmaterialen en versterkte ankerplaten. Het geschatte gewicht van een basismodule (15 m²) is 2.500 kg, wat stabiliteit en robuustheid garandeert. De structuur voldoet aan EN 1090 normen voor metaalstructuurfabricage."
+      },
+      "q37": {
+        "question": "Hoe is de akoestische isolatie in NIDO45-woningen?",
+        "answer": "De akoestische isolatie van onze modulaire woningen is vergelijkbaar met of beter dan die van een kwaliteits traditionele woning. Sandwichpanelen met steenwol of polyurethaan bieden akoestische reductie van 40-50 dB in wanden en dak. Dubbel glas ramen met kamer verminderen buitengeluid met 30-40 dB. Tussen aangrenzende modules overschrijdt akoestische isolatie 45 dB, voldoend aan CTE-DB-HR geluidsreductievoorschriften. Voor projecten met speciale eisen (opnamestudio's, vergaderruimtes, woningen nabij spoorlijnen of luchthavens), bieden wij versterkte akoestische isolatieoplossingen met extra lagen hoogwaardige steenwol en specifieke akoestische membranen."
+      },
+      "q38": {
+        "question": "Welke keuken- en badkameropties zijn inbegrepen in NIDO45-woningen?",
+        "answer": "Keukens en badkamers variëren naar model en afwerkingsniveau. Standaard afwerking: keukenmeubels in wit of hout melamine, kunstgraniet werkblad, roestvrijstalen spoelbak, verchroomde eengreepskranen. Badkamer met acryl douchebak, gehard glas douchewand, wit porseleinen sanitair en verchroomde kranen. Premium afwerking: gelakte of massief houten keukenmeubels, Silestone kwarts of natuurgraniet werkblad, merkapparatuur (optie Bosch, Siemens of vergelijkbaar), designer kranen. Badkamer met extra platte hars douchebak, vaste glazen douchewand, zwevend sanitair en mat zwarte of gouden kranen. El Flamenco (Apple Cabin) en El Colibrí (Space Cabin) bevatten standaard uitgeruste keuken met apparatuur. El Colibrí voegt het exclusieve Smart Toilet met Japanse technologie toe."
+      },
+      "q39": {
+        "question": "Weerstaan NIDO45 modulaire woningen extreme hitte en kou goed?",
+        "answer": "Ja, onze huizen zijn ontworpen voor alle Spaanse klimaten. In gebieden met intense hitte (Andalusië, Murcia, Canarische Eilanden) houden 75-100mm steenwol isolatie en zonweringsramen het interieur koel met minimaal airconditioningverbruik. In koude gebieden (Castilië, Aragón, berggebieden) houdt dezelfde thermische isolatie de binnenwarmte vast, waardoor de verwarmingsvraag tot 60% wordt verminderd vergeleken met een traditionele woning. De huizen voldoen aan CTE-eisen voor alle Spaanse klimaatzones (A4 tot E1). Voor extreme locaties (hooggebergte met frequente sneeuwval) versterken wij het dak voor extra sneeuwlasten. Energiecertificering A of B garandeert maximaal comfort met minimaal verbruik."
+      },
+      "q40": {
+        "question": "Kan ik zonnepanelen, warmtepomp of andere duurzame systemen installeren?",
+        "answer": "Ja, al onze huizen zijn compatibel met hernieuwbare energie en duurzaamheidssystemen. Fotovoltaïsche zonnepanelen: het platte dak van de modules is ideaal voor installatie van zonnepanelen. Wij bevelen zuidelijke oriëntatie aan en berekenen de optimale helling volgens uw locatie. Warmtepomp: lucht-water warmtepomp voor verwarming, koeling en warm water met maximale efficiëntie (COP 4-5). Compatibel met vloerverwarming of lage temperatuur radiatoren. Zonneboiler: panelen voor warm water, ideaal gecombineerd met warmtepomp. Opslagbatterijen: Tesla Powerwall of vergelijkbare systemen voor nachtelijk eigenverbruik. Slim beheer: domotica om energieverbruik te optimaliseren, klimaatprogrammering en real-time monitoring. Wij adviseren u over subsidies en toelagen die in uw regio beschikbaar zijn voor hernieuwbare energie-installaties."
+      },
+      "q41": {
+        "question": "Zijn de wanden van basismodules stootbestendig? Kan de plaatdikte worden verhoogd?",
+        "answer": "Ja, de sandwichpanelen van onze basismodules (El Gorrión, El Halcón, El Águila, El Martín) zijn ontworpen om dagelijks gebruik en kleine stoten te weerstaan. De standaard dikte van de buitenste gegalvaniseerde stalen plaat is 0,3 mm, voldoende voor normaal residentieel gebruik. Echter, voor toepassingen die grotere stootbestendigheid vereisen (gebieden met veel verkeer, commercieel gebruik, magazijnen, werkplaatsen of locaties blootgesteld aan veeleisendere omstandigheden), bieden wij de optie om de plaatdikte te verhogen tot 0,5 mm. Deze 0,5 mm plaat is extreem bestendig en weerstaat aanzienlijk grotere stoten zonder deuken of vervormingen. De extra kosten zijn minimaal en wij bevelen deze optie vooral aan voor: kantoren met veel voetgangers, opslagmodules, bouwketen, lichte industriële faciliteiten, of woningen in gebieden met risico op intense hagel. Raadpleeg ons technisch team om te beoordelen welke plaatdikte het meest geschikt is voor uw project."
+      },
+      "q42": {
+        "question": "Wat dekt de garantie precies en wie is verantwoordelijk bij gebreken?",
+        "answer": "De commerciële garantie van NIDO45 dekt: 3 jaar op de hoofdstructuur (stalen frame, verbindingen, dak) en 1 jaar op componenten (ramen, deuren, elektrische en sanitaire installaties, afwerkingen). Tijdens het zeevervoer (China-Algeciras) is de verzekering van de internationale vervoerder verantwoordelijk. Tijdens het landvervoer (Algeciras-perceel) is de aansprakelijkheidsverzekering van de vervoerder verantwoordelijk. Tijdens montage en installatie is de aansprakelijkheidsverzekering van de installateur verantwoordelijk (minimaal 300.000 EUR dekking, 1 jaar na installatie geldig). Voor fabricagefouten die niet gerelateerd zijn aan transport of installatie, is NIDO45 direct als fabrikant verantwoordelijk. Tip: fotografeer de staat van de modules bij het lossen en aan het begin van de montage om de oorsprong van schade te documenteren. Bewaar altijd de aankoopdocumentatie en het garantiecertificaat dat wij u overhandigen."
+      },
+      "q43": {
+        "question": "Kan ik een modulaire woning verzekeren als hoofdverblijf? Welke maatschappijen dekken het?",
+        "answer": "Ja, modulaire woningen ingeschreven in het Kadaster zijn verzekerbaar als elke conventionele woning. De belangrijkste Spaanse verzekeraars (Mapfre, Allianz, AXA, Zurich, Mutua Madrileña, Línea Directa, onder andere) bieden woningpolissen voor geprefabriceerde modulaire woningen. Belangrijk is dat het huis heeft: bewoonbaarheidscertificaat of eerste bewoningvergunning, inschrijving in het Kadaster (of minstens notariële akte), en opleveringscertificaat indien een vergunning vereist was. De verzekering dekt dezelfde risico's als een traditionele woning: brand, diefstal, waterschade, aansprakelijkheid, atmosferische fenomenen, enz. De poliskosten zijn vergelijkbaar met die van een conventionele woning van dezelfde oppervlakte en locatie. Voor niet-ingeschreven modules (niet-residentieel, tijdelijk of bijgebouw gebruik) bestaan specifieke verzekeringspolissen voor bijgebouwen of roerende goederen. Wij verstrekken alle benodigde documentatie om uw verzekering probleemloos af te sluiten."
+      },
+      "q44": {
+        "question": "Bieden jullie eigen financiering, leasing of gespreide betaling?",
+        "answer": "Ja, wij bieden verschillende flexibele financieringsopties aangepast aan elke klant. NIDO45 gespreide betaling: directe financiering zonder bank tussenpersonen. Aanbetaling van 30-40% en rest in maandelijkse termijnen over 12-36 maanden. Rentevrij op korte termijnen (tot 12 maanden). Verlaagde rente op lange termijnen. Leasing of huur: ideaal voor bedrijven en zelfstandigen. Maandelijkse betalingen fiscaal aftrekbaar. Koopoptie aan einde contract of verlenging. Beschikbaar voor kantoren, commerciële ruimtes en huurwoningen. Bankfinanciering: wij werken samen met financiële instellingen die het modulaire product kennen. Wij helpen u met documentatie en het aanvraagproces. Mogelijkheid tot hypotheek als het huis als onroerend goed is ingeschreven. Fasebetaling: voor grote projecten (landhuizen, multi-module complexen) bieden wij gefaseerde betaling naar fabricagevoortgang: 30% bij bestelling, 40% in fabriek, 30% bij levering. Raadpleeg ons commercieel team voor de optie die het beste bij uw financiële situatie past."
+      },
+      "q45": {
+        "question": "Hoeveel jaar gaat een NIDO45 modulaire woning mee? Wat is de levensduur?",
+        "answer": "De levensduur van onze modulaire woningen is vergelijkbaar met die van een kwaliteits traditionele woning: tussen 50 en 100 jaar met goed onderhoud. De gegalvaniseerde stalen structuur is minstens 50 jaar zonder behandeling beschermd tegen corrosie. Sandwichpanelen behouden hun isolerende eigenschappen gedurende de hele levensduur van de woning. PVC of aluminium ramen met thermische onderbreking hebben een levensduur van 30-40 jaar. Binnen- en buitenafwerkingen vereisen hetzelfde onderhoud als elk huis: herschilderen elke 10-15 jaar, controleren van voegen en afdichtingen elke 5-10 jaar, onderhoud van installaties volgens voorschriften. De sleutel tot levensduur is de kwaliteit van materialen (gegalvaniseerd staal, steenwol, high-end PVC) en basis preventief onderhoud. Veel kwaliteits prefab huizen gebouwd 40-50 jaar geleden zijn vandaag nog in perfect gebruik. Onze huizen zijn ontworpen om het thuis van meerdere generaties te zijn."
+      },
+      "q46": {
+        "question": "Kan ik mijn modulaire woning naar een ander perceel verplaatsen? Is het demonteerbaar en verplaatsbaar?",
+        "answer": "Het hangt af van het model. Flat pack modules (El Gorrión, El Halcón, El Águila, El Martín): JA ze zijn demonteerbaar en verplaatsbaar. Het geschroefde paneelsysteem maakt het demonteren van het huis, transporteren en opnieuw monteren op een andere locatie mogelijk. Het omgekeerde proces van montage duurt ongeveer twee keer zo lang. Geschatte kosten: transport + arbeid voor demontage en montage (raadplegen naar afstand en complexiteit). Uitklapbare huizen (El Cuco): JA ze zijn verplaatsbaar. Als zelfdragende eenheden op chassis kunnen ze op vrachtwagen worden geladen en compleet worden verplaatst als toegang het toelaat. Zo niet, vouwen ze hydraulisch en worden getransporteerd zoals ze aankwamen. Apple Cabin (El Flamenco) en Space Cabin (El Colibrí): JA ze zijn verplaatsbaar. Het zijn complete modules transporteerbaar over de weg. Ze worden losgekoppeld van nutsvoorzieningen en geladen op dieplader. Belangrijk: als het huis is ingeschreven in het Kadaster als onroerend goed, omvat verplaatsing kadaster- en bestemmingsplanprocedures op beide locaties. Wij adviseren u over het volledige proces."
+      },
+      "q47": {
+        "question": "Hoe wordt het huis aangesloten op elektriciteit, water en riolering als het terrein geen aansluitingen heeft?",
+        "answer": "Als uw terrein geen nutsaansluitingen heeft, zijn er verschillende oplossingen. Elektriciteit: Optie 1 - Elektrische aansluiting aanvragen bij het distributiebedrijf (Endesa, Iberdrola, enz.). Gebruikelijke termijn 2-4 maanden. Kosten naar afstand tot dichtstbijzijnde aansluitpunt. Optie 2 - Geïsoleerde fotovoltaïsche zonne-installatie met batterijen voor 100% eigenverbruik. Ideaal voor afgelegen locaties. Optie 3 - Generator als tijdelijke of back-up oplossing. Water: Optie 1 - Aansluiting op gemeentelijk netwerk aanvragen indien aanwezig in het gebied. Optie 2 - Eigen put met dompelpomp (vereist vergunning van Waterbeheer). Optie 3 - Watertank met periodieke aanvoer per tankwagen. Riolering: Optie 1 - Aansluiting op gemeentelijk rioolnetwerk indien aanwezig. Optie 2 - Septische tank met biologisch filter (meest voorkomend op landelijke percelen). Optie 3 - Compacte totaaloxidatie-zuiveringsinstallatie voor geautoriseerde lozing. Wij helpen u de beschikbare opties op uw terrein te evalueren en de benodigde installaties te dimensioneren voordat wij uw huis fabriceren."
+      },
+      "q48": {
+        "question": "Heeft El Cuco (uitklapbaar huis) CTE-certificering? Kan ik er legaal in wonen?",
+        "answer": "Ja, El Cuco heeft nu volledige CTE (Spaans Bouwbesluit) certificering. Dit betekent dat alle 7 NIDO45 modellen voldoen aan de meest veeleisende Spaanse bouwvoorschriften. Wat dit voor u betekent: U kunt een bouwvergunning krijgen voor permanent residentieel gebruik in elke gemeente. Het huis is hypotheekbaar, inschrijfbaar in het Kadaster en legaal voor jaarrond wonen. U kunt zich inschrijven en toegang krijgen tot alle gemeentelijke diensten. El Cuco behoudt zijn unieke voordelen: hydraulisch uitklapbaar systeem dat de ruimte in minuten verdrievoudigt, optie voor installatie op chassis zonder vaste fundering (overleg met uw gemeente) en snelle installatie. Met volledige CE + ISO + CTE certificering biedt El Cuco dezelfde juridische garanties als onze flat pack modellen en Apple Cabin, gecombineerd met het gemak van een uitklapbaar systeem."
+      }
+    }
+  },
+  "contact": {
+    "title": "Start Uw Project Vandaag",
+    "subtitle": "Contact",
+    "description": "Wij beantwoorden uw vragen vrijblijvend. Wij adviseren u over het terrein, procedures en het ideale model voor u.",
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "location": "Hoofdkantoor & Modelwoningen",
+    "locationValue": "El Capitán, Almayate (Málaga)",
+    "cta": "Informatie Aanvragen",
+    "company": {
+      "title": "Bedrijfsinformatie",
+      "importer": "Importerend bedrijf",
+      "importerValue": "Isla Sofia SLU",
+      "nif": "Btw-nummer",
+      "nifValue": "B26607044",
+      "headquarters": "Hoofdkantoor",
+      "headquartersValue": "El Capitán, Almayate (Málaga)",
+      "showroom": "Modelwoningen",
+      "showroomValue": "Beschikbaar voor bezoek - Bekijk locatie",
+      "manufacturer": "Fabrikant",
+      "manufacturerValue": "De grootste en beste fabriek ter wereld voor dit type woningen, gevestigd in China.",
+      "certifications": "Certificeringen",
+      "certificationsValue": "Alle producten voldoen aan de huidige CE- en ISO-voorschriften",
+      "warranty": "Garantie",
+      "warrantyValue": "3 jaar hoofdstructuur · 1 jaar componenten"
+    }
+  },
+  "footer": {
+    "rights": "NIDO45. Exclusieve distributeur Andalusië, Canarische Eilanden en Balearen."
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "nav": {
+    "models": "Modelos",
+    "advantages": "Ventajas",
+    "faq": "FAQ",
+    "contact": "Contacto",
+    "catalog": "Catálogo",
+    "requestQuote": "Solicitar Presupuesto",
+    "downloadCatalog": "Descargar Catálogo"
+  },
+  "hero": {
+    "title": "Tu Nido en 45 Días",
+    "subtitle": "New Generation Homes certificadas CE+ISO. Superficie ilimitada combinando módulos. Envío en 45 días, instalación en solo unas horas.",
+    "cta": "Ver Modelos",
+    "ctaSecondary": "Contactar",
+    "badge1": "Envío en 45 días",
+    "badge2": "Superficie ilimitada",
+    "badge3": "Desde 6.000€ por módulo"
+  },
+  "models": {
+    "title": "Nuestros Modelos",
+    "subtitle": "Catálogo",
+    "description": "Siete creaciones exclusivas, diseñadas para quienes buscan algo extraordinario. Arquitectura modular de vanguardia con certificación CTE completa en los 7 modelos — hipotecables, empadronables y legales para vivir todo el año.",
+    "speedTitle": "más rápido que construcción tradicional",
+    "profitTitle": "más rentable que obra convencional",
+    "daysTitle": "días hasta tu hogar",
+    "manufacturingNote": "Precisión industrial de la mayor fábrica del mundo especializada en viviendas modulares. Tu casa viaja 45 días por mar hasta España, seguida de transporte premium puerta a puerta. Instalación profesional en cuestión de horas. De la línea de producción a estrenar tu hogar: aproximadamente 60 días.",
+    "viewMore": "Ver más",
+    "askPrice": "Consultar",
+    "basicModule": {
+      "name": "El Gorrión",
+      "subtitle": "Módulo Básico 15 m²",
+      "tagline": "Pequeño, ágil, va a donde tú vayas.",
+      "description": "Módulo de 15 m² con baño integrado. Estructura de acero galvanizado de 2mm. Aislamiento térmico de lana de roca de 50mm. Ventanas de doble cristal con rotura de puente térmico. Paneles sandwich con acabado exterior a elegir (blanco, gris o efecto madera). Suelos vinílicos de alta resistencia. Montaje en 4-6 horas sin maquinaria pesada. Sistema flat pack que permite combinar módulos sin límite de superficie. Preparado para instalación de calentador y aire acondicionado.",
+      "features": ["15 m²", "Baño incluido", "Flat Pack"],
+      "specs": {
+        "surface": "15 m²",
+        "dimensions": "6m x 3m x 2.8m",
+        "structure": "Acero galvanizado 2mm",
+        "insulation": "Lana de roca 50mm",
+        "windows": "Doble cristal, rotura puente térmico",
+        "exterior": "Panel sandwich (blanco/gris/madera)",
+        "floor": "Vinílico alta resistencia",
+        "climate": "Preparado calentador + A/A",
+        "assembly": "4-6 horas",
+        "certification": "CE + ISO + CTE"
+      },
+      "price": "Desde 6.000€"
+    },
+    "casa90": {
+      "name": "El Halcón",
+      "subtitle": "Casa 90 m² - 3 Dormitorios",
+      "tagline": "Potente y equilibrado.",
+      "description": "Casa completa de 90 m² construida con 6 módulos básicos combinados. 3 dormitorios amplios, salón-comedor diáfano con muro cortina de cristal y cocina abierta. Estructura de acero galvanizado de 2mm. Aislamiento térmico premium de lana de roca de 75mm en paredes y 100mm en cubierta. Ventanas panorámicas de doble cristal con aislamiento acústico. Múltiples acabados disponibles para paredes (panel sandwich, madera sintética, revestimiento cerámico) y suelos (vinílico, cerámico, parquet). Preparado para instalación de calentador y aire acondicionado.",
+      "features": ["90 m²", "3 dormitorios", "6 módulos"],
+      "specs": {
+        "surface": "90 m²",
+        "modules": "6 módulos básicos",
+        "bedrooms": "3 dormitorios",
+        "structure": "Acero galvanizado 2mm",
+        "insulation": "Lana de roca 75-100mm",
+        "windows": "Doble cristal panorámico",
+        "exterior": "Personalizable",
+        "floor": "Vinílico/cerámico/parquet",
+        "climate": "Preparado calentador + A/A",
+        "certification": "CE + ISO + CTE"
+      },
+      "price": "Desde 36.000€"
+    },
+    "mansion": {
+      "name": "El Águila",
+      "subtitle": "Mansión 150 m² - Villa de Lujo",
+      "tagline": "La cima del catálogo.",
+      "description": "Villa de lujo de 150 m² en 2 plantas con configuración en C y patio interior. 10 módulos básicos combinados. 4-5 dormitorios con baño en suite, salón de doble altura y cocina con isla. Estructura de acero galvanizado reforzado. Aislamiento térmico de máxima eficiencia con lana de roca de 100mm. Ventanas panorámicas de doble cristal con control solar. Acabados premium personalizables: fachada ventilada, piedra natural, madera noble. Suelos de parquet de alta gama o porcelánico gran formato. Preparado para instalación de calentador, aire acondicionado, suelo radiante y domótica.",
+      "features": ["150 m²", "2 plantas", "10 módulos"],
+      "specs": {
+        "surface": "150 m²",
+        "modules": "10 módulos básicos",
+        "floors": "2 plantas",
+        "bedrooms": "4-5 dormitorios",
+        "structure": "Acero galvanizado reforzado",
+        "insulation": "Lana de roca 100mm",
+        "windows": "Doble cristal con control solar",
+        "exterior": "Premium personalizable",
+        "floor": "Parquet/porcelánico gran formato",
+        "climate": "Prep. calentador + A/A + suelo radiante",
+        "certification": "CE + ISO + CTE"
+      },
+      "price": "Desde 60.000€"
+    },
+    "offices": {
+      "name": "El Martín",
+      "subtitle": "Oficinas Modulares",
+      "tagline": "Profesional, eficaz y polivalente.",
+      "description": "Edificios de oficinas profesionales de 1 a 3 plantas. Espacios diáfanos configurables con salas de reuniones equipadas. Fachadas de muro cortina de cristal. Estructura de acero galvanizado de alta resistencia. Aislamiento térmico y acústico premium con lana de roca de 75mm para máximo confort laboral. Ventanas de doble cristal con control solar. Acabados corporativos personalizables. Suelos técnicos elevados opcionales. Preparado para instalación de aire acondicionado centralizado y sistemas de climatización VRV.",
+      "features": ["Flat Pack", "Salas reuniones", "Fachada cristal"],
+      "specs": {
+        "surface": "30-240+ m²",
+        "floors": "1-3 plantas",
+        "structure": "Acero galvanizado alta resistencia",
+        "insulation": "Lana de roca 75mm",
+        "windows": "Muro cortina doble cristal",
+        "exterior": "Fachada cristal + panel",
+        "floor": "Técnico elevado opcional",
+        "climate": "Prep. A/A centralizado + VRV",
+        "certification": "CE + ISO"
+      },
+      "price": "Desde 12.000€"
+    },
+    "cuco36": {
+      "name": "El Cuco 36",
+      "subtitle": "Casa Expandible 36 m²",
+      "tagline": "Compacto y funcional.",
+      "description": "Modelo compacto de 36 m² con sistema expandible hidráulico. 2 dormitorios, salón-cocina y baño completo. Ideal para parejas o segunda residencia. Estructura autoportante sobre chasis propio. Aislamiento térmico de poliuretano de alta densidad de 60mm. Ventanas de doble cristal con persiana integrada.",
+      "features": ["36 m²", "2 dormitorios", "Hidráulico"],
+      "specs": {
+        "surface": "36 m²",
+        "bedrooms": "2 dormitorios",
+        "system": "Expansión hidráulica",
+        "structure": "Autoportante sobre chasis",
+        "insulation": "Poliuretano 60mm",
+        "windows": "Doble cristal + persiana",
+        "exterior": "Panel sandwich personalizable",
+        "floor": "Vinílico resistente al agua",
+        "climate": "Preparado calentador + A/A",
+        "certification": "CE + ISO + CTE"
+      },
+      "price": "Desde 17.500€"
+    },
+    "cuco68": {
+      "name": "El Cuco 68",
+      "subtitle": "Casa Expandible 68 m²",
+      "tagline": "Espacio familiar.",
+      "description": "Modelo familiar de 68 m² con sistema expandible hidráulico. 2-3 dormitorios, amplio salón-cocina y baño completo. Ideal para familias que buscan espacio y comodidad. Estructura autoportante sobre chasis propio. Aislamiento térmico de poliuretano de alta densidad de 60mm. Ventanas de doble cristal con persiana integrada.",
+      "features": ["68 m²", "2-3 dormitorios", "Hidráulico"],
+      "specs": {
+        "surface": "68 m²",
+        "bedrooms": "2-3 dormitorios",
+        "system": "Expansión hidráulica",
+        "structure": "Autoportante sobre chasis",
+        "insulation": "Poliuretano 60mm",
+        "windows": "Doble cristal + persiana",
+        "exterior": "Panel sandwich personalizable",
+        "floor": "Vinílico resistente al agua",
+        "climate": "Preparado calentador + A/A",
+        "certification": "CE + ISO + CTE"
+      },
+      "price": "Desde 25.000€"
+    },
+    "appleCabin": {
+      "name": "El Flamenco",
+      "subtitle": "Apple Cabin - Vivienda de Lujo",
+      "tagline": "Elegante y estilizado.",
+      "description": "Viviendas de lujo llave en mano con diseño contemporáneo y líneas fluidas. Módulos de 20, 30 y 40 pies combinables sin límite. Estructura de acero galvanizado premium. Aislamiento térmico de lana de roca de 75mm. Grandes ventanales panorámicos de doble cristal con rotura de puente térmico. Acabados de lujo: fachada efecto madera o blanca, suelos de parquet o porcelánico, cocina equipada con electrodomésticos. Calentador y aire acondicionado de serie. Baño completo con ducha de cristal y grifería de diseño.",
+      "features": ["Sin límite", "Llave en mano", "Combinable"],
+      "specs": {
+        "surface": "12.6-37.8+ m²",
+        "modules": "20/30/40 pies combinables",
+        "structure": "Acero galvanizado premium",
+        "insulation": "Lana de roca 75mm",
+        "windows": "Panorámicos doble cristal",
+        "exterior": "Efecto madera o blanco",
+        "floor": "Parquet o porcelánico",
+        "climate": "Calentador + A/A de serie",
+        "kitchen": "Equipada con electrodomésticos",
+        "certification": "CE + ISO + CTE"
+      },
+      "price": "Desde 15.000€"
+    },
+    "spaceCapsule": {
+      "name": "El Colibrí",
+      "subtitle": "Space Cabin Z5/Z7 - High-Tech",
+      "tagline": "Futurista, único y precioso.",
+      "description": "Cápsula espacial de diseño futurista con tecnología de última generación. Modelos Z5 (27 m²) y Z7 (38 m²). Estructura de acero galvanizado con revestimiento exterior de diseño angular. Aislamiento térmico de poliuretano de alta densidad de 80mm para máxima eficiencia energética. Ventanas panorámicas de doble cristal con tratamiento térmico. Iluminación LED ambiental integrada en el marco. Acabados interiores de madera natural y superficies premium. Calentador de última generación y aire acondicionado oculto de alta eficiencia de serie. Smart Toilet con tecnología japonesa incluido.",
+      "features": ["27-38 m²", "Smart Toilet", "High-Tech"],
+      "specs": {
+        "surface": "27 m² (Z5) / 38 m² (Z7)",
+        "design": "Futurista angular",
+        "structure": "Acero galvanizado premium",
+        "insulation": "Poliuretano alta densidad 80mm",
+        "windows": "Panorámicas tratamiento térmico",
+        "interior": "Madera natural + superficies premium",
+        "lighting": "LED ambiental integrado",
+        "climate": "Calentador + A/A oculto de serie",
+        "bathroom": "Smart Toilet tecnología japonesa",
+        "certification": "CE + ISO"
+      },
+      "price": "Desde 36.000€"
+    }
+  },
+  "advantages": {
+    "title": "Por Qué Elegir NIDO45",
+    "subtitle": "Ventajas",
+    "items": {
+      "certified": {
+        "title": "Certificación CE + ISO",
+        "description": "Todas nuestras casas cumplen la normativa europea más exigente, garantizando calidad y seguridad."
+      },
+      "fast": {
+        "title": "Envío en 45 Días",
+        "description": "Fabricación en pocas semanas y envío directo desde fábrica. Tu casa lista en tiempo récord."
+      },
+      "installation": {
+        "title": "Instalación en Horas",
+        "description": "Montaje profesional ultra-rápido. De contenedor a casa habitable en solo unas horas."
+      },
+      "quality": {
+        "title": "Materiales Premium",
+        "description": "Acero galvanizado, aislamiento de alta densidad y acabados resistentes a la intemperie."
+      },
+      "flexible": {
+        "title": "Diseño Flexible",
+        "description": "Múltiples configuraciones y acabados personalizables según tus necesidades."
+      },
+      "support": {
+        "title": "Soporte Integral",
+        "description": "Te asesoramos desde el terreno hasta la instalación final. Siempre a tu lado."
+      }
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes sobre Casas de Nueva Generación",
+    "subtitle": "Resolvemos tus dudas",
+    "description": "Todo lo que necesitas saber sobre casas prefabricadas, permisos, instalación y financiación en España.",
+    "items": {
+      "q1": {
+        "question": "¿Necesito licencia de obra para instalar una casa de nueva generación en España?",
+        "answer": "En suelo urbano con uso residencial, sí. Nuestras casas de nueva generación tienen exactamente la misma validez legal que cualquier construcción tradicional. Se requiere licencia de obra mayor, proyecto técnico visado por arquitecto y licencia de primera ocupación. Una vez inscrita, puedes hipotecarla, venderla y heredarla sin ningún problema. En suelo rústico la normativa varía según comunidad autónoma: Andalucía, Valencia y Murcia son más flexibles; Cataluña y País Vasco son muy restrictivas."
+      },
+      "q2": {
+        "question": "¿Cuánto tiempo tarda todo el proceso desde el pedido hasta entrar a vivir?",
+        "answer": "El plazo total desde la firma hasta las llaves es de 6 a 12 meses, frente a los 18-30 meses de una obra tradicional. Desglose: fabricación en pocas semanas, envío en 45 días, trámites de licencia 1-3 meses (hasta 6 en grandes ciudades), e instalación en horas o días según el modelo. El presupuesto es cerrado desde el día uno, sin sorpresas ni derrames."
+      },
+      "q3": {
+        "question": "¿Qué incluye el precio de una casa de nueva generación NIDO45?",
+        "answer": "El precio incluye la estructura completa de acero galvanizado, aislamiento térmico y acústico premium, instalación eléctrica preparada, carpintería interior y exterior, y acabados estándar. Se presupuestan aparte: transporte marítimo, cimentación o preparación del terreno, conexiones a suministros (agua, luz, saneamiento) y proyecto técnico. El coste por m² construido oscila entre 900 y 1.500 euros todo incluido, frente a 1.800-2.500 euros de obra tradicional."
+      },
+      "q4": {
+        "question": "¿Puedo hipotecar una casa de nueva generación como una vivienda convencional?",
+        "answer": "Sí, una vez inscrita en el Registro de la Propiedad y con cédula de habitabilidad, cualquier banco la trata como una vivienda convencional. Tenemos clientes que la han financiado al 80% sin problemas. La casa se revaloriza con el mercado inmobiliario igual que una vivienda tradicional."
+      },
+      "q5": {
+        "question": "¿Qué tipo de terreno necesito para instalar una casa de nueva generación?",
+        "answer": "El terreno ideal es suelo urbano con uso residencial permitido. Antes de comprar cualquier parcela, solicita el certificado urbanístico al ayuntamiento para confirmar: clasificación del suelo, metros construibles, altura máxima, retranqueos y acceso a servicios. En suelo rústico no protegido, algunas comunidades como Andalucía permiten viviendas aisladas bajo condiciones específicas. En suelo rústico protegido (parques naturales, ZEPA) está prohibido."
+      },
+      "q6": {
+        "question": "¿Qué trámites burocráticos necesito para legalizar mi casa de nueva generación?",
+        "answer": "Los trámites en suelo urbano son: 1) Certificado urbanístico del ayuntamiento, 2) Proyecto técnico visado por arquitecto, 3) Estudio geotécnico del suelo, 4) Licencia de obra mayor, 5) Conexión a servicios, 6) Licencia de primera ocupación, 7) Declaración de obra nueva ante notario, 8) Inscripción en Catastro. Nosotros te acompañamos en todo el proceso."
+      },
+      "q7": {
+        "question": "¿Cuánto cuestan los impuestos y tasas de una casa de nueva generación?",
+        "answer": "Los impuestos son los mismos que para cualquier vivienda: IVA del 10% sobre el precio (vivienda habitual), ICIO municipal del 2-4% del presupuesto, tasa de licencia del 2-6% según municipio, e IAJD del 1-1,5% al declarar la obra nueva. En total, la parte burocrática representa entre un 6% y un 10% sobre el coste de la vivienda."
+      },
+      "q8": {
+        "question": "¿Puedo ampliar mi casa de nueva generación en el futuro?",
+        "answer": "Sí, esa es precisamente una de las grandes ventajas del sistema flat pack: puedes añadir módulos en el futuro si tu terreno y el PGOU municipal lo permiten. La estructura está diseñada para ser combinable horizontal y verticalmente, sin límite de superficie."
+      },
+      "q9": {
+        "question": "¿Qué ventajas tiene una casa de nueva generación frente a la construcción tradicional?",
+        "answer": "Las principales ventajas son: tiempo de construcción de 4-8 semanas tras licencia (vs 12-18 meses), presupuesto cerrado sin sorpresas, certificación energética A con aislamiento superior, fabricación industrial con calidad uniforme, menor impacto medioambiental (menos residuos), y coste por m² entre un 30% y 50% inferior a obra tradicional equivalente."
+      },
+      "q10": {
+        "question": "¿Qué eficiencia energética tienen las casas NIDO45?",
+        "answer": "Nuestras casas alcanzan certificación energética A o B gracias a su aislamiento de alta densidad (lana de roca o poliuretano de 50-100mm), carpintería con rotura de puente térmico y vidrios dobles. El consumo en climatización es un 40-60% inferior a una vivienda tradicional. Son compatibles con instalación de placas solares, aerotermia y sistemas de agua caliente solar. El diseño optimizado minimiza pérdidas térmicas tanto en invierno como en verano."
+      },
+      "q11": {
+        "question": "¿Puedo instalar una casa de nueva generación sin cimentación en suelo rústico?",
+        "answer": "Es una zona gris legal. Las casas expandibles son transportables y, en algunos municipios, si no llevan cimentación fija y se mantienen sobre el chasis original, pueden tratarse como bienes muebles. Esto no está regulado de forma homogénea en España y depende del técnico municipal. Nunca garantizamos esta opción: la informamos como posibilidad a validar caso a caso con el ayuntamiento."
+      },
+      "q12": {
+        "question": "¿Puedo visitar una casa piloto antes de comprar?",
+        "answer": "Sí, tenemos casas piloto disponibles para visita en nuestra sede de El Capitán, Almayate (Málaga). Contacta con nosotros para concertar una visita y ver los modelos en persona."
+      },
+      "q13": {
+        "question": "¿Las casas de nueva generación sirven para vivir todo el año o solo en vacaciones?",
+        "answer": "Nuestras casas están diseñadas para uso permanente como vivienda habitual. Cuentan con aislamiento térmico y acústico de alta densidad, aptas para cualquier clima español, desde el frío de montaña hasta el calor mediterráneo. Cumplen las exigencias del CTE para uso continuado."
+      },
+      "q14": {
+        "question": "¿Cuál es la diferencia entre casa expandible y módulos flat pack?",
+        "answer": "La casa expandible (36-68 m²) llega como un contenedor cerrado que se despliega en obra en pocas horas, ideal para instalación rápida o terrenos sin cimentación fija. Los módulos flat pack (15 m² cada uno) llegan desmontados y se ensamblan en destino, permitiendo configuraciones a medida: desde 1 módulo (estudio) hasta 10+ módulos (mansión de 150 m²). El flat pack ofrece más flexibilidad de diseño; la expandible ofrece más rapidez de instalación."
+      },
+      "q15": {
+        "question": "¿NIDO45 gestiona también la búsqueda de terreno?",
+        "answer": "Sí, te orientamos sobre qué buscar y qué evitar. Ayudamos a identificar parcelas urbanas edificables en tu zona, verificamos el certificado urbanístico con el ayuntamiento antes de comprar, y te acompañamos en todo el proceso desde la parcela hasta las llaves."
+      },
+      "q16": {
+        "question": "¿Qué solera o cimentación necesito para instalar los módulos?",
+        "answer": "Para los módulos flat pack recomendamos una solera de hormigón armado de 10-15 cm de espesor sobre una base de grava compactada de 15-20 cm. Las dimensiones deben ser ligeramente mayores que la planta del módulo (6,2m x 2,7m mínimo para un módulo básico de 15m²). El hormigón debe ser HA-25 con mallazo electrosoldado. Alternativas válidas: plots de hormigón en las esquinas y centro (cada 2-3m), o cimentación perimetral con zapatas corridas. Para terrenos con pendiente o inestables, se recomienda estudio geotécnico previo. Las casas expandibles pueden instalarse sobre su propio chasis sin cimentación fija, o con plots de hormigón para mayor estabilidad. Siempre asesoramos sobre la solución óptima según tu terreno."
+      },
+      "q17": {
+        "question": "¿Qué incluye el precio y qué se presupuesta aparte?",
+        "answer": "El precio base incluye: módulos fabricados con todos los acabados interiores, transporte marítimo desde fábrica hasta puerto español (Algeciras) y despacho de aduanas. Se presupuestan aparte según tu proyecto: transporte terrestre desde puerto hasta tu parcela (varía según distancia y accesibilidad), cimentación y preparación del terreno, montaje e instalación (descarga con grúa, ensamblaje, conexiones), licencia de obra y tasas municipales, acometidas de luz, agua y saneamiento. Te enviamos presupuesto detallado con todas las partidas desglosadas. Así sabes exactamente qué incluye cada concepto y puedes comparar con transparencia."
+      },
+      "q18": {
+        "question": "¿Puedo comprarlo y montarlo yo mismo?",
+        "answer": "Sí. Nuestros módulos están diseñados para un ensamblaje sencillo. Si eliges la autoinstalación, te entregamos el manual técnico completo y ofrecemos asistencia por videollamada sin coste. Necesitarás: al menos 2-3 personas para el montaje, grúa o toro elevador para posicionar los módulos, electricista certificado REBT para la instalación eléctrica (obligatorio por normativa española), y fontanero habilitado si la conexión a la red requiere certificación municipal. Las conexiones a suministros siempre deben realizarlas profesionales con la titulación correspondiente."
+      },
+      "q19": {
+        "question": "¿Ofrecéis servicio de instalación completo?",
+        "answer": "Sí. Trabajamos con instaladores homologados en Andalucía, Canarias y Baleares. El servicio de instalación completo incluye: descarga y posicionamiento con grúa, montaje y ensamblaje de la estructura, conexión eléctrica (instalador REBT certificado), conexión de fontanería y saneamiento, y revisión final y entrega con acta de recepción. Inclúyelo en tu solicitud de presupuesto y te lo ofrecemos todo en un único precio."
+      },
+      "q20": {
+        "question": "¿Cuánto dura la instalación?",
+        "answer": "El montaje es rápido. Tiempos orientativos según modelo: Módulo individual (15 m²) medio día de montaje estructural; Casa Expandible (36-68 m²) 1 día para desplegar la estructura; Casa multimódulo (90-150 m²) 1 a 2 días de montaje; conexiones eléctricas y fontanería 1 a 2 días adicionales. Una instalación completa con suministros suele estar lista en 2 a 4 d��as. El plazo exacto depende de la preparación previa del terreno."
+      },
+      "q21": {
+        "question": "¿Es accesible para personas con movilidad reducida?",
+        "answer": "Sí. Nuestras casas son totalmente personalizables en cuanto a accesibilidad. A petición del cliente podemos incluir: puerta de entrada más ancha (hasta 90 cm de paso libre) para facilitar el acceso en silla de ruedas, rampa de acceso en sustitución de escalón de entrada, puertas interiores adaptadas (mínimo 80 cm de paso), baño adaptado con plato de ducha enrasado y barras de apoyo, y distribución interior sin barreras arquitectónicas. Indícanos tus necesidades al solicitar presupuesto y adaptamos el módulo sin coste adicional significativo."
+      },
+      "q22": {
+        "question": "¿Qué cubre exactamente la garantía y quién responde si algo se daña?",
+        "answer": "La garantía del producto NIDO45 cubre 3 años en estructura principal y 1 año en componentes (ventanas, puertas, instalaciones). Según el momento del daño, quién responde cambia: durante el transporte marítimo (China-Algeciras) cubre el seguro del transportista; durante el transporte terrestre (Algeciras-parcela) responde la RC del transportista; durante el montaje e instalación responde la RC del instalador (mínimo 300.000 euros, cubierto 1 año tras la instalación). Consejo: fotografiar el estado de los módulos en la descarga y al inicio del montaje para documentar el origen de cualquier daño. Para daños estructurales no relacionados con transporte ni instalación, se aplica la garantía del fabricante gestionada a través de NIDO45."
+      },
+      "q23": {
+        "question": "¿Puedo personalizar los acabados interiores y exteriores?",
+        "answer": "Sí. Ofrecemos varias opciones de personalización: acabado exterior (panel sandwich blanco, gris, madera sintética o revestimiento a medida), suelos interiores (vinílico, cerámico o parquet), cocina y baño (muebles y sanitarios a elegir), carpintería (PVC blanco, antracita o imitación madera) y distribución interior (tabiques móviles, puertas correderas). Te enviamos catálogo de acabados con el presupuesto. Los cambios sobre el estándar pueden afectar al plazo de fabricación."
+      },
+      "q24": {
+        "question": "¿Qué mantenimiento requiere una casa de nueva generación?",
+        "answer": "El mantenimiento es mínimo y similar al de cualquier vivienda: revisión anual de juntas y sellados, limpieza de canalones, comprobación de instalaciones eléctricas y fontaner��a. La estructura de acero galvanizado no requiere tratamiento adicional durante al menos 25 años. Recomendamos repintar el exterior cada 10-15 años si se desea mantener el aspecto original. No hay riesgo de termitas, humedades por capilaridad ni problemas estructurales típicos de obra tradicional."
+      },
+      "q25": {
+        "question": "¿Hacéis envíos a Canarias, Baleares u otros países?",
+        "answer": "Sí. Enviamos a toda España peninsular, Canarias y Baleares. El transporte marítimo a islas tiene un coste adicional que detallamos en el presupuesto. También exportamos a Portugal, Francia, Italia y otros países europeos. El proceso de importación y aduanas lo gestionamos nosotros en todos los casos. Para destinos fuera de la UE, consultar condiciones específicas."
+      },
+      "q26": {
+        "question": "¿Cuáles son las especificaciones técnicas del módulo básico (El Gorrión)?",
+        "answer": "Dimensiones: 6m x 3m x 2.8m (largo x ancho x alto). Superficie útil: aproximadamente 15 m² por módulo. Estructura de acero galvanizado de 2mm de espesor. Paneles sandwich de 50mm con aislamiento EPS. Peso aproximado: 2.500 kg por módulo. Tiempo de montaje: 4-6 horas por módulo con herramientas básicas. Certificación CE + ISO + CTE. Garantía de 3 años en estructura."
+      },
+      "q27": {
+        "question": "¿Qué formas de pago aceptáis?",
+        "answer": "Aceptamos transferencia bancaria y financiación. El proceso habitual de pago es: 30% de reserva al confirmar el pedido, 40% a la salida de fábrica, 20% a la llegada a tu parcela, y 10% restante a la entrega final. Para proyectos de mayor envergadura, ofrecemos planes de pago personalizados. Todas las transacciones se realizan a través de cuentas bancarias españolas verificadas."
+      },
+      "q28": {
+        "question": "¿Ofrecéis financiación para la compra?",
+        "answer": "Sí, colaboramos con entidades financieras que ofrecen préstamos personales para la compra del módulo. Una vez la casa esté inscrita en el Registro de la Propiedad, puedes convertirlo en hipoteca convencional con mejores condiciones. También asesoramos sobre ayudas y subvenciones disponibles en tu comunidad autónoma para vivienda eficiente o rural."
+      },
+      "q29": {
+        "question": "¿Necesito un seguro especial para mi casa modular?",
+        "answer": "No necesitas un seguro especial. Una vez inscrita en el Registro de la Propiedad, cualquier aseguradora la cubre como vivienda convencional: seguro de hogar multirriesgo, responsabilidad civil, incendio, robo, etc. Durante el transporte y la instalación, las mercancías están cubiertas por los seguros del transportista e instalador. Te recomendamos contratar el seguro de hogar antes de la entrega final."
+      },
+      "q30": {
+        "question": "¿Puedo revender mi casa modular? ¿Se revaloriza?",
+        "answer": "Sí, puedes venderla como cualquier inmueble una vez inscrita en el Registro. Las casas modulares de calidad se revalorizan con el mercado inmobiliario igual que las tradicionales. De hecho, la eficiencia energética certificada (clase A o B) y los bajos costes de mantenimiento son argumentos de venta muy valorados actualmente. Tenemos clientes que han vendido su casa modular con plusvalía."
+      },
+      "q31": {
+        "question": "¿Qué materiales se utilizan para el aislamiento térmico de las casas NIDO45?",
+        "answer": "Utilizamos materiales de máxima calidad para el aislamiento térmico. En los módulos flat pack (El Gorrión, El Halcón, El Águila) el estándar es panel sandwich con lana de roca de 50mm de espesor. Opcionalmente, para climas más extremos o mayor eficiencia energética, ofrecemos versiones con 75mm o 100mm bajo pedido. La lana de roca es incombustible, no absorbe humedad y mantiene sus propiedades aislantes durante toda la vida útil de la vivienda. En las casas expandibles (El Cuco) y las cápsulas espaciales (El Colibrí) utilizamos poliuretano de alta densidad de 60-80mm, que ofrece el máximo rendimiento térmico en espacios reducidos. Todos nuestros aislamientos cumplen la normativa CTE de ahorro energético y permiten alcanzar certificación energética A o B."
+      },
+      "q32": {
+        "question": "¿Qué tipo de ventanas llevan las casas modulares NIDO45?",
+        "answer": "Todas nuestras casas incorporan ventanas de doble cristal con cámara de aire o gas argón para máximo aislamiento térmico y acústico. Los perfiles son de PVC o aluminio con rotura de puente térmico, evitando condensaciones y pérdidas de calor. Las ventanas panorámicas de los modelos Apple Cabin (El Flamenco) y Space Cabin (El Colibrí) incluyen tratamiento térmico especial con control solar para reducir el calentamiento en verano. Opciones disponibles: apertura oscilobatiente, corredera, fija o abatible. Colores de carpintería: blanco, antracita, gris, imitación madera. El aislamiento acústico de nuestras ventanas reduce el ruido exterior entre 30-40 dB, ideal para ubicaciones cercanas a carreteras o zonas urbanas."
+      },
+      "q33": {
+        "question": "¿Qué opciones de acabados exteriores hay disponibles?",
+        "answer": "Ofrecemos múltiples acabados exteriores para personalizar tu casa modular. Acabado estándar: panel sandwich en blanco, gris antracita o crema. Acabado madera sintética: imitación madera natural resistente a la intemperie, sin mantenimiento. Acabado premium: revestimiento cerámico ventilado, piedra natural reconstituida, o composite de alta gama. Colores RAL: cualquier color de la carta RAL bajo pedido. Para el modelo Apple Cabin (El Flamenco) destacan los acabados blancos o efecto madera natural con líneas curvas distintivas. Para El Colibrí (Space Cabin) ofrecemos acabados metálicos futuristas con iluminación LED integrada. Todos los acabados exteriores están diseñados para resistir la intemperie mediterránea durante al menos 15-20 años sin mantenimiento significativo."
+      },
+      "q34": {
+        "question": "¿Qué opciones de suelos interiores están disponibles?",
+        "answer": "Disponemos de tres categorías de suelos interiores. Suelo vinílico de alta resistencia (estándar): resistente al agua, fácil limpieza, múltiples acabados (madera, piedra, liso). Ideal para baños, cocinas y zonas de alto tránsito. Suelo cerámico o porcelánico: máxima durabilidad, gran variedad de diseños, ideal para climas cálidos. Parquet o tarima flotante: acabado premium en madera natural o sintética de alta calidad, calidez y confort. Para los modelos de lujo como El Águila (mansión) y El Flamenco (Apple Cabin) recomendamos porcelánico de gran formato o parquet de roble. Para El Colibrí (Space Cabin) los suelos vinílicos de diseño premium complementan el acabado futurista. Todos los suelos se instalan sobre una base nivelada con aislamiento acústico para evitar transmisión de ruidos de impacto."
+      },
+      "q35": {
+        "question": "¿Las casas vienen con calentador y aire acondicionado incluido?",
+        "answer": "Depende del modelo. El Colibrí (Space Cabin) y El Flamenco (Apple Cabin) incluyen calentador de última generación y aire acondicionado oculto de alta eficiencia de serie en el precio. No necesitas instalar nada adicional: llegan listos para conectar a la red eléctrica. El resto de modelos (El Gorrión, El Halcón, El Águila, El Cuco, El Martín) vienen preparados para instalación de climatización: preinstalación eléctrica, conductos y ubicación reservada. Puedes elegir entre: aire acondicionado split convencional (opción más económica), bomba de calor aerotermia (máxima eficiencia, frío y calor), suelo radiante (confort premium, ideal para casas grandes), o sistema VRV/VRF centralizado (para oficinas y grandes superficies). Te asesoramos sobre la mejor opción según tu clima y uso."
+      },
+      "q36": {
+        "question": "¿Qué calidad tiene la estructura de acero de las casas modulares?",
+        "answer": "La estructura de todas nuestras casas es de acero galvanizado de alta resistencia. El espesor mínimo es de 2mm en los perfiles principales, aumentando a 3mm en las uniones y puntos de carga. El galvanizado en caliente (zinc) protege el acero contra la corrosión durante al menos 50 años sin necesidad de mantenimiento. La estructura está calculada para soportar cargas de nieve de hasta 150 kg/m², vientos de hasta 120 km/h y sismos según normativa europea. Los módulos se unen mediante tornillería de acero inoxidable AISI 304 y placas de anclaje reforzadas. El peso aproximado de un módulo básico (15 m²) es de 2.500 kg, lo que garantiza estabilidad y robustez. La estructura cumple con las normas EN 1090 de fabricación de estructuras metálicas."
+      },
+      "q37": {
+        "question": "¿Cómo es el aislamiento acústico de las casas NIDO45?",
+        "answer": "El aislamiento acústico de nuestras casas modulares es comparable o superior al de una vivienda tradicional de calidad. Los paneles sandwich con lana de roca o poliuretano proporcionan una reducción acústica de 40-50 dB en paredes y cubierta. Las ventanas de doble cristal con cámara reducen el ruido exterior entre 30-40 dB. Entre módulos adyacentes, el aislamiento acústico supera los 45 dB, cumpliendo la normativa CTE-DB-HR de protección frente al ruido. Para proyectos con requisitos especiales (estudios de grabación, salas de reuniones, viviendas junto a vías de tren o aeropuertos), ofrecemos soluciones de aislamiento acústico reforzado con capas adicionales de lana de roca de alta densidad y membranas acústicas específicas."
+      },
+      "q38": {
+        "question": "¿Qué opciones de cocina y baño incluyen las casas NIDO45?",
+        "answer": "Las cocinas y baños varían según el modelo y el nivel de acabado. Acabado estándar: muebles de cocina en melamina blanca o madera, encimera de granito sintético, fregadero de acero inoxidable, grifería monomando cromada. Baño con plato de ducha acrílico, mampara de cristal templado, sanitarios de porcelana blanca y grifería cromada. Acabado premium: muebles de cocina lacados o en madera maciza, encimera de cuarzo Silestone o granito natural, electrodomésticos de marca (opción Bosch, Siemens o similar), grifería de diseño. Baño con plato de ducha de resina extraplano, mampara fija de cristal, sanitarios suspendidos y grifería negra mate o dorada. El Flamenco (Apple Cabin) y El Colibrí (Space Cabin) incluyen cocina equipada con electrodomésticos de serie. El Colibrí añade el exclusivo Smart Toilet con tecnología japonesa."
+      },
+      "q39": {
+        "question": "¿Las casas modulares resisten bien el calor y el frío extremo?",
+        "answer": "Sí, nuestras casas están diseñadas para todos los climas españoles. En zonas de calor intenso (Andalucía, Murcia, Canarias), el aislamiento de lana de roca de 75-100mm y las ventanas con control solar mantienen el interior fresco con mínimo consumo de aire acondicionado. En zonas de frío (Castilla, Aragón, zonas de montaña), el mismo aislamiento térmico retiene el calor interior, reduciendo la demanda de calefacción hasta un 60% respecto a una vivienda tradicional. Las casas cumplen con las exigencias del CTE para todas las zonas climáticas de España (A4 a E1). Para ubicaciones extremas (alta montaña con nevadas frecuentes), reforzamos la cubierta para soportar cargas de nieve adicionales. La certificación energética A o B garantiza el máximo confort con el mínimo consumo."
+      },
+      "q40": {
+        "question": "¿Puedo instalar placas solares, aerotermia u otros sistemas sostenibles?",
+        "answer": "Sí, todas nuestras casas son compatibles con sistemas de energía renovable y sostenibilidad. Placas solares fotovoltaicas: la cubierta plana de los módulos es ideal para instalar paneles solares. Recomendamos orientación sur y calculamos la inclinación óptima según tu ubicación. Aerotermia: bomba de calor aire-agua para calefacción, refrigeración y agua caliente sanitaria con máxima eficiencia (COP 4-5). Compatible con suelo radiante o radiadores de baja temperatura. Solar térmica: paneles para agua caliente sanitaria, ideal combinados con aerotermia. Baterías de almacenamiento: sistemas Tesla Powerwall o similares para autoconsumo nocturno. Gestión inteligente: domótica para optimizar el consumo energético, programación de climatización y monitorización en tiempo real. Te asesoramos sobre las ayudas y subvenciones disponibles en tu comunidad autónoma para instalaciones de energía renovable."
+      },
+      "q41": {
+        "question": "¿Las paredes de los módulos básicos resisten impactos? ¿Se puede aumentar el grosor de la chapa?",
+        "answer": "Sí, los paneles sandwich de nuestros módulos básicos (El Gorrión, El Halcón, El Águila, El Martín) están diseñados para resistir el uso diario y pequeños impactos. El grosor estándar de la chapa de acero galvanizado exterior es de 0,3 mm, suficiente para uso residencial normal. Sin embargo, para aplicaciones que requieran mayor resistencia a impactos (zonas de alto tránsito, uso comercial, almacenes, talleres o ubicaciones expuestas a condiciones más exigentes), ofrecemos la opción de aumentar el grosor de la chapa a 0,5 mm. Esta chapa de 0,5 mm es extremadamente resistente y soporta impactos significativamente mayores sin abolladuras ni deformaciones. El coste adicional es mínimo y recomendamos esta opción especialmente para: oficinas con alto tráfico de personas, módulos de almacenamiento, casetas de obra, instalaciones industriales ligeras, o viviendas en zonas con riesgo de granizo intenso. Consulta con nuestro equipo técnico para valorar qué grosor de chapa es el más adecuado para tu proyecto."
+      },
+      "q42": {
+        "question": "¿Qué cubre exactamente la garantía y quién responde ante defectos?",
+        "answer": "La garantía comercial NIDO45 cubre: 3 años en estructura principal (bastidor de acero, uniones, cubierta) y 1 año en componentes (ventanas, puertas, instalaciones eléctricas y de fontanería, acabados). Durante el transporte marítimo (China-Algeciras) responde el seguro del transportista internacional. Durante el transporte terrestre (Algeciras-parcela) responde la RC del transportista. Durante el montaje e instalación responde la RC del instalador (mínimo 300.000 EUR de cobertura, válida 1 año tras la instalación). Para defectos de fabricación no relacionados con transporte ni instalación, NIDO45 responde directamente como fabricante. Consejo: fotografía el estado de los módulos en la descarga y al inicio del montaje para documentar el origen de cualquier daño. Conserva siempre la documentación de compra y el certificado de garantía que te entregamos."
+      },
+      "q43": {
+        "question": "¿Puedo asegurar una casa modular como vivienda habitual? ¿Qué compañías lo cubren?",
+        "answer": "Sí, las casas modulares inscritas en el Registro de la Propiedad son asegurables como cualquier vivienda convencional. Las principales aseguradoras españolas (Mapfre, Allianz, AXA, Zurich, Mutua Madrileña, Línea Directa, entre otras) ofrecen pólizas de hogar para viviendas modulares prefabricadas. Lo importante es que la casa tenga: cédula de habitabilidad o licencia de primera ocupación, inscripción en el Registro de la Propiedad (o al menos escritura pública), y certificado de fin de obra si se requirió licencia. El seguro cubre los mismos riesgos que una vivienda tradicional: incendio, robo, daños por agua, responsabilidad civil, fenómenos atmosf��ricos, etc. El coste de la póliza es similar al de una vivienda convencional de la misma superficie y ubicación. Para módulos sin inscribir (uso no residencial, temporal o anexo), existen seguros específicos de construcciones auxiliares o bienes muebles. Te proporcionamos toda la documentación necesaria para contratar tu seguro sin problemas."
+      },
+      "q44": {
+        "question": "¿Ofrecéis financiación propia, leasing o pago a plazos?",
+        "answer": "Sí, ofrecemos varias opciones de financiación flexibles adaptadas a cada cliente. Pago a plazos NIDO45: financiación directa sin intermediarios bancarios. Entrada del 30-40% y resto en cuotas mensuales durante 12-36 meses. Sin intereses en plazos cortos (hasta 12 meses). Interés reducido en plazos largos. Leasing o renting: ideal para empresas y autónomos. Cuotas mensuales deducibles fiscalmente. Opción de compra al final del contrato o renovación. Disponible para oficinas, locales comerciales y viviendas de alquiler. Financiación bancaria: colaboramos con entidades financieras que conocen el producto modular. Te ayudamos con la documentación y el proceso de solicitud. Posibilidad de hipoteca si la casa se inscribe como bien inmueble. Pago por fases: para proyectos grandes (mansiones, complejos de varios módulos), ofrecemos pago fraccionado según avance de fabricación: 30% al pedido, 40% en fábrica, 30% a la entrega. Consulta con nuestro equipo comercial la opción que mejor se adapte a tu situación financiera."
+      },
+      "q45": {
+        "question": "¿Cuántos años dura una casa modular NIDO45? ¿Cuál es su vida útil?",
+        "answer": "La vida útil de nuestras casas modulares es comparable a la de una vivienda tradicional de calidad: entre 50 y 100 años con mantenimiento adecuado. La estructura de acero galvanizado está protegida contra la corrosión durante al menos 50 años sin necesidad de tratamiento. Los paneles sandwich mantienen sus propiedades aislantes durante toda la vida útil de la vivienda. Las ventanas de PVC o aluminio con rotura de puente térmico tienen una vida útil de 30-40 años. Los acabados interiores y exteriores requieren el mismo mantenimiento que cualquier vivienda: repintado cada 10-15 años, revisión de juntas y sellados cada 5-10 años, mantenimiento de instalaciones según normativa. La clave de la longevidad es la calidad de los materiales (acero galvanizado, lana de roca, PVC de alta gama) y un mantenimiento preventivo básico. Muchas casas prefabricadas de calidad construidas hace 40-50 años siguen en perfecto uso hoy. Nuestras casas están diseñadas para ser el hogar de varias generaciones."
+      },
+      "q46": {
+        "question": "¿Puedo mover mi casa modular a otro terreno? ¿Es desmontable y reubicable?",
+        "answer": "Depende del modelo. Módulos flat pack (El Gorrión, El Halcón, El Águila, El Martín): SÍ son desmontables y reubicables. El sistema de paneles atornillados permite desmontar la casa, transportarla y volver a montarla en otra ubicación. El proceso inverso al montaje tarda aproximadamente el doble de tiempo. Coste aproximado: transporte + mano de obra de desmontaje y montaje (consultar según distancia y complejidad). Casas expandibles (El Cuco): SÍ son reubicables. Al ser autoportantes sobre chasis, pueden cargarse en camión y trasladarse completas si el acceso lo permite. Si no, se pliegan hidráulicamente y se transportan como llegaron. Apple Cabin (El Flamenco) y Space Cabin (El Colibrí): SÍ son reubicables. Son módulos completos transportables por carretera. Se desconectan de los suministros y se cargan en camión góndola. Importante: si la casa está inscrita en el Registro de la Propiedad como bien inmueble, la reubicación implica trámites registrales y urbanísticos en ambas ubicaciones. Te asesoramos sobre el proceso completo."
+      },
+      "q47": {
+        "question": "¿Cómo se conecta la casa a luz, agua y saneamiento si el terreno no tiene acometidas?",
+        "answer": "Si tu terreno no tiene acometidas de suministros, hay varias soluciones. Electricidad: Opción 1 - Solicitar acometida eléctrica a la compañía distribuidora (Endesa, Iberdrola, etc.). Plazo habitual 2-4 meses. Coste según distancia al punto de conexión más cercano. Opción 2 - Instalación solar fotovoltaica aislada con baterías para autoconsumo 100%. Ideal para ubicaciones remotas. Opción 3 - Grupo electrógeno como solución temporal o de respaldo. Agua: Opción 1 - Solicitar acometida a la red municipal si existe en la zona. Opción 2 - Pozo propio con bomba sumergible (requiere autorización de Confederación Hidrográfica). Opción 3 - Depósito de agua con suministro periódico por cisterna. Saneamiento: Opción 1 - Conexión a red de alcantarillado municipal si existe. Opción 2 - Fosa séptica con filtro biológico (la más habitual en terrenos rústicos). Opción 3 - Depuradora compacta de oxidación total para vertido autorizado. Te ayudamos a evaluar las opciones disponibles en tu terreno y a dimensionar las instalaciones necesarias antes de fabricar tu casa."
+      },
+      "q48": {
+        "question": "¿El Cuco (casa expandible) tiene certificación CTE? ¿Puedo vivir legalmente en él?",
+        "answer": "Sí, El Cuco ya cuenta con certificación CTE (Código Técnico de la Edificación español) completa. Esto significa que los 7 modelos NIDO45 cumplen la normativa de edificación española más exigente. Qué significa para ti: Puedes obtener licencia de obra para uso residencial permanente en cualquier municipio. La casa es hipotecable, inscribible en el Registro de la Propiedad y legal para vivir todo el año. Puedes empadronarte y acceder a todos los servicios municipales. El Cuco mantiene sus ventajas únicas: sistema de despliegue hidráulico que triplica el espacio en minutos, opción de instalación sobre chasis sin cimentación fija (consultar con tu ayuntamiento) e instalación rápida. Con certificación CE + ISO + CTE completa, El Cuco ofrece las mismas garantías legales que nuestros modelos flat pack y las Apple Cabin, combinado con la comodidad de un sistema expandible."
+      }
+    }
+  },
+  "contact": {
+    "title": "Empieza Tu Proyecto Hoy",
+    "subtitle": "Contacto",
+    "description": "Resolvemos tus dudas sin compromiso. Te asesoramos sobre el terreno, los trámites y el modelo ideal para ti.",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "location": "Sede y casas piloto",
+    "locationValue": "El Capitán, Almayate (Málaga)",
+    "cta": "Solicitar Información",
+    "company": {
+      "title": "Datos de Empresa",
+      "importer": "Empresa importadora",
+      "importerValue": "Isla Sofia SLU",
+      "nif": "NIF",
+      "nifValue": "B26607044",
+      "headquarters": "Sede",
+      "headquartersValue": "El Capitán, Almayate (Málaga)",
+      "showroom": "Casas piloto",
+      "showroomValue": "Disponibles para visita - Ver ubicación",
+      "manufacturer": "Fabricante",
+      "manufacturerValue": "La mayor y mejor fábrica del mundo de este tipo de viviendas, ubicada en China.",
+      "certifications": "Certificaciones",
+      "certificationsValue": "Todos los productos cumplen normativa CE e ISO vigente",
+      "warranty": "Garantía",
+      "warrantyValue": "3 años estructura principal · 1 año componentes"
+    }
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "nav": {
+    "models": "Modelle",
+    "advantages": "Vorteile",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Ihr Haus in 45 Tagen",
+    "subtitle": "CE+ISO zertifizierte New Generation Homes. Unbegrenzte Flache durch Modulkombination. Versand in 45 Tagen, Installation in nur wenigen Stunden.",
+    "cta": "Modelle ansehen",
+    "ctaSecondary": "Kontakt",
+    "badge1": "Versand in 45 Tagen",
+    "badge2": "Unbegrenzte Flache",
+    "badge3": "Ab 6.000€ pro Modul"
+  },
+  "models": {
+    "title": "Unsere Modelle",
+    "subtitle": "Katalog",
+    "description": "Sieben exklusive Kreationen, entworfen für alle, die das Außergewöhnliche suchen. Avantgardistische modulare Architektur mit vollständiger CTE-Zertifizierung für alle 7 Modelle — hypothekenfähig, registrierbar und legal für ganzjähriges Wohnen.",
+    "speedTitle": "schneller als traditioneller Bau",
+    "profitTitle": "rentabler als konventioneller Bau",
+    "daysTitle": "Tage bis zu Ihrem neuen Zuhause",
+    "manufacturingNote": "Industrielle Präzision aus der weltweit größten Fabrik für Modulhäuser. Ihr Haus reist 45 Tage per Schiff nach Spanien, gefolgt von Premium-Lieferung direkt zu Ihnen. Professionelle Installation in wenigen Stunden. Von der Produktionslinie bis zum Einzug: etwa 60 Tage.",
+    "viewMore": "Mehr",
+    "askPrice": "Angebot",
+    "basicModule": {
+      "name": "Der Spatz",
+      "description": "Klein, wendig, geht wohin Sie gehen. 15 m² komplett mit integriertem Bad. Montage in 4-6 Stunden. Ohne schwere Maschinen.",
+      "features": ["15 m²", "Bad inklusive", "Flat Pack"]
+    },
+    "casa90": {
+      "name": "Der Falke",
+      "description": "Kraftvoll und ausgewogen. 1-stöckiges Haus mit 6 Flat Pack Modulen: 3 Schlafzimmer, Wohn-Esszimmer und Küche. Ihr Traumhaus.",
+      "features": ["90 m²", "3 Schlafzimmer", "6 Module"]
+    },
+    "mansion": {
+      "name": "Der Adler",
+      "description": "Die Spitze des Katalogs. 2-stöckige Luxusvilla mit 10 Flat Pack Modulen. 4 Schlafzimmer, 2 Bäder, Wohnzimmer und große Küche.",
+      "features": ["150 m²", "2 Etagen", "10 Module"]
+    },
+    "offices": {
+      "name": "Der Eisvogel",
+      "description": "Professionell, effizient und vielseitig. Mehrstöckige Bürogebäude. Besprechungsräume, offene Flächen und Glasfassaden.",
+      "features": ["Flat Pack", "Besprechungsräume", "Glasfassade"]
+    },
+    "cuco36": {
+      "name": "Der Kuckuck 36",
+      "description": "Kompakt und funktional. Hydraulisches Erweiterungssystem. 36 m² mit 2 Schlafzimmern + Bad. Ideal für Paare.",
+      "features": ["36 m²", "2 Schlafzimmer", "Hydraulisch"]
+    },
+    "cuco68": {
+      "name": "Der Kuckuck 68",
+      "description": "Familienraum. Hydraulisches Erweiterungssystem. 68 m² mit 2-3 Schlafzimmern + Bad. Ideal für Familien.",
+      "features": ["68 m²", "2-3 Schlafzimmer", "Hydraulisch"]
+    },
+    "appleCabin": {
+      "name": "Der Flamingo",
+      "description": "Elegant und stilvoll. Schlüsselfertige Luxushäuser. Module unbegrenzt kombinierbar. Gestalten Sie Ihr Zuhause nach Maß.",
+      "features": ["Unbegrenzt", "Schlüsselfertig", "Kombinierbar"]
+    },
+    "spaceCapsule": {
+      "name": "Der Kolibri",
+      "description": "Futuristisch, einzigartig und kostbar. High-Tech-Kapsel mit Heizung, versteckter Klimaanlage und Smart Toilet. Modelle Z5 und Z7.",
+      "features": ["27-38 m²", "Smart Toilet", "High-Tech"]
+    }
+  },
+  "advantages": {
+    "title": "Warum NIDO45 Wählen",
+    "subtitle": "Vorteile",
+    "items": {
+      "certified": {
+        "title": "CE + ISO Zertifizierung",
+        "description": "Alle unsere Häuser erfüllen die anspruchsvollsten europäischen Vorschriften und garantieren Qualität und Sicherheit."
+      },
+      "fast": {
+        "title": "Versand in 45 Tagen",
+        "description": "Herstellung in wenigen Wochen und Direktversand ab Werk. Ihr Haus in Rekordzeit fertig."
+      },
+      "installation": {
+        "title": "Installation in Stunden",
+        "description": "Ultraschnelle professionelle Montage. Vom Container zum bewohnbaren Haus in nur wenigen Stunden."
+      },
+      "quality": {
+        "title": "Premium-Materialien",
+        "description": "Verzinkter Stahl, hochdichte Isolierung und wetterfeste Oberflächen."
+      },
+      "flexible": {
+        "title": "Flexibles Design",
+        "description": "Mehrere Konfigurationen und anpassbare Oberflächen nach Ihren Bedürfnissen."
+      },
+      "support": {
+        "title": "Volle Unterstützung",
+        "description": "Wir beraten Sie vom Grundstück bis zur endgültigen Installation. Immer an Ihrer Seite."
+      }
+    }
+  },
+  "faq": {
+    "title": "Haufig Gestellte Fragen zu Hausern der Neuen Generation",
+    "subtitle": "Wir beantworten Ihre Fragen",
+    "description": "Alles was Sie über Fertighäuser, Genehmigungen, Installation und Finanzierung in Spanien wissen müssen.",
+    "items": {
+      "q1": {
+        "question": "Benotige ich eine Baugenehmigung fur ein Haus der neuen Generation in Spanien?",
+        "answer": "Auf Bauland mit Wohnnutzung ja. Unsere Hauser der neuen Generation haben genau die gleiche rechtliche Gultigkeit wie jeder traditionelle Bau. Es sind eine Hauptbaugenehmigung, ein vom Architekten genehmigtes technisches Projekt und eine Erstbezugsgenehmigung erforderlich. Nach der Eintragung können Sie es problemlos hypothekieren, verkaufen und vererben."
+      },
+      "q2": {
+        "question": "Wie lange dauert der gesamte Prozess von der Bestellung bis zum Einzug?",
+        "answer": "Die Gesamtzeit von der Unterschrift bis zur Schlüsselübergabe beträgt 6 bis 12 Monate, verglichen mit 18-30 Monaten für traditionellen Bau. Aufschlüsselung: Herstellung in wenigen Wochen, Versand in 45 Tagen, Genehmigungsverfahren 1-3 Monate, Installation in Stunden oder Tagen je nach Modell."
+      },
+      "q3": {
+        "question": "Was ist im Preis eines NIDO45 Hauses der neuen Generation enthalten?",
+        "answer": "Der Preis beinhaltet die komplette verzinkte Stahlstruktur, Premium-Wärme- und Schalldämmung, vorbereitete Elektroinstallation, Innen- und Außentischlerei und Standardoberflächen. Separat berechnet: Versand, Fundament, Versorgungsanschlüsse und technisches Projekt. Die Kosten pro m² liegen zwischen 900 und 1.500 Euro all-inclusive."
+      },
+      "q4": {
+        "question": "Kann ich eine Hypothek fur ein Haus der neuen Generation wie fur ein konventionelles Haus bekommen?",
+        "answer": "Ja, nach Eintragung im Grundbuch und mit Bewohnbarkeitsbescheinigung behandelt jede Bank es wie ein konventionelles Haus. Wir haben Kunden, die es zu 80% ohne Probleme finanziert haben."
+      },
+      "q5": {
+        "question": "Welche Art von Grundstuck benotige ich fur ein Haus der neuen Generation?",
+        "answer": "Das ideale Grundstück ist Bauland mit erlaubter Wohnnutzung. Beantragen Sie vor dem Kauf das Städtebaubescheinigung beim Rathaus zur Bestätigung: Bodenklassifizierung, bebaubare Meter, maximale Höhe, Abstände und Zugang zu Versorgungseinrichtungen."
+      },
+      "q6": {
+        "question": "Welche burokratischen Verfahren brauche ich zur Legalisierung meines Hauses der neuen Generation?",
+        "answer": "Die Verfahren auf Bauland sind: 1) Städtebaubescheinigung, 2) Technisches Projekt vom Architekten genehmigt, 3) Geotechnische Studie, 4) Hauptbaugenehmigung, 5) Versorgungsanschluss, 6) Erstbezugsgenehmigung, 7) Neubauerklärung vor Notar, 8) Katastereintragung. Wir begleiten Sie durch den gesamten Prozess."
+      },
+      "q7": {
+        "question": "Wie viel kosten Steuern und Gebuhren fur ein Haus der neuen Generation?",
+        "answer": "Die Steuern sind dieselben wie für jedes Haus: 10% MwSt. auf den Preis, 2-4% kommunale ICIO, 2-6% Lizenzgebühr je nach Gemeinde, und 1-1,5% IAJD bei der Neubauerklärung. Insgesamt macht der bürokratische Teil zwischen 6% und 10% der Wohnkosten aus."
+      },
+      "q8": {
+        "question": "Kann ich mein Haus der neuen Generation in Zukunft erweitern?",
+        "answer": "Ja, das ist genau einer der grossen Vorteile des Flat Pack Systems: Sie können Module hinzufügen, wenn Ihr Grundstück und der kommunale PGOU es erlauben. Die Struktur ist horizontal und vertikal kombinierbar ohne Flächenbegrenzung."
+      },
+      "q9": {
+        "question": "Welche Vorteile hat ein Haus der neuen Generation gegenuber traditionellem Bau?",
+        "answer": "Die Hauptvorteile sind: Bauzeit von 4-8 Wochen nach Genehmigung (vs. 12-18 Monate), festes Budget ohne Überraschungen, Energiezertifizierung A mit ��berlegener Isolierung, industrielle Fertigung mit gleichmäßiger Qualität, geringere Umweltauswirkungen und Kosten pro m² zwischen 30% und 50% niedriger."
+      },
+      "q10": {
+        "question": "Welche Energieeffizienz haben NIDO45 Hauser?",
+        "answer": "Unsere Hauser erreichen Energiezertifizierung A oder B dank hochdichter Isolierung (Steinwolle oder Polyurethan 50-100mm), Rahmen mit Warmebruchentkopplung und Doppelverglasung. Der Klimatisierungsverbrauch ist 40-60% niedriger als bei traditionellen Hausern. Sie sind kompatibel mit Solaranlagen, Aerothermie und Solarwarmwasser. Das optimierte Design minimiert Warmeverluste sowohl im Winter als auch im Sommer."
+      },
+      "q11": {
+        "question": "Kann ich ein Haus der neuen Generation ohne Fundament auf landlichem Grund installieren?",
+        "answer": "Dies ist eine rechtliche Grauzone. Erweiterbare Häuser sind transportabel und können in einigen Gemeinden, wenn sie kein festes Fundament haben und auf dem Originalchassis bleiben, als bewegliches Eigentum behandelt werden. Dies ist in Spanien nicht einheitlich geregelt. Wir garantieren diese Option nie, sondern informieren sie als Möglichkeit zur Einzelfallvalidierung."
+      },
+      "q12": {
+        "question": "Kann ich ein Musterhaus vor dem Kauf besichtigen?",
+        "answer": "Ja, wir haben Musterhäuser zur Besichtigung in unserem Hauptsitz in El Capitán, Almayate (Málaga). Kontaktieren Sie uns für einen Besuchstermin."
+      },
+      "q13": {
+        "question": "Eignen sich Hauser der neuen Generation zum ganzjahrigen Wohnen oder nur fur Urlaub?",
+        "answer": "Unsere Häuser sind für dauerhafte Nutzung als Hauptwohnsitz konzipiert. Sie verfügen über hochdichte Wärme- und Schalldämmung, geeignet für jedes spanische Klima. Sie erfüllen die CTE-Anforderungen für Dauernutzung."
+      },
+      "q14": {
+        "question": "Was ist der Unterschied zwischen erweiterbarem Haus und Flat Pack Modulen?",
+        "answer": "Das erweiterbare Haus (68 m2) kommt als geschlossener Container, der sich vor Ort in wenigen Stunden entfaltet - ideal fur schnelle Installation oder Grundstucke ohne festes Fundament. Flat Pack Module (je 15 m2) kommen zerlegt und werden vor Ort montiert, was individuelle Konfigurationen ermoglicht: von 1 Modul (Studio) bis 10+ Module (150 m2 Villa). Flat Pack bietet mehr Designflexibilitat; erweiterbar bietet schnellere Installation."
+      },
+      "q15": {
+        "question": "Hilft NIDO45 auch bei der Grundstückssuche?",
+        "answer": "Ja, wir beraten Sie, worauf Sie achten sollten und was Sie vermeiden sollten. Wir helfen bei der Identifizierung bebaubarer Stadtgrundstücke in Ihrer Region, überprüfen das Städtebaubescheinigung beim Rathaus vor dem Kauf und begleiten Sie durch den gesamten Prozess."
+      },
+      "q16": {
+        "question": "Welche Bodenplatte oder Fundament brauche ich für die Module?",
+        "answer": "Für Flat-Pack-Module empfehlen wir eine Stahlbetonplatte von 10-15 cm Dicke auf einer verdichteten Kiesbasis von 15-20 cm. Die Abmessungen sollten etwas größer als die Modulgrundfläche sein (mindestens 6,2m x 2,7m für ein 15m² Basismodul). Der Beton sollte HA-25 mit elektrogeschweißtem Netz sein. Gültige Alternativen: Betonplots an Ecken und Mitte (alle 2-3m), oder Umfangsfundament mit Streifenfundamenten. Für Hanglagen oder instabiles Gelände wird eine vorherige geotechnische Studie empfohlen. Erweiterbare Häuser können auf eigenem Chassis ohne festes Fundament oder mit Betonplots für mehr Stabilität installiert werden. Wir beraten immer zur optimalen Lösung für Ihr Gelände."
+      },
+      "q17": {
+        "question": "Was ist im Preis enthalten und was wird separat angeboten?",
+        "answer": "Der Grundpreis beinhaltet: gefertigte Module mit allen Innenausstattungen, Seetransport vom Werk zum spanischen Hafen (Algeciras) und Zollabfertigung. Separat angeboten je nach Projekt: Landtransport vom Hafen zu Ihrem Grundstück (variiert je nach Entfernung und Zugänglichkeit), Fundament und Geländevorbereitung, Montage und Installation (Kranentladung, Zusammenbau, Anschlüsse), Baugenehmigung und kommunale Gebühren, Versorgungsanschlüsse für Strom, Wasser und Abwasser. Wir senden Ihnen ein detailliertes Angebot mit allen aufgeschlüsselten Positionen. So wissen Sie genau, was jedes Konzept beinhaltet und können transparent vergleichen."
+      },
+      "q18": {
+        "question": "Kann ich es kaufen und selbst montieren?",
+        "answer": "Ja. Unsere Module sind für eine einfache Montage konzipiert. Bei Selbstinstallation liefern wir das komplette technische Handbuch und bieten kostenlose Videoanruf-Unterstützung. Sie benötigen: mindestens 2-3 Personen für die Montage, Kran oder Gabelstapler zum Positionieren der Module, REBT-zertifizierter Elektriker für die Elektroinstallation (nach spanischem Recht obligatorisch) und qualifizierter Klempner, wenn der Netzanschluss eine kommunale Zertifizierung erfordert. Versorgungsanschlüsse müssen immer von Fachleuten mit entsprechender Qualifikation durchgeführt werden."
+      },
+      "q19": {
+        "question": "Bieten Sie einen kompletten Installationsservice an?",
+        "answer": "Ja. Wir arbeiten mit zertifizierten Installateuren in Andalusien, auf den Kanarischen Inseln und Balearen. Der komplette Installationsservice umfasst: Kranentladung und Positionierung, Strukturmontage, Elektroanschluss (REBT-zertifizierter Installateur), Sanitär- und Abwasseranschluss sowie Endabnahme und Übergabe mit Abnahmeprotokoll. Nehmen Sie es in Ihre Angebotsanfrage auf und wir bieten alles zu einem Preis an."
+      },
+      "q20": {
+        "question": "Wie lange dauert die Installation?",
+        "answer": "Die Montage ist schnell. Richtwerte nach Modell: Einzelmodul (15 m²) einen halben Tag Strukturmontage; Erweiterbares Haus (68 m²) 1 Tag zum Auffalten der Struktur; Multi-Modul-Haus (90-150 m²) 1 bis 2 Tage Montage; Elektro- und Sanitäranschlüsse 1 bis 2 zusätzliche Tage. Eine komplette Installation mit Versorgungsanschlüssen ist normalerweise in 2 bis 4 Tagen fertig. Die genaue Zeit hängt von der vorherigen Geländevorbereitung ab."
+      },
+      "q21": {
+        "question": "Ist es für Menschen mit eingeschränkter Mobilität zugänglich?",
+        "answer": "Ja. Unsere Häuser sind in Bezug auf Barrierefreiheit vollständig anpassbar. Auf Kundenwunsch können wir einbauen: breitere Eingangstür (bis 90 cm lichte Weite) für Rollstuhlzugang, Zugangsrampe statt Eingangsstufe, angepasste Innentüren (mindestens 80 cm Durchgang), barrierefreies Bad mit bodengleicher Dusche und Haltegriffen sowie Innenaufteilung ohne architektonische Barrieren. Teilen Sie uns Ihre Bedürfnisse bei der Angebotsanfrage mit und wir passen das Modul ohne signifikante Mehrkosten an."
+      },
+      "q22": {
+        "question": "Was deckt die Garantie genau ab und wer haftet bei Mängeln?",
+        "answer": "Die kommerzielle Garantie von NIDO45 deckt: 3 Jahre auf die Hauptstruktur (Stahlrahmen, Verbindungen, Dach) und 1 Jahr auf Komponenten (Fenster, Türen, Elektro- und Sanitärinstallationen, Oberflächen). Während des Seetransports (China-Algeciras) haftet die Versicherung des internationalen Transporteurs. Während des Landtransports (Algeciras-Grundstück) haftet die Haftpflicht des Transporteurs. Während der Montage und Installation haftet die Haftpflicht des Installateurs (mindestens 300.000 EUR Deckung, 1 Jahr nach Installation gültig). Für Herstellungsmängel, die nicht mit Transport oder Installation zusammenhängen, haftet NIDO45 direkt als Hersteller. Tipp: Fotografieren Sie den Zustand der Module bei der Entladung und zu Beginn der Montage, um den Ursprung von Schäden zu dokumentieren. Bewahren Sie immer die Kaufunterlagen und das Garantiezertifikat auf, das wir Ihnen aushändigen."
+      },
+      "q23": {
+        "question": "Kann ich die Innen- und Aussenausstattung anpassen?",
+        "answer": "Ja. Wir bieten verschiedene Anpassungsoptionen: Aussenverkleidung (weisses, graues Sandwichpaneel, Kunstholz oder individuelle Verkleidung), Innenböden (Vinyl, Keramik oder Parkett), Kuche und Bad (Mobel und Sanitarausstattung zur Auswahl), Tischlerei (weisses PVC, anthrazit oder Holzimitat) und Innenaufteilung (bewegliche Trennwande, Schiebeturen). Wir senden Ihnen den Ausstattungskatalog mit dem Angebot. Anderungen gegenuber dem Standard konnen die Fertigungszeit beeinflussen."
+      },
+      "q24": {
+        "question": "Welche Wartung erfordert ein Haus der neuen Generation?",
+        "answer": "Die Wartung ist minimal und ahnlich wie bei jedem Haus: jahrliche Uberprufung von Fugen und Dichtungen, Dachrinnenreinigung, Kontrolle der Elektro- und Sanitarinstallationen. Die verzinkte Stahlstruktur erfordert mindestens 25 Jahre lang keine zusatzliche Behandlung. Wir empfehlen, das Aussenhaus alle 10-15 Jahre neu zu streichen, wenn Sie das ursprungliche Aussehen beibehalten mochten. Es besteht kein Risiko von Termiten, Kapillarfeuchtigkeit oder typischen Strukturproblemen des traditionellen Baus."
+      },
+      "q25": {
+        "question": "Liefern Sie auf die Kanarischen Inseln, Balearen oder in andere Lander?",
+        "answer": "Ja. Wir liefern in ganz Festlandspanien, auf die Kanarischen Inseln und Balearen. Der Seetransport zu den Inseln hat zusatzliche Kosten, die im Angebot aufgefuhrt werden. Wir exportieren auch nach Portugal, Frankreich, Italien und andere europaische Lander. Den Import- und Zollprozess ubernehmen wir in allen Fallen. Fur Ziele ausserhalb der EU bitte spezifische Bedingungen erfragen."
+      },
+      "q26": {
+        "question": "Welche Fristen sind zwischen Bestellung und Installation zu erwarten?",
+        "answer": "Die Gesamtzeit beträgt etwa 60 Tage ab Vertragsunterzeichnung. Aufteilung: 18 Tage Fertigung im Werk, etwa 45 Tage Seetransport, dann Montage und Installation auf Ihrem Grundstück (1-5 Tage je nach Komplexität). Für dringende Projekte können wir die Fertigung gegen Aufpreis beschleunigen. Wir halten Sie bei jedem Schritt mit Echtzeit-Tracking auf dem Laufenden."
+      },
+      "q27": {
+        "question": "Welche Zahlungsmethoden akzeptieren Sie?",
+        "answer": "Wir akzeptieren Banküberweisung und Finanzierung. Der übliche Zahlungsprozess ist: 30% Anzahlung bei Auftragsbestätigung, 40% beim Verlassen der Fabrik, 20% bei Ankunft auf Ihrem Grundstück, und die restlichen 10% bei Endlieferung. Für größere Projekte bieten wir individuelle Zahlungspläne an. Alle Transaktionen werden über verifizierte spanische Bankkonten abgewickelt."
+      },
+      "q28": {
+        "question": "Bieten Sie Finanzierung für den Kauf an?",
+        "answer": "Ja, wir arbeiten mit Finanzinstituten zusammen, die Privatkredite für den Modulkauf anbieten. Sobald das Haus im Grundbuch eingetragen ist, können Sie es in eine konventionelle Hypothek mit besseren Konditionen umwandeln. Wir beraten Sie auch zu Zuschüssen und Fördermitteln, die in Ihrer Region für effiziente oder ländliche Wohnungen verfügbar sind."
+      },
+      "q29": {
+        "question": "Brauche ich eine spezielle Versicherung für mein Modulhaus?",
+        "answer": "Sie brauchen keine spezielle Versicherung. Einmal im Grundbuch eingetragen, deckt jeder Versicherer es wie ein konventionelles Haus ab: Wohngebäudeversicherung, Haftpflicht, Feuer, Diebstahl usw. Während Transport und Installation sind die Waren durch die Versicherung des Spediteurs und Installateurs abgedeckt. Wir empfehlen, vor der Endlieferung eine Hausratversicherung abzuschließen."
+      },
+      "q30": {
+        "question": "Kann ich mein Modulhaus weiterverkaufen? Steigt es im Wert?",
+        "answer": "Ja, Sie können es wie jede Immobilie verkaufen, sobald es im Grundbuch eingetragen ist. Qualitäts-Modulhäuser steigen mit dem Immobilienmarkt genau wie traditionelle. Tatsächlich sind zertifizierte Energieeffizienz (Klasse A oder B) und niedrige Wartungskosten heute sehr geschätzte Verkaufsargumente. Wir haben Kunden, die ihr Modulhaus mit Gewinn verkauft haben."
+      },
+      "q31": {
+        "question": "Welche Materialien werden für die Wärmedämmung der NIDO45-Häuser verwendet?",
+        "answer": "Wir verwenden Materialien höchster Qualität für die Wärmedämmung. Bei Flat-Pack-Modulen (El Gorrión, El Halcón, El Águila) ist der Standard ein Sandwichpaneel mit 50mm dicker Steinwolle. Optional bieten wir für extremere Klimazonen oder höhere Energieeffizienz Versionen mit 75mm oder 100mm auf Anfrage an. Steinwolle ist unbrennbar, nimmt keine Feuchtigkeit auf und behält ihre Dämmeigenschaften während der gesamten Lebensdauer des Hauses. In Erweiterungshäusern (El Cuco) und Raumkapseln (El Colibrí) verwenden wir Hochdichte-Polyurethan von 60-80mm, das maximale thermische Leistung auf kleinem Raum bietet. Alle unsere Dämmungen entsprechen den CTE-Energiesparvorschriften und ermöglichen die Energiezertifizierung A oder B."
+      },
+      "q32": {
+        "question": "Welche Art von Fenstern haben die NIDO45-Modulhäuser?",
+        "answer": "Alle unsere Häuser verfügen über Doppelverglasungsfenster mit Luftkammer oder Argon-Gas für maximale Wärme- und Schalldämmung. Die Profile sind aus PVC oder Aluminium mit Wärmebrückenunterbrechung, um Kondensation und Wärmeverlust zu vermeiden. Die Panoramafenster der Apple Cabin (El Flamenco) und Space Cabin (El Colibrí) Modelle beinhalten eine spezielle Wärmebehandlung mit Sonnenschutz, um die Aufheizung im Sommer zu reduzieren. Verfügbare Optionen: Dreh-Kipp, Schiebe, Fest oder Kippöffnung. Rahmenfarben: Weiß, Anthrazit, Grau, Holzimitat. Die Schalldämmung unserer Fenster reduziert Außenlärm um 30-40 dB, ideal für Standorte in der Nähe von Straßen oder städtischen Gebieten."
+      },
+      "q33": {
+        "question": "Welche Außenverkleidungsoptionen sind verfügbar?",
+        "answer": "Wir bieten mehrere Außenverkleidungen zur Personalisierung Ihres Modulhauses an. Standardverkleidung: Sandwichpaneel in Weiß, Anthrazitgrau oder Creme. Kunstholz-Verkleidung: Wetterfeste Naturholzimitation, wartungsfrei. Premium-Verkleidung: Belüftete Keramikverkleidung, rekonstituierter Naturstein oder High-End-Composite. RAL-Farben: Jede Farbe aus der RAL-Karte auf Anfrage. Für das Apple Cabin Modell (El Flamenco) stechen weiße oder Naturholzeffekt-Verkleidungen mit markanten geschwungenen Linien hervor. Für El Colibrí (Space Cabin) bieten wir futuristische Metallverkleidungen mit integrierter LED-Beleuchtung an. Alle Außenverkleidungen sind für mindestens 15-20 Jahre ohne wesentliche Wartung gegen mediterranes Wetter ausgelegt."
+      },
+      "q34": {
+        "question": "Welche Innenbodenoptionen sind verfügbar?",
+        "answer": "Wir haben drei Kategorien von Innenböden. Hochresistenter Vinylboden (Standard): wasserresistent, leicht zu reinigen, mehrere Oberflächen (Holz, Stein, schlicht). Ideal für Bäder, Küchen und Bereiche mit hohem Verkehr. Keramik- oder Porzellanfliesen: maximale Haltbarkeit, große Designvielfalt, ideal für warme Klimazonen. Parkett oder Laminat: Premium-Oberfläche aus hochwertigem Natur- oder Kunstholz, Wärme und Komfort. Für Luxusmodelle wie El Águila (Herrenhaus) und El Flamenco (Apple Cabin) empfehlen wir Großformat-Porzellan oder Eichenparkett. Für El Colibrí (Space Cabin) ergänzen Premium-Design-Vinylböden die futuristische Oberfläche. Alle Böden werden auf einer nivellierten Basis mit Schalldämmung installiert, um Trittschallübertragung zu vermeiden."
+      },
+      "q35": {
+        "question": "Werden die Häuser mit Heizung und Klimaanlage geliefert?",
+        "answer": "Es kommt auf das Modell an. El Colibrí (Space Cabin) und El Flamenco (Apple Cabin) beinhalten Heizung der neuesten Generation und hocheffiziente versteckte Klimaanlage serienmäßig im Preis. Sie müssen nichts zusätzlich installieren: sie kommen anschlussfertig ans Stromnetz. Die übrigen Modelle (El Gorrión, El Halcón, El Águila, El Cuco, El Martín) sind für Klimainstallation vorbereitet: elektrische Vorinstallation, Kanäle und reservierter Standort. Sie können wählen zwischen: konventioneller Split-Klimaanlage (wirtschaftlichste Option), Luft-Wasser-Wärmepumpe (maximale Effizienz, Heizen und Kühlen), Fußbodenheizung (Premium-Komfort, ideal für große Häuser), oder zentralisiertem VRV/VRF-System (für Büros und große Flächen). Wir beraten Sie zur besten Option je nach Klima und Nutzung."
+      },
+      "q36": {
+        "question": "Welche Qualität hat die Stahlstruktur der Modulhäuser?",
+        "answer": "Die Struktur aller unserer Häuser besteht aus hochfestem verzinktem Stahl. Die Mindestdicke beträgt 2mm bei den Hauptprofilen, steigt auf 3mm an Verbindungen und Lastpunkten. Die Feuerverzinkung (Zink) schützt den Stahl mindestens 50 Jahre ohne Wartung vor Korrosion. Die Struktur ist berechnet für Schneelasten bis 150 kg/m², Winde bis 120 km/h und Erdbeben gemäß europäischer Vorschriften. Module werden mit AISI 304 Edelstahl-Hardware und verstärkten Ankerplatten verbunden. Das ungefähre Gewicht eines Basismoduls (15 m²) beträgt 2.500 kg, was Stabilität und Robustheit garantiert. Die Struktur entspricht den EN 1090 Normen für Metallstrukturfertigung."
+      },
+      "q37": {
+        "question": "Wie ist die Schalldämmung der NIDO45-Häuser?",
+        "answer": "Die Schalldämmung unserer Modulhäuser ist vergleichbar oder besser als die eines traditionellen Qualitätshauses. Sandwichpaneele mit Steinwolle oder Polyurethan bieten eine Schallreduzierung von 40-50 dB in Wänden und Dach. Doppelverglasungsfenster mit Kammer reduzieren Außenlärm um 30-40 dB. Zwischen angrenzenden Modulen überschreitet die Schalldämmung 45 dB und entspricht den CTE-DB-HR Lärmschutzvorschriften. Für Projekte mit besonderen Anforderungen (Tonstudios, Besprechungsräume, Häuser in der Nähe von Bahngleisen oder Flughäfen) bieten wir verstärkte Schalldämmlösungen mit zusätzlichen Schichten Hochdichte-Steinwolle und spezifischen akustischen Membranen an."
+      },
+      "q38": {
+        "question": "Welche Küchen- und Badoptionen sind in den NIDO45-Häusern enthalten?",
+        "answer": "Küchen und Bäder variieren je nach Modell und Ausstattungsniveau. Standardausstattung: Küchenmöbel in weißem oder Holz-Melamin, Arbeitsplatte aus Kunstgranit, Edelstahlspüle, verchromte Einhebel-Armaturen. Bad mit Acryl-Duschwanne, Glastrennwand aus gehärtetem Glas, weiße Porzellan-Sanitärkeramik und verchromte Armaturen. Premium-Ausstattung: Lackierte oder Massivholz-Küchenmöbel, Silestone-Quarz oder Naturgranit-Arbeitsplatte, Markengeräte (Option Bosch, Siemens oder ähnlich), Designer-Armaturen. Bad mit extra-flacher Harz-Duschwanne, fester Glastrennwand, wandhängender Sanitärkeramik und matten schwarzen oder goldenen Armaturen. El Flamenco (Apple Cabin) und El Colibrí (Space Cabin) beinhalten serienmäßig ausgestattete Küche mit Geräten. El Colibrí fügt das exklusive Smart Toilet mit japanischer Technologie hinzu."
+      },
+      "q39": {
+        "question": "Halten NIDO45-Modulhäuser extremer Hitze und Kälte stand?",
+        "answer": "Ja, unsere Häuser sind für alle spanischen Klimazonen ausgelegt. In Gebieten mit intensiver Hitze (Andalusien, Murcia, Kanarische Inseln) halten 75-100mm Steinwolle-Dämmung und Sonnenschutzfenster das Innere mit minimalem Klimaanlagenverbrauch kühl. In kalten Gebieten (Kastilien, Aragonien, Berggebiete) hält dieselbe Wärmedämmung die Innenwärme zurück und reduziert den Heizbedarf um bis zu 60% im Vergleich zu einem traditionellen Haus. Die Häuser entsprechen den CTE-Anforderungen für alle spanischen Klimazonen (A4 bis E1). Für extreme Standorte (Hochgebirge mit häufigem Schneefall) verstärken wir das Dach für zusätzliche Schneelasten. Die Energiezertifizierung A oder B garantiert maximalen Komfort bei minimalem Verbrauch."
+      },
+      "q40": {
+        "question": "Kann ich Solarpaneele, Luftwärmepumpe oder andere nachhaltige Systeme installieren?",
+        "answer": "Ja, alle unsere Häuser sind mit erneuerbaren Energie- und Nachhaltigkeitssystemen kompatibel. Photovoltaik-Solarpaneele: Das Flachdach der Module ist ideal für die Installation von Solarpaneelen. Wir empfehlen Südausrichtung und berechnen die optimale Neigung je nach Standort. Luftwärmepumpe: Luft-Wasser-Wärmepumpe für Heizung, Kühlung und Warmwasser mit maximaler Effizienz (COP 4-5). Kompatibel mit Fußbodenheizung oder Niedertemperatur-Heizkörpern. Solarthermie: Paneele für Warmwasser, ideal kombiniert mit Luftwärmepumpe. Speicherbatterien: Tesla Powerwall oder ähnliche Systeme für nächtlichen Eigenverbrauch. Intelligente Steuerung: Hausautomation zur Optimierung des Energieverbrauchs, Klimaprogrammierung und Echtzeitüberwachung. Wir beraten Sie zu Zuschüssen und Fördermitteln, die in Ihrer Region für erneuerbare Energieinstallationen verfügbar sind."
+      },
+      "q41": {
+        "question": "Sind die Wände der Basismodule stoßfest? Kann die Blechdicke erhöht werden?",
+        "answer": "Ja, die Sandwichpaneele unserer Basismodule (El Gorrión, El Halcón, El Águila, El Martín) sind für den täglichen Gebrauch und kleinere Stöße ausgelegt. Die Standarddicke des äußeren verzinkten Stahlblechs beträgt 0,3 mm, ausreichend für normale Wohnnutzung. Für Anwendungen, die eine höhere Stoßfestigkeit erfordern (Bereiche mit hohem Verkehr, gewerbliche Nutzung, Lagerhallen, Werkstätten oder Standorte mit anspruchsvolleren Bedingungen), bieten wir die Option, die Blechdicke auf 0,5 mm zu erhöhen. Dieses 0,5 mm Blech ist extrem widerstandsfähig und hält deutlich größeren Stößen ohne Dellen oder Verformungen stand. Die zusätzlichen Kosten sind minimal und wir empfehlen diese Option besonders für: Büros mit hohem Besucherverkehr, Lagermodule, Baustellencontainer, leichte Industrieanlagen oder Häuser in Gebieten mit Hagelrisiko. Konsultieren Sie unser technisches Team, um zu beurteilen, welche Blechdicke für Ihr Projekt am besten geeignet ist."
+      },
+      "q42": {
+        "question": "Was deckt die Garantie genau ab und wer haftet bei Mängeln?",
+        "answer": "Die kommerzielle Garantie von NIDO45 deckt: 3 Jahre auf die Hauptstruktur (Stahlrahmen, Verbindungen, Dach) und 1 Jahr auf Komponenten (Fenster, Türen, Elektro- und Sanitärinstallationen, Oberflächen). Während des Seetransports (China-Algeciras) haftet die Versicherung des internationalen Transporteurs. Während des Landtransports (Algeciras-Grundstück) haftet die Haftpflicht des Transporteurs. Während der Montage und Installation haftet die Haftpflicht des Installateurs (mindestens 300.000 EUR Deckung, 1 Jahr nach Installation gültig). Für Herstellungsmängel, die nicht mit Transport oder Installation zusammenhängen, haftet NIDO45 direkt als Hersteller. Tipp: Fotografieren Sie den Zustand der Module bei der Entladung und zu Beginn der Montage, um den Ursprung von Schäden zu dokumentieren. Bewahren Sie immer die Kaufunterlagen und das Garantiezertifikat auf, das wir Ihnen aushändigen."
+      },
+      "q43": {
+        "question": "Kann ich ein Modulhaus als Hauptwohnsitz versichern? Welche Gesellschaften decken es ab?",
+        "answer": "Ja, im Grundbuch eingetragene Modulhäuser sind wie jedes konventionelle Haus versicherbar. Die wichtigsten spanischen Versicherer (Mapfre, Allianz, AXA, Zurich, Mutua Madrileña, Línea Directa, unter anderen) bieten Hausratpolicen für vorgefertigte Modulhäuser an. Wichtig ist, dass das Haus hat: Bewohnbarkeitsbescheinigung oder Erstbezugslizenz, Eintragung im Grundbuch (oder zumindest notarielle Urkunde) und Fertigstellungsbescheinigung, falls eine Genehmigung erforderlich war. Die Versicherung deckt dieselben Risiken wie ein traditionelles Haus ab: Feuer, Diebstahl, Wasserschäden, Haftpflicht, atmosphärische Phänomene usw. Die Policenkosten sind ähnlich wie bei einem konventionellen Haus gleicher Fläche und Lage. Für nicht eingetragene Module (nicht-residenzielle, temporäre oder Nebennutzung) gibt es spezifische Versicherungspolicen für Nebengebäude oder bewegliche Güter. Wir stellen alle erforderlichen Unterlagen für den problemlosen Abschluss Ihrer Versicherung bereit."
+      },
+      "q44": {
+        "question": "Bieten Sie eigene Finanzierung, Leasing oder Ratenzahlung an?",
+        "answer": "Ja, wir bieten mehrere flexible Finanzierungsoptionen an, die an jeden Kunden angepasst sind. NIDO45-Ratenzahlung: Direktfinanzierung ohne Bankvermittler. Anzahlung von 30-40% und Rest in monatlichen Raten über 12-36 Monate. Zinsfrei bei kurzen Laufzeiten (bis 12 Monate). Reduzierter Zins bei langen Laufzeiten. Leasing oder Miete: ideal für Unternehmen und Selbstständige. Monatliche Zahlungen steuerlich absetzbar. Kaufoption am Vertragsende oder Verlängerung. Verfügbar für Büros, Geschäftsräume und Mietwohnungen. Bankfinanzierung: wir arbeiten mit Finanzinstituten zusammen, die das Modulprodukt kennen. Wir helfen Ihnen mit Dokumentation und dem Antragsprozess. Möglichkeit einer Hypothek, wenn das Haus als Immobilie eingetragen ist. Phasenzahlung: für große Projekte (Herrenhäuser, Mehrmodu-Komplexe) bieten wir gestaffelte Zahlung nach Fertigungsfortschritt an: 30% bei Bestellung, 40% im Werk, 30% bei Lieferung. Konsultieren Sie unser Verkaufsteam für die Option, die am besten zu Ihrer finanziellen Situation passt."
+      },
+      "q45": {
+        "question": "Wie viele Jahre hält ein NIDO45-Modulhaus? Was ist seine Nutzungsdauer?",
+        "answer": "Die Nutzungsdauer unserer Modulhäuser ist vergleichbar mit der eines traditionellen Qualitätshauses: zwischen 50 und 100 Jahren bei ordnungsgemäßer Wartung. Die verzinkte Stahlstruktur ist mindestens 50 Jahre ohne Behandlung vor Korrosion geschützt. Sandwichpaneele behalten ihre Dämmeigenschaften während der gesamten Lebensdauer des Hauses. PVC- oder Aluminiumfenster mit Wärmebrückenunterbrechung haben eine Nutzungsdauer von 30-40 Jahren. Innen- und Außenoberflächen erfordern dieselbe Wartung wie jedes Haus: Neuanstrich alle 10-15 Jahre, Überprüfung von Fugen und Dichtungen alle 5-10 Jahre, Wartung der Installationen gemäß Vorschriften. Der Schlüssel zur Langlebigkeit ist die Qualität der Materialien (verzinkter Stahl, Steinwolle, High-End-PVC) und grundlegende vorbeugende Wartung. Viele vor 40-50 Jahren gebaute Qualitäts-Fertighäuser sind heute noch in perfektem Gebrauch. Unsere Häuser sind für mehrere Generationen als Zuhause konzipiert."
+      },
+      "q46": {
+        "question": "Kann ich mein Modulhaus auf ein anderes Grundstück verlegen? Ist es demontierbar und umsetzbar?",
+        "answer": "Es kommt auf das Modell an. Flat-Pack-Module (El Gorrión, El Halcón, El Águila, El Martín): JA, sie sind demontierbar und umsetzbar. Das verschraubte Paneel-System ermöglicht das Demontieren des Hauses, den Transport und den Wiederaufbau an einem anderen Standort. Der umgekehrte Prozess zur Montage dauert etwa doppelt so lang. Ungefähre Kosten: Transport + Arbeitsaufwand für Demontage und Montage (je nach Entfernung und Komplexität anfragen). Erweiterbare Häuser (El Cuco): JA, sie sind umsetzbar. Als selbsttragende Einheiten auf Fahrgestell können sie auf LKW geladen und komplett bewegt werden, wenn der Zugang es erlaubt. Falls nicht, falten sie sich hydraulisch und werden transportiert wie sie ankamen. Apple Cabin (El Flamenco) und Space Cabin (El Colibrí): JA, sie sind umsetzbar. Es sind komplette Module, die per Straße transportiert werden können. Sie werden von Versorgungsleitungen getrennt und auf Tieflader geladen. Wichtig: Wenn das Haus im Grundbuch als Immobilie eingetragen ist, beinhaltet die Umsetzung Grundbuch- und Baurechtsverfahren an beiden Standorten. Wir beraten Sie zum vollständigen Prozess."
+      },
+      "q47": {
+        "question": "Wie wird das Haus an Strom, Wasser und Abwasser angeschlossen, wenn das Grundstück keine Anschlüsse hat?",
+        "answer": "Wenn Ihr Grundstück keine Versorgungsanschlüsse hat, gibt es mehrere Lösungen. Strom: Option 1 - Stromanschluss beim Verteilungsunternehmen beantragen (Endesa, Iberdrola usw.). Üblicher Zeitrahmen 2-4 Monate. Kosten je nach Entfernung zum nächsten Anschlusspunkt. Option 2 - Isolierte Photovoltaik-Solaranlage mit Batterien für 100% Eigenverbrauch. Ideal für abgelegene Standorte. Option 3 - Generator als temporäre oder Backup-Lösung. Wasser: Option 1 - Anschluss an das städtische Netz beantragen, falls in der Gegend vorhanden. Option 2 - Eigener Brunnen mit Tauchpumpe (erfordert Genehmigung der Wasserbehörde). Option 3 - Wassertank mit periodischer Versorgung per Tankwagen. Abwasser: Option 1 - Anschluss an städtisches Abwassernetz, falls vorhanden. Option 2 - Klärgrube mit biologischem Filter (am häufigsten auf ländlichen Grundstücken). Option 3 - Kompakte Volloxidations-Kläranlage für genehmigten Abfluss. Wir helfen Ihnen, die auf Ihrem Grundstück verfügbaren Optionen zu bewerten und die erforderlichen Installationen vor der Fertigung Ihres Hauses zu dimensionieren."
+      },
+      "q48": {
+        "question": "Hat El Cuco (erweiterbares Haus) die CTE-Zertifizierung? Kann ich legal darin wohnen?",
+        "answer": "Ja, El Cuco verfügt jetzt über die vollständige CTE-Zertifizierung (Spanisches Baugesetzbuch). Das bedeutet, dass alle 7 NIDO45-Modelle die anspruchsvollsten spanischen Bauvorschriften erfüllen. Was das für Sie bedeutet: Sie können eine Baugenehmigung für dauerhafte Wohnnutzung in jeder Gemeinde erhalten. Das Haus ist hypothekenfähig, im Grundbuch eintragbar und legal für ganzjähriges Wohnen. Sie können sich anmelden und alle kommunalen Dienste nutzen. El Cuco behält seine einzigartigen Vorteile: hydraulisches Entfaltungssystem, das den Raum in Minuten verdreifacht, Option zur Installation auf Fahrgestell ohne feste Fundamente (fragen Sie Ihre Gemeinde) und schnelle Installation. Mit vollständiger CE + ISO + CTE-Zertifizierung bietet El Cuco dieselben rechtlichen Garantien wie unsere Flat-Pack-Modelle und Apple Cabin, kombiniert mit dem Komfort eines erweiterbaren Systems."
+      }
+    }
+  },
+  "contact": {
+    "title": "Starten Sie Ihr Projekt Heute",
+    "subtitle": "Kontakt",
+    "description": "Wir beantworten Ihre Fragen unverbindlich. Wir beraten Sie zum Grundstück, den Verfahren und dem idealen Modell für Sie.",
+    "whatsapp": "WhatsApp",
+    "email": "E-Mail",
+    "location": "Hauptsitz & Musterhäuser",
+    "locationValue": "El Capitán, Almayate (Málaga)",
+    "cta": "Informationen Anfordern",
+    "company": {
+      "title": "Unternehmensinformationen",
+      "importer": "Importierendes Unternehmen",
+      "importerValue": "Isla Sofia SLU",
+      "nif": "Steuernummer",
+      "nifValue": "B26607044",
+      "headquarters": "Hauptsitz",
+      "headquartersValue": "El Capitán, Almayate (Málaga)",
+      "showroom": "Musterhäuser",
+      "showroomValue": "Zur Besichtigung verfügbar - Standort anzeigen",
+      "manufacturer": "Hersteller",
+      "manufacturerValue": "Die grosste und beste Fabrik der Welt fur diese Art von Hausern, in China gelegen.",
+      "certifications": "Zertifizierungen",
+      "certificationsValue": "Alle Produkte erfüllen die aktuellen CE- und ISO-Vorschriften",
+      "warranty": "Garantie",
+      "warrantyValue": "3 Jahre Hauptstruktur · 1 Jahr Komponenten"
+    }
+  },
+  "footer": {
+    "rights": "NIDO45. Exklusiver Vertrieb Andalusien, Kanarische Inseln und Balearen."
+  }
+}

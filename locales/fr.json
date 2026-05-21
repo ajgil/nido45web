@@ -1,0 +1,327 @@
+{
+  "nav": {
+    "models": "Modèles",
+    "advantages": "Avantages",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Votre Maison en 45 Jours",
+    "subtitle": "New Generation Homes certifiees CE+ISO. Surface illimitee en combinant les modules. Livraison en 45 jours, installation en quelques heures.",
+    "cta": "Voir les Modeles",
+    "ctaSecondary": "Nous Contacter",
+    "badge1": "Livraison en 45 jours",
+    "badge2": "Surface illimitee",
+    "badge3": "A partir de 6.000€ par module"
+  },
+  "models": {
+    "title": "Nos Modèles",
+    "subtitle": "Catalogue",
+    "description": "Sept créations exclusives, conçues pour ceux qui recherchent l'extraordinaire. Architecture modulaire d'avant-garde avec certification CTE complète sur les 7 modèles — hypothécables, enregistrables et légales pour vivre toute l'année.",
+    "speedTitle": "plus rapide que la construction traditionnelle",
+    "profitTitle": "plus rentable que la construction conventionnelle",
+    "daysTitle": "jours jusqu'à votre nouvelle maison",
+    "manufacturingNote": "Précision industrielle de la plus grande usine du monde spécialisée dans les maisons modulaires. Votre maison voyage 45 jours par mer jusqu'en Espagne, suivie d'une livraison premium porte à porte. Installation professionnelle en quelques heures. De la chaîne de production à l'emménagement: environ 60 jours.",
+    "viewMore": "Voir",
+    "askPrice": "Devis",
+    "basicModule": {
+      "name": "Le Moineau",
+      "description": "Petit, agile, va où vous allez. 15 m² complets avec salle de bain intégrée. Montage en 4-6 heures. Sans machinerie lourde.",
+      "features": ["15 m²", "Salle de bain incluse", "Flat Pack"]
+    },
+    "casa90": {
+      "name": "Le Faucon",
+      "description": "Puissant et équilibré. Maison de 1 étage avec 6 modules flat pack: 3 chambres, salon-salle à manger et cuisine. La maison de vos rêves.",
+      "features": ["90 m²", "3 chambres", "6 modules"]
+    },
+    "mansion": {
+      "name": "L'Aigle",
+      "description": "Le sommet du catalogue. Villa de luxe de 2 étages avec 10 modules flat pack. 4 chambres, 2 salles de bain, salon et grande cuisine.",
+      "features": ["150 m²", "2 étages", "10 modules"]
+    },
+    "offices": {
+      "name": "Le Martin-Pêcheur",
+      "description": "Professionnel, efficace et polyvalent. Bâtiments de bureaux multi-étages. Salles de réunion, espaces ouverts et façades vitrées.",
+      "features": ["Flat Pack", "Salles réunion", "Façade vitrée"]
+    },
+    "cuco36": {
+      "name": "Le Coucou 36",
+      "description": "Compact et fonctionnel. Système extensible hydraulique. 36 m² avec 2 chambres + salle de bain. Idéal pour couples.",
+      "features": ["36 m²", "2 chambres", "Hydraulique"]
+    },
+    "cuco68": {
+      "name": "Le Coucou 68",
+      "description": "Espace familial. Système extensible hydraulique. 68 m² avec 2-3 chambres + salle de bain. Idéal pour familles.",
+      "features": ["68 m²", "2-3 chambres", "Hydraulique"]
+    },
+    "appleCabin": {
+      "name": "Le Flamant",
+      "description": "Élégant et stylisé. Maisons de luxe clé en main. Modules combinables sans limite. Concevez votre maison sur mesure.",
+      "features": ["Sans limite", "Clé en main", "Combinable"]
+    },
+    "spaceCapsule": {
+      "name": "Le Colibri",
+      "description": "Futuriste, unique et précieux. Capsule high-tech avec chauffage, climatisation cachée et Smart Toilet. Modèles Z5 et Z7.",
+      "features": ["27-38 m²", "Smart Toilet", "High-Tech"]
+    }
+  },
+  "advantages": {
+    "title": "Pourquoi Choisir NIDO45",
+    "subtitle": "Avantages",
+    "items": {
+      "certified": {
+        "title": "Certification CE + ISO",
+        "description": "Toutes nos maisons respectent les réglementations européennes les plus exigeantes, garantissant qualité et sécurité."
+      },
+      "fast": {
+        "title": "Livraison en 45 Jours",
+        "description": "Fabrication en quelques semaines et expédition directe depuis l'usine. Votre maison prête en un temps record."
+      },
+      "installation": {
+        "title": "Installation en Heures",
+        "description": "Montage professionnel ultra-rapide. De conteneur à maison habitable en quelques heures seulement."
+      },
+      "quality": {
+        "title": "Matériaux Premium",
+        "description": "Acier galvanisé, isolation haute densité et finitions résistantes aux intempéries."
+      },
+      "flexible": {
+        "title": "Design Flexible",
+        "description": "Multiples configurations et finitions personnalisables selon vos besoins."
+      },
+      "support": {
+        "title": "Support Complet",
+        "description": "Nous vous conseillons du terrain à l'installation finale. Toujours à vos côtés."
+      }
+    }
+  },
+  "faq": {
+    "title": "Questions Frequentes sur les Maisons de Nouvelle Generation",
+    "subtitle": "Nous repondons a vos questions",
+    "description": "Tout ce que vous devez savoir sur les maisons prefabriquees, permis, installation et financement en Espagne.",
+    "items": {
+      "q1": {
+        "question": "Ai-je besoin d'un permis de construire pour une maison de nouvelle generation en Espagne ?",
+        "answer": "Sur terrain urbain a usage residentiel, oui. Nos maisons de nouvelle generation ont exactement la meme validite juridique que toute construction traditionnelle. Un permis de construire majeur, un projet technique vise par architecte et un permis de premiere occupation sont requis. Une fois inscrite, vous pouvez l'hypothequer, la vendre et la leguer sans probleme."
+      },
+      "q2": {
+        "question": "Combien de temps dure tout le processus de la commande a l'emmenagement ?",
+        "answer": "Le delai total de la signature aux cles est de 6 a 12 mois, contre 18-30 mois pour une construction traditionnelle. Repartition : fabrication en quelques semaines, expedition en 45 jours, procedures de permis 1-3 mois, et installation en heures ou jours selon le modele. Le budget est fixe des le premier jour."
+      },
+      "q3": {
+        "question": "Que comprend le prix d'une maison de nouvelle generation NIDO45 ?",
+        "answer": "Le prix comprend la structure complete en acier galvanise, isolation thermique et acoustique premium, installation electrique preparee, menuiserie interieure et exterieure et finitions standard. Factures separement : expedition, fondation, raccordements aux services et projet technique. Le cout au m2 varie de 900 a 1 500 euros tout compris."
+      },
+      "q4": {
+        "question": "Puis-je obtenir un pret hypothecaire pour une maison de nouvelle generation ?",
+        "answer": "Oui, une fois inscrite au Registre de la Propriete et avec certificat d'habitabilite, toute banque la traite comme une maison conventionnelle. Nous avons des clients qui l'ont financee a 80% sans probleme. La maison s'apprecie avec le marche immobilier."
+      },
+      "q5": {
+        "question": "Quel type de terrain ai-je besoin pour une maison de nouvelle generation ?",
+        "answer": "Le terrain ideal est urbain avec usage residentiel permis. Avant d'acheter un terrain, demandez le certificat d'urbanisme a la mairie pour confirmer : classification du sol, metres constructibles, hauteur maximale, retraits et acces aux services."
+      },
+      "q6": {
+        "question": "Quelles procedures bureaucratiques faut-il pour legaliser ma maison de nouvelle generation ?",
+        "answer": "Les procedures sur terrain urbain sont : 1) Certificat d'urbanisme, 2) Projet technique vise par architecte, 3) Etude geotechnique, 4) Permis de construire majeur, 5) Raccordement aux services, 6) Permis de premiere occupation, 7) Declaration de construction nouvelle devant notaire, 8) Inscription au Cadastre. Nous vous accompagnons tout au long du processus."
+      },
+      "q7": {
+        "question": "Combien coutent les taxes et frais pour une maison de nouvelle generation ?",
+        "answer": "Les taxes sont les memes que pour toute maison : TVA 10% sur le prix, ICIO municipal 2-4%, taxe de permis 2-6% selon la commune, et IAJD 1-1,5% a la declaration. Au total, la partie bureaucratique represente entre 6% et 10% du cout du logement."
+      },
+      "q8": {
+        "question": "Puis-je agrandir ma maison modulaire a l'avenir ?",
+        "answer": "Oui, c'est precisement l'un des grands avantages du systeme modulaire : vous pouvez ajouter des modules si votre terrain et le PGOU municipal le permettent. La structure est conçue pour etre combinable horizontalement et verticalement, sans limite de surface."
+      },
+      "q9": {
+        "question": "Quels avantages a une maison de nouvelle generation par rapport a la construction traditionnelle ?",
+        "answer": "Les principaux avantages sont : temps de construction de 4-8 semaines apres permis (vs 12-18 mois), budget fixe sans surprises, certification energetique A avec isolation superieure, fabrication industrielle avec qualite uniforme, moins d'impact environnemental, et cout au m2 entre 30% et 50% inferieur."
+      },
+      "q10": {
+        "question": "Quelle efficacite energetique ont les maisons NIDO45 ?",
+        "answer": "Nos maisons atteignent la certification energetique A ou B grace a une isolation haute densite (laine de roche ou polyurethane 50-100mm), des chassis a rupture de pont thermique et un double vitrage. La consommation de climatisation est 40-60% inferieure a une maison traditionnelle. Elles sont compatibles avec l'installation de panneaux solaires, l'aerothermie et le chauffe-eau solaire. La conception optimisee minimise les pertes thermiques en hiver comme en ete."
+      },
+      "q11": {
+        "question": "Puis-je installer une maison de nouvelle generation sans fondation sur terrain rural ?",
+        "answer": "C'est une zone grise juridique. Les maisons extensibles sont transportables et, dans certaines communes, si elles n'ont pas de fondation fixe et restent sur le chassis original, elles peuvent etre traitees comme des biens meubles. Cela n'est pas reglemente uniformement en Espagne. Nous ne garantissons jamais cette option, nous l'informons comme possibilite a valider au cas par cas."
+      },
+      "q12": {
+        "question": "Puis-je visiter une maison temoin avant d'acheter ?",
+        "answer": "Oui, nous avons des maisons temoins disponibles pour visite a notre siege a El Capitan, Almayate (Malaga). Contactez-nous pour organiser une visite."
+      },
+      "q13": {
+        "question": "Les maisons de nouvelle generation conviennent-elles pour vivre toute l'annee ou seulement en vacances ?",
+        "answer": "Nos maisons sont conçues pour un usage permanent comme residence principale. Elles disposent d'une isolation thermique et acoustique haute densite, adaptees a tout climat espagnol. Elles repondent aux exigences CTE pour une utilisation continue."
+      },
+      "q14": {
+        "question": "Quelle est la difference entre maison extensible et modules flat pack ?",
+        "answer": "La maison extensible (68 m2) arrive comme un conteneur ferme qui se deploie sur place en quelques heures - ideal pour une installation rapide ou des terrains sans fondation fixe. Les modules flat pack (15 m2 chacun) arrivent demontés et sont assemblés sur place, permettant des configurations personnalisees : de 1 module (studio) a 10+ modules (villa de 150 m2). Le flat pack offre plus de flexibilite de conception ; l'extensible offre une installation plus rapide."
+      },
+      "q15": {
+        "question": "NIDO45 aide-t-il aussi a trouver un terrain ?",
+        "answer": "Oui, nous vous guidons sur ce qu'il faut chercher et ce qu'il faut eviter. Nous aidons a identifier des parcelles urbaines constructibles dans votre region, verifions le certificat d'urbanisme aupres de la mairie avant l'achat, et vous accompagnons tout au long du processus."
+      },
+      "q16": {
+        "question": "Quelle dalle ou fondation ai-je besoin pour installer les modules ?",
+        "answer": "Pour les modules flat pack, nous recommandons une dalle de beton arme de 10-15 cm d'epaisseur sur une base de gravier compacte de 15-20 cm. Les dimensions doivent etre legerement superieures a l'emprise du module (6,2m x 2,7m minimum pour un module de base de 15m2). Le beton doit etre HA-25 avec treillis soude. Alternatives valides : plots en beton aux angles et au centre (tous les 2-3m), ou fondation perimetrique avec semelles filantes. Pour les terrains en pente ou instables, une etude geotechnique prealable est recommandee. Les maisons extensibles peuvent etre installees sur leur propre chassis sans fondation fixe, ou avec des plots en beton pour plus de stabilite. Nous conseillons toujours la solution optimale pour votre terrain."
+      },
+      "q17": {
+        "question": "Qu'est-ce qui est inclus dans le prix et qu'est-ce qui est devisé séparément?",
+        "answer": "Le prix de base comprend: modules fabriqués avec toutes les finitions intérieures, transport maritime de l'usine au port espagnol (Algésiras) et dédouanement. Devisé séparément selon votre projet: transport terrestre du port à votre parcelle (varie selon la distance et l'accessibilité), fondation et préparation du terrain, montage et installation (déchargement par grue, assemblage, raccordements), permis de construire et taxes municipales, raccordements aux services publics (électricité, eau, assainissement). Nous vous envoyons un devis détaillé avec tous les postes ventilés. Ainsi vous savez exactement ce que chaque concept inclut et pouvez comparer en toute transparence."
+      },
+      "q18": {
+        "question": "Puis-je l'acheter et le monter moi-meme ?",
+        "answer": "Oui. Nos modules sont concus pour un montage facile. Si vous choisissez l'auto-installation, nous fournissons le manuel technique complet et offrons une assistance gratuite par appel video. Vous aurez besoin de : au moins 2-3 personnes pour le montage, grue ou chariot elevateur pour positionner les modules, electricien certifie REBT pour l'installation electrique (obligatoire selon la reglementation espagnole), et plombier qualifie si le raccordement au reseau necessite une certification municipale. Les raccordements aux services doivent toujours etre effectues par des professionnels qualifies."
+      },
+      "q19": {
+        "question": "Proposez-vous un service d'installation complet ?",
+        "answer": "Oui. Nous travaillons avec des installateurs certifies en Andalousie, aux Canaries et aux Baleares. Le service d'installation complet comprend : dechargement et positionnement par grue, montage de la structure, raccordement electrique (installateur certifie REBT), raccordement plomberie et assainissement, et inspection finale et livraison avec proces-verbal de reception. Incluez-le dans votre demande de devis et nous offrons tout en un seul prix."
+      },
+      "q20": {
+        "question": "Combien de temps dure l'installation ?",
+        "answer": "Le montage est rapide. Temps indicatifs par modele : Module individuel (15 m2) une demi-journee de montage structurel ; Maison Extensible (68 m2) 1 jour pour deployer la structure ; Maison modulaire multi-modules (90-150 m2) 1 a 2 jours de montage ; raccordements electriques et plomberie 1 a 2 jours supplementaires. Une installation complete avec services est generalement prete en 2 a 4 jours. Le delai exact depend de la preparation prealable du terrain."
+      },
+      "q21": {
+        "question": "Est-ce accessible aux personnes a mobilite reduite ?",
+        "answer": "Oui. Nos maisons sont entierement personnalisables en termes d'accessibilite. Sur demande du client, nous pouvons inclure : porte d'entree plus large (jusqu'a 90 cm de passage libre) pour faciliter l'acces en fauteuil roulant, rampe d'acces a la place de la marche d'entree, portes interieures adaptees (minimum 80 cm de passage), salle de bain adaptee avec receveur de douche encastre et barres d'appui, et agencement interieur sans barrieres architecturales. Indiquez-nous vos besoins lors de la demande de devis et nous adaptons le module sans cout supplementaire significatif."
+      },
+      "q22": {
+        "question": "Que couvre exactement la garantie et qui répond en cas de défaut?",
+        "answer": "La garantie commerciale NIDO45 couvre: 3 ans sur la structure principale (châssis acier, assemblages, toiture) et 1 an sur les composants (fenêtres, portes, installations électriques et plomberie, finitions). Pendant le transport maritime (Chine-Algésiras) l'assurance du transporteur international répond. Pendant le transport terrestre (Algésiras-parcelle) la RC du transporteur répond. Pendant le montage et l'installation la RC de l'installateur répond (minimum 300.000 EUR de couverture, valide 1 an après l'installation). Pour les défauts de fabrication non liés au transport ni à l'installation, NIDO45 répond directement en tant que fabricant. Conseil: photographiez l'état des modules au déchargement et au début du montage pour documenter l'origine de tout dommage. Conservez toujours la documentation d'achat et le certificat de garantie que nous vous remettons."
+      },
+      "q23": {
+        "question": "Puis-je personnaliser les finitions interieures et exterieures ?",
+        "answer": "Oui. Nous offrons plusieurs options de personnalisation : finition exterieure (panneau sandwich blanc, gris, bois synthetique ou bardage sur mesure), sols interieurs (vinyle, ceramique ou parquet), cuisine et salle de bain (meubles et sanitaires au choix), menuiserie (PVC blanc, anthracite ou imitation bois) et agencement interieur (cloisons mobiles, portes coulissantes). Nous vous envoyons le catalogue des finitions avec le devis. Les modifications par rapport au standard peuvent affecter le delai de fabrication."
+      },
+      "q24": {
+        "question": "Quel entretien necessite une maison de nouvelle generation ?",
+        "answer": "L'entretien est minimal et similaire a toute maison : revision annuelle des joints et etancheites, nettoyage des gouttieres, verification des installations electriques et de plomberie. La structure en acier galvanise ne necessite aucun traitement supplementaire pendant au moins 25 ans. Nous recommandons de repeindre l'exterieur tous les 10-15 ans si vous souhaitez maintenir l'aspect d'origine. Il n'y a pas de risque de termites, d'humidite capillaire ou de problemes structurels typiques de la construction traditionnelle."
+      },
+      "q25": {
+        "question": "Livrez-vous aux Canaries, Baleares ou dans d'autres pays ?",
+        "answer": "Oui. Nous livrons dans toute l'Espagne peninsulaire, aux Canaries et aux Baleares. Le transport maritime vers les iles a un cout supplementaire detaille dans le devis. Nous exportons egalement vers le Portugal, la France, l'Italie et d'autres pays europeens. Nous gerons le processus d'importation et de douane dans tous les cas. Pour les destinations hors UE, consulter les conditions specifiques."
+      },
+      "q26": {
+        "question": "Quels délais faut-il prévoir entre la commande et l'installation?",
+        "answer": "Le délai total est d'environ 60 jours depuis la signature du contrat. Répartition: 18 jours de fabrication en usine, environ 45 jours de transport maritime, puis montage et installation sur votre parcelle (1-5 jours selon la complexité). Pour les projets urgents, nous pouvons accélérer la fabrication moyennant un supplément. Nous vous tenons informé à chaque étape avec un suivi en temps réel."
+      },
+      "q27": {
+        "question": "Quels modes de paiement acceptez-vous?",
+        "answer": "Nous acceptons le virement bancaire et le financement. Le processus habituel de paiement est: 30% d'acompte lors de la confirmation de la commande, 40% au départ de l'usine, 20% à l'arrivée sur votre parcelle, et les 10% restants à la livraison finale. Pour les projets plus importants, nous proposons des plans de paiement personnalisés. Toutes les transactions sont effectuées via des comptes bancaires espagnols vérifiés."
+      },
+      "q28": {
+        "question": "Proposez-vous un financement pour l'achat?",
+        "answer": "Oui, nous collaborons avec des institutions financières qui proposent des prêts personnels pour l'achat du module. Une fois la maison inscrite au Registre de la Propriété, vous pouvez la convertir en hypothèque conventionnelle avec de meilleures conditions. Nous vous conseillons également sur les subventions disponibles dans votre région pour les logements efficaces ou ruraux."
+      },
+      "q29": {
+        "question": "Ai-je besoin d'une assurance spéciale pour ma maison modulaire?",
+        "answer": "Vous n'avez pas besoin d'assurance spéciale. Une fois inscrite au Registre de la Propriété, tout assureur la couvre comme une maison conventionnelle: assurance multirisque habitation, responsabilité civile, incendie, vol, etc. Pendant le transport et l'installation, les biens sont couverts par l'assurance du transporteur et de l'installateur. Nous recommandons de souscrire une assurance habitation avant la livraison finale."
+      },
+      "q30": {
+        "question": "Puis-je revendre ma maison modulaire? Prend-elle de la valeur?",
+        "answer": "Oui, vous pouvez la vendre comme tout bien immobilier une fois inscrite au Registre. Les maisons modulaires de qualité prennent de la valeur avec le marché immobilier comme les traditionnelles. En fait, l'efficacité énergétique certifiée (classe A ou B) et les faibles coûts d'entretien sont des arguments de vente très valorisés aujourd'hui. Nous avons des clients qui ont vendu leur maison modulaire avec plus-value."
+      },
+      "q31": {
+        "question": "Quels matériaux sont utilisés pour l'isolation thermique des maisons NIDO45?",
+        "answer": "Nous utilisons des matériaux de la plus haute qualité pour l'isolation thermique. Dans les modules flat pack (El Gorrión, El Halcón, El Águila) le standard est un panneau sandwich avec laine de roche de 50mm d'épaisseur. Optionnellement, pour les climats plus extrêmes ou une plus grande efficacité énergétique, nous proposons des versions avec 75mm ou 100mm sur demande. La laine de roche est incombustible, n'absorbe pas l'humidité et maintient ses propriétés isolantes pendant toute la durée de vie de la maison. Dans les maisons extensibles (El Cuco) et les capsules spatiales (El Colibrí) nous utilisons du polyuréthane haute densité de 60-80mm, qui offre une performance thermique maximale dans les espaces réduits. Toutes nos isolations respectent les réglementations d'économie d'énergie CTE et permettent d'atteindre la certification énergétique A ou B."
+      },
+      "q32": {
+        "question": "Quel type de fenêtres équipent les maisons modulaires NIDO45?",
+        "answer": "Toutes nos maisons incorporent des fenêtres à double vitrage avec chambre d'air ou gaz argon pour une isolation thermique et acoustique maximale. Les profilés sont en PVC ou aluminium à rupture de pont thermique, évitant la condensation et les pertes de chaleur. Les fenêtres panoramiques des modèles Apple Cabin (El Flamenco) et Space Cabin (El Colibrí) incluent un traitement thermique spécial avec contrôle solaire pour réduire le réchauffement en été. Options disponibles: ouverture oscillo-battante, coulissante, fixe ou à la française. Couleurs de menuiserie: blanc, anthracite, gris, imitation bois. L'isolation acoustique de nos fenêtres réduit le bruit extérieur de 30-40 dB, idéal pour les emplacements proches des routes ou zones urbaines."
+      },
+      "q33": {
+        "question": "Quelles options de finitions extérieures sont disponibles?",
+        "answer": "Nous proposons plusieurs finitions extérieures pour personnaliser votre maison modulaire. Finition standard: panneau sandwich blanc, gris anthracite ou crème. Finition bois synthétique: imitation bois naturel résistante aux intempéries, sans entretien. Finition premium: bardage céramique ventilé, pierre naturelle reconstituée, ou composite haut de gamme. Couleurs RAL: n'importe quelle couleur de la charte RAL sur demande. Pour le modèle Apple Cabin (El Flamenco) les finitions blanches ou effet bois naturel avec lignes courbes distinctives se démarquent. Pour El Colibrí (Space Cabin) nous proposons des finitions métalliques futuristes avec éclairage LED intégré. Toutes les finitions extérieures sont conçues pour résister aux intempéries méditerranéennes pendant au moins 15-20 ans sans entretien significatif."
+      },
+      "q34": {
+        "question": "Quelles options de sols intérieurs sont disponibles?",
+        "answer": "Nous disposons de trois catégories de sols intérieurs. Sol vinyle haute résistance (standard): résistant à l'eau, nettoyage facile, multiples finitions (bois, pierre, uni). Idéal pour salles de bain, cuisines et zones à fort passage. Sol céramique ou grès cérame: durabilité maximale, grande variété de designs, idéal pour climats chauds. Parquet ou plancher flottant: finition premium en bois naturel ou synthétique de haute qualité, chaleur et confort. Pour les modèles de luxe comme El Águila (manoir) et El Flamenco (Apple Cabin) nous recommandons le grès cérame grand format ou parquet de chêne. Pour El Colibrí (Space Cabin) les sols vinyle design premium complètent la finition futuriste. Tous les sols sont installés sur une base nivelée avec isolation acoustique pour éviter la transmission de bruits d'impact."
+      },
+      "q35": {
+        "question": "Les maisons sont-elles livrées avec chauffage et climatisation inclus?",
+        "answer": "Cela dépend du modèle. El Colibrí (Space Cabin) et El Flamenco (Apple Cabin) incluent chauffage de dernière génération et climatisation cachée haute efficacité de série dans le prix. Vous n'avez rien à installer: ils arrivent prêts à connecter au réseau électrique. Les autres modèles (El Gorrión, El Halcón, El Águila, El Cuco, El Martín) sont préparés pour l'installation de climatisation: pré-installation électrique, conduits et emplacement réservé. Vous pouvez choisir entre: climatisation split conventionnelle (option la plus économique), pompe à chaleur aérothermie (efficacité maximale, chaud et froid), chauffage au sol (confort premium, idéal pour grandes maisons), ou système VRV/VRF centralisé (pour bureaux et grandes surfaces). Nous vous conseillons sur la meilleure option selon votre climat et usage."
+      },
+      "q36": {
+        "question": "Quelle est la qualité de la structure en acier des maisons modulaires?",
+        "answer": "La structure de toutes nos maisons est en acier galvanisé haute résistance. L'épaisseur minimale est de 2mm dans les profilés principaux, augmentant à 3mm aux jonctions et points de charge. La galvanisation à chaud (zinc) protège l'acier contre la corrosion pendant au moins 50 ans sans entretien. La structure est calculée pour supporter des charges de neige jusqu'à 150 kg/m², des vents jusqu'à 120 km/h et des séismes selon la réglementation européenne. Les modules sont assemblés avec de la visserie en acier inoxydable AISI 304 et des plaques d'ancrage renforcées. Le poids approximatif d'un module de base (15 m²) est de 2.500 kg, ce qui garantit stabilité et robustesse. La structure respecte les normes EN 1090 de fabrication de structures métalliques."
+      },
+      "q37": {
+        "question": "Comment est l'isolation acoustique des maisons NIDO45?",
+        "answer": "L'isolation acoustique de nos maisons modulaires est comparable ou supérieure à celle d'une maison traditionnelle de qualité. Les panneaux sandwich avec laine de roche ou polyuréthane fournissent une réduction acoustique de 40-50 dB dans les murs et la toiture. Les fenêtres à double vitrage avec chambre réduisent le bruit extérieur de 30-40 dB. Entre modules adjacents, l'isolation acoustique dépasse 45 dB, respectant la réglementation CTE-DB-HR de protection contre le bruit. Pour les projets avec exigences spéciales (studios d'enregistrement, salles de réunion, maisons près de voies ferrées ou aéroports), nous proposons des solutions d'isolation acoustique renforcée avec couches supplémentaires de laine de roche haute densité et membranes acoustiques spécifiques."
+      },
+      "q38": {
+        "question": "Quelles options de cuisine et salle de bain incluent les maisons NIDO45?",
+        "answer": "Les cuisines et salles de bain varient selon le modèle et le niveau de finition. Finition standard: meubles de cuisine en mélaminé blanc ou bois, plan de travail en granit synthétique, évier en acier inoxydable, robinetterie mitigeur chromée. Salle de bain avec receveur de douche acrylique, paroi en verre trempé, sanitaires en porcelaine blanche et robinetterie chromée. Finition premium: meubles de cuisine laqués ou en bois massif, plan de travail en quartz Silestone ou granit naturel, électroménagers de marque (option Bosch, Siemens ou similaire), robinetterie design. Salle de bain avec receveur de douche extra-plat en résine, paroi fixe en verre, sanitaires suspendus et robinetterie noire mate ou dorée. El Flamenco (Apple Cabin) et El Colibrí (Space Cabin) incluent cuisine équipée avec électroménagers de série. El Colibrí ajoute l'exclusif Smart Toilet avec technologie japonaise."
+      },
+      "q39": {
+        "question": "Les maisons modulaires résistent-elles bien à la chaleur et au froid extrêmes?",
+        "answer": "Oui, nos maisons sont conçues pour tous les climats espagnols. Dans les zones de chaleur intense (Andalousie, Murcie, Canaries), l'isolation en laine de roche de 75-100mm et les fenêtres avec contrôle solaire maintiennent l'intérieur frais avec une consommation minimale de climatisation. Dans les zones froides (Castille, Aragon, zones de montagne), la même isolation thermique retient la chaleur intérieure, réduisant la demande de chauffage jusqu'à 60% par rapport à une maison traditionnelle. Les maisons respectent les exigences CTE pour toutes les zones climatiques d'Espagne (A4 à E1). Pour les emplacements extrêmes (haute montagne avec chutes de neige fréquentes), nous renforçons la toiture pour supporter des charges de neige supplémentaires. La certification énergétique A ou B garantit un confort maximal avec une consommation minimale."
+      },
+      "q40": {
+        "question": "Puis-je installer des panneaux solaires, aérothermie ou autres systèmes durables?",
+        "answer": "Oui, toutes nos maisons sont compatibles avec les systèmes d'énergie renouvelable et durabilité. Panneaux solaires photovoltaïques: le toit plat des modules est idéal pour installer des panneaux solaires. Nous recommandons l'orientation sud et calculons l'inclinaison optimale selon votre emplacement. Aérothermie: pompe à chaleur air-eau pour chauffage, refroidissement et eau chaude sanitaire avec efficacité maximale (COP 4-5). Compatible avec chauffage au sol ou radiateurs basse température. Solaire thermique: panneaux pour eau chaude sanitaire, idéal combiné avec aérothermie. Batteries de stockage: systèmes Tesla Powerwall ou similaires pour autoconsommation nocturne. Gestion intelligente: domotique pour optimiser la consommation énergétique, programmation de climatisation et surveillance en temps réel. Nous vous conseillons sur les aides et subventions disponibles dans votre région pour les installations d'énergie renouvelable."
+      },
+      "q41": {
+        "question": "Les murs des modules de base résistent-ils aux impacts? Peut-on augmenter l'épaisseur de la tôle?",
+        "answer": "Oui, les panneaux sandwich de nos modules de base (El Gorrión, El Halcón, El Águila, El Martín) sont conçus pour résister à l'usage quotidien et aux petits impacts. L'épaisseur standard de la tôle d'acier galvanisé extérieure est de 0,3 mm, suffisante pour un usage résidentiel normal. Cependant, pour les applications nécessitant une plus grande résistance aux impacts (zones à fort passage, usage commercial, entrepôts, ateliers ou emplacements exposés à des conditions plus exigeantes), nous proposons l'option d'augmenter l'épaisseur de la tôle à 0,5 mm. Cette tôle de 0,5 mm est extrêmement résistante et supporte des impacts significativement plus importants sans bosses ni déformations. Le coût supplémentaire est minime et nous recommandons cette option particulièrement pour: bureaux à fort passage, modules de stockage, cabanes de chantier, installations industrielles légères, ou maisons dans des zones à risque de grêle intense. Consultez notre équipe technique pour évaluer quelle épaisseur de tôle est la plus adaptée à votre projet."
+      },
+      "q42": {
+        "question": "Que couvre exactement la garantie et qui répond en cas de défaut?",
+        "answer": "La garantie commerciale NIDO45 couvre: 3 ans sur la structure principale (châssis acier, assemblages, toiture) et 1 an sur les composants (fenêtres, portes, installations électriques et plomberie, finitions). Pendant le transport maritime (Chine-Algésiras) l'assurance du transporteur international répond. Pendant le transport terrestre (Algésiras-parcelle) la RC du transporteur répond. Pendant le montage et l'installation la RC de l'installateur répond (minimum 300.000 EUR de couverture, valide 1 an après l'installation). Pour les défauts de fabrication non liés au transport ni à l'installation, NIDO45 répond directement en tant que fabricant. Conseil: photographiez l'état des modules au déchargement et au début du montage pour documenter l'origine de tout dommage. Conservez toujours la documentation d'achat et le certificat de garantie que nous vous remettons."
+      },
+      "q43": {
+        "question": "Puis-je assurer une maison modulaire comme résidence principale? Quelles compagnies la couvrent?",
+        "answer": "Oui, les maisons modulaires inscrites au Registre de la Propriété sont assurables comme toute maison conventionnelle. Les principales compagnies d'assurance espagnoles (Mapfre, Allianz, AXA, Zurich, Mutua Madrileña, Línea Directa, entre autres) proposent des polices habitation pour maisons modulaires préfabriquées. L'important est que la maison ait: certificat d'habitabilité ou licence de première occupation, inscription au Registre de la Propriété (ou au moins acte notarié), et certificat d'achèvement si une licence était requise. L'assurance couvre les mêmes risques qu'une maison traditionnelle: incendie, vol, dégâts des eaux, responsabilité civile, phénomènes atmosphériques, etc. Le coût de la police est similaire à celui d'une maison conventionnelle de même surface et emplacement. Pour les modules non inscrits (usage non résidentiel, temporaire ou annexe), il existe des assurances spécifiques pour constructions auxiliaires ou biens meubles. Nous fournissons toute la documentation nécessaire pour souscrire votre assurance sans problème."
+      },
+      "q44": {
+        "question": "Proposez-vous un financement propre, leasing ou paiement échelonné?",
+        "answer": "Oui, nous proposons plusieurs options de financement flexibles adaptées à chaque client. Paiement échelonné NIDO45: financement direct sans intermédiaires bancaires. Apport de 30-40% et reste en mensualités sur 12-36 mois. Sans intérêts sur les courts termes (jusqu'à 12 mois). Intérêt réduit sur les longs termes. Leasing ou location: idéal pour entreprises et indépendants. Mensualités déductibles fiscalement. Option d'achat en fin de contrat ou renouvellement. Disponible pour bureaux, locaux commerciaux et logements locatifs. Financement bancaire: nous collaborons avec des établissements financiers qui connaissent le produit modulaire. Nous vous aidons avec la documentation et le processus de demande. Possibilité d'hypothèque si la maison est inscrite comme bien immobilier. Paiement par phases: pour les grands projets (manoirs, complexes multi-modules), nous proposons un paiement fractionné selon l'avancement de fabrication: 30% à la commande, 40% en usine, 30% à la livraison. Consultez notre équipe commerciale pour l'option la mieux adaptée à votre situation financière."
+      },
+      "q45": {
+        "question": "Combien d'années dure une maison modulaire NIDO45? Quelle est sa durée de vie?",
+        "answer": "La durée de vie de nos maisons modulaires est comparable à celle d'une maison traditionnelle de qualité: entre 50 et 100 ans avec un entretien approprié. La structure en acier galvanisé est protégée contre la corrosion pendant au moins 50 ans sans traitement. Les panneaux sandwich maintiennent leurs propriétés isolantes pendant toute la durée de vie de la maison. Les fenêtres en PVC ou aluminium à rupture de pont thermique ont une durée de vie de 30-40 ans. Les finitions intérieures et extérieures nécessitent le même entretien que toute maison: repeindre tous les 10-15 ans, vérifier joints et étanchéités tous les 5-10 ans, entretien des installations selon réglementation. La clé de la longévité est la qualité des matériaux (acier galvanisé, laine de roche, PVC haut de gamme) et un entretien préventif de base. Beaucoup de maisons préfabriquées de qualité construites il y a 40-50 ans sont encore en parfait usage aujourd'hui. Nos maisons sont conçues pour être le foyer de plusieurs générations."
+      },
+      "q46": {
+        "question": "Puis-je déplacer ma maison modulaire vers un autre terrain? Est-elle démontable et relocalisable?",
+        "answer": "Cela dépend du modèle. Modules flat pack (El Gorrión, El Halcón, El Águila, El Martín): OUI ils sont démontables et relocalisables. Le système de panneaux vissés permet de démonter la maison, la transporter et la remonter dans un autre emplacement. Le processus inverse au montage prend environ le double du temps. Coût approximatif: transport + main d'œuvre de démontage et montage (consulter selon distance et complexité). Maisons extensibles (El Cuco): OUI elles sont relocalisables. Étant autoportantes sur châssis, elles peuvent être chargées sur camion et déplacées complètes si l'accès le permet. Sinon, elles se replient hydrauliquement et sont transportées comme elles sont arrivées. Apple Cabin (El Flamenco) et Space Cabin (El Colibrí): OUI elles sont relocalisables. Ce sont des modules complets transportables par route. Ils sont déconnectés des services et chargés sur camion surbaissé. Important: si la maison est inscrite au Registre de la Propriété comme bien immobilier, la relocalisation implique des démarches registrales et urbanistiques aux deux emplacements. Nous vous conseillons sur le processus complet."
+      },
+      "q47": {
+        "question": "Comment connecte-t-on la maison à l'électricité, l'eau et l'assainissement si le terrain n'a pas de raccordements?",
+        "answer": "Si votre terrain n'a pas de raccordements aux services, il existe plusieurs solutions. Électricité: Option 1 - Demander un raccordement électrique à la compagnie de distribution (Endesa, Iberdrola, etc.). Délai habituel 2-4 mois. Coût selon distance au point de connexion le plus proche. Option 2 - Installation solaire photovoltaïque isolée avec batteries pour autoconsommation 100%. Idéal pour emplacements isolés. Option 3 - Groupe électrogène comme solution temporaire ou de secours. Eau: Option 1 - Demander un raccordement au réseau municipal s'il existe dans la zone. Option 2 - Puits propre avec pompe immergée (nécessite autorisation de l'Autorité de l'Eau). Option 3 - Réservoir d'eau avec approvisionnement périodique par citerne. Assainissement: Option 1 - Connexion au réseau d'égouts municipal s'il existe. Option 2 - Fosse septique avec filtre biologique (la plus courante sur les terrains ruraux). Option 3 - Station d'épuration compacte à oxydation totale pour rejet autorisé. Nous vous aidons à évaluer les options disponibles sur votre terrain et à dimensionner les installations nécessaires avant de fabriquer votre maison."
+      },
+      "q48": {
+        "question": "El Cuco (maison extensible) a-t-elle la certification CTE? Puis-je légalement y vivre?",
+        "answer": "Oui, El Cuco dispose désormais de la certification CTE (Code Technique de l'Édification espagnol) complète. Cela signifie que les 7 modèles NIDO45 respectent la réglementation espagnole de construction la plus exigeante. Ce que cela signifie pour vous: Vous pouvez obtenir un permis de construire pour usage résidentiel permanent dans n'importe quelle municipalité. La maison est hypothécable, inscriptible au Registre de la Propriété et légale pour vivre toute l'année. Vous pouvez vous domicilier et accéder à tous les services municipaux. El Cuco conserve ses avantages uniques: système de déploiement hydraulique qui triple l'espace en quelques minutes, option d'installation sur châssis sans fondation fixe (consulter votre mairie) et installation rapide. Avec certification CE + ISO + CTE complète, El Cuco offre les mêmes garanties légales que nos modèles flat pack et les Apple Cabin, combiné à la commodité d'un système extensible."
+      }
+    }
+  },
+  "contact": {
+    "title": "Commencez Votre Projet Aujourd'hui",
+    "subtitle": "Contact",
+    "description": "Nous répondons à vos questions sans engagement. Nous vous conseillons sur le terrain, les démarches et le modèle idéal pour vous.",
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "location": "Siège & Maisons Témoins",
+    "locationValue": "El Capitán, Almayate (Málaga)",
+    "cta": "Demander des Informations",
+    "company": {
+      "title": "Informations Entreprise",
+      "importer": "Société importatrice",
+      "importerValue": "Isla Sofia SLU",
+      "nif": "N° TVA",
+      "nifValue": "B26607044",
+      "headquarters": "Siège",
+      "headquartersValue": "El Capitán, Almayate (Málaga)",
+      "showroom": "Maisons témoins",
+      "showroomValue": "Disponibles pour visite - Voir l'emplacement",
+      "manufacturer": "Fabricant",
+      "manufacturerValue": "La plus grande et meilleure usine au monde pour ce type d'habitations, situee en Chine.",
+      "certifications": "Certifications",
+      "certificationsValue": "Tous les produits respectent les réglementations CE et ISO en vigueur",
+      "warranty": "Garantie",
+      "warrantyValue": "3 ans structure principale · 1 an composants"
+    }
+  },
+  "footer": {
+    "rights": "NIDO45. Distributeur exclusif Andalousie, Îles Canaries et Baléares."
+  }
+}

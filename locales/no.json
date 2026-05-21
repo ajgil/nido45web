@@ -1,0 +1,327 @@
+{
+  "nav": {
+    "models": "Modeller",
+    "advantages": "Fordeler",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Ditt Hjem pa 45 Dager",
+    "subtitle": "CE+ISO-sertifiserte New Generation Homes. Ubegrenset overflate ved a kombinere moduler. Levering pa 45 dager, installasjon pa bare noen timer.",
+    "cta": "Se Modeller",
+    "ctaSecondary": "Kontakt Oss",
+    "badge1": "Levering pa 45 dager",
+    "badge2": "Ubegrenset overflate",
+    "badge3": "Fra 6.000€ per modul"
+  },
+  "models": {
+    "title": "Våre Modeller",
+    "subtitle": "Katalog",
+    "description": "Syv eksklusive kreasjoner, designet for de som søker det ekstraordinære. Avantgarde modulær arkitektur med full CTE-sertifisering på alle 7 modeller — pantbare, registrerbare og lovlige for helårsbolig.",
+    "speedTitle": "raskere enn tradisjonell bygging",
+    "profitTitle": "mer lønnsomt enn konvensjonell bygging",
+    "daysTitle": "dager til ditt nye hjem",
+    "manufacturingNote": "Industriell presisjon fra verdens største fabrikk spesialisert på modulhus. Ditt hjem reiser 45 dager over havet til Spania, etterfulgt av premium dør-til-dør levering. Profesjonell installasjon på noen få timer. Fra produksjonslinje til innflytting: omtrent 60 dager.",
+    "viewMore": "Se",
+    "askPrice": "Tilbud",
+    "basicModule": {
+      "name": "Spurven",
+      "description": "Liten, smidig, går dit du går. 15 m² komplett med integrert bad. Montering på 4-6 timer. Uten tungt maskineri.",
+      "features": ["15 m²", "Bad inkludert", "Flat Pack"]
+    },
+    "casa90": {
+      "name": "Falken",
+      "description": "Kraftfull og balansert. 1-etasjes hus med 6 flat pack moduler: 3 soverom, stue-spisestue og kjøkken. Ditt drømmehjem.",
+      "features": ["90 m²", "3 soverom", "6 moduler"]
+    },
+    "mansion": {
+      "name": "Ørnen",
+      "description": "Toppen av katalogen. 2-etasjes luksusvilla med 10 flat pack moduler. 4 soverom, 2 bad, stue og stort kjøkken.",
+      "features": ["150 m²", "2 etasjer", "10 moduler"]
+    },
+    "offices": {
+      "name": "Isfuglen",
+      "description": "Profesjonell, effektiv og allsidig. Kontorbygg i flere etasjer. Møterom, åpne arealer og glassfasader.",
+      "features": ["Flat Pack", "Møterom", "Glassfasade"]
+    },
+    "cuco36": {
+      "name": "Gjøken 36",
+      "description": "Kompakt og funksjonell. Hydraulisk utvidbart system. 36 m² med 2 soverom + bad. Ideelt for par.",
+      "features": ["36 m²", "2 soverom", "Hydraulisk"]
+    },
+    "cuco68": {
+      "name": "Gjøken 68",
+      "description": "Familieplass. Hydraulisk utvidbart system. 68 m² med 2-3 soverom + bad. Ideelt for familier.",
+      "features": ["68 m²", "2-3 soverom", "Hydraulisk"]
+    },
+    "appleCabin": {
+      "name": "Flamingoen",
+      "description": "Elegant og stilfull. Nøkkelferdige luksusboliger. Moduler kan kombineres uten grenser. Design boligen din etter mål.",
+      "features": ["Ubegrenset", "Nøkkelferdig", "Kombinerbar"]
+    },
+    "spaceCapsule": {
+      "name": "Kolibrien",
+      "description": "Futuristisk, unik og dyrebar. High-tech kapsel med varme, skjult klimaanlegg og Smart Toilet. Modeller Z5 og Z7.",
+      "features": ["27-38 m²", "Smart Toilet", "High-Tech"]
+    }
+  },
+  "advantages": {
+    "title": "Hvorfor Velge NIDO45",
+    "subtitle": "Fordeler",
+    "items": {
+      "certified": {
+        "title": "CE + ISO Sertifisering",
+        "description": "Alle våre hus oppfyller de mest krevende europeiske forskriftene, og garanterer kvalitet og sikkerhet."
+      },
+      "fast": {
+        "title": "Levering på 45 Dager",
+        "description": "Produksjon på noen uker og direkte forsendelse fra fabrikk. Ditt hus klart på rekordtid."
+      },
+      "installation": {
+        "title": "Installasjon på Timer",
+        "description": "Ultrarask profesjonell montering. Fra container til beboelig hjem på bare noen timer."
+      },
+      "quality": {
+        "title": "Premium Materialer",
+        "description": "Galvanisert stål, høytetthetsisolasjon og værbestandig finish."
+      },
+      "flexible": {
+        "title": "Fleksibelt Design",
+        "description": "Flere konfigurasjoner og tilpassbare finish etter dine behov."
+      },
+      "support": {
+        "title": "Full Støtte",
+        "description": "Vi rådgir deg fra tomten til den endelige installasjonen. Alltid ved din side."
+      }
+    }
+  },
+  "faq": {
+    "title": "Ofte Stilte Sporsmal om Modulhus",
+    "subtitle": "Vi svarer pa sporsmålene dine",
+    "description": "Alt du trenger a vite om prefabrikkerte hus, tillatelser, installasjon og finansiering i Spania.",
+    "items": {
+      "q1": {
+        "question": "Trenger jeg byggetillatelse for et modulhus i Spania?",
+        "answer": "Pa bygrunn med boligbruk, ja. Vare modulhus har nøyaktig samme juridiske gyldighet som enhver tradisjonell konstruksjon. Det kreves hovedbyggetillatelse, teknisk prosjekt godkjent av arkitekt og forstegangsbrukstillatelse. Etter registrering kan du belane, selge og arve det uten problemer."
+      },
+      "q2": {
+        "question": "Hvor lang tid tar hele prosessen fra bestilling til innflytting?",
+        "answer": "Total tid fra signering til nokler er 6 til 12 maneder, sammenlignet med 18-30 maneder for tradisjonell bygging. Fordeling: produksjon pa noen uker, forsendelse pa 45 dager, tillatelsesprosedyrer 1-3 maneder, og installasjon pa timer eller dager avhengig av modell."
+      },
+      "q3": {
+        "question": "Hva er inkludert i prisen pa et NIDO45 modulhus?",
+        "answer": "Prisen inkluderer komplett galvanisert stalstruktur, premium termisk og akustisk isolasjon, forberedt elektrisk installasjon, innvendig og utvendig snekkerarbeid og standardfinish. Fakturert separat: frakt, fundament, tilkoblinger og teknisk prosjekt. Kostnad per m2 ligger mellom 900 og 1500 euro alt inkludert."
+      },
+      "q4": {
+        "question": "Kan jeg fa boliglan for et modulhus?",
+        "answer": "Ja, etter registrering i Eiendomsregisteret og med beboelighetssertifikat behandler enhver bank det som en konvensjonell bolig. Vi har kunder som har finansiert det til 80% uten problemer. Huset stiger i verdi med eiendomsmarkedet."
+      },
+      "q5": {
+        "question": "Hvilken type tomt trenger jeg for et modulhus?",
+        "answer": "Den ideelle tomten er bygrunn med tillatt boligbruk. For du kjoper, be om byplanleggingssertifikat fra radhuset for a bekrefte: grunnklassifisering, byggbare meter, maksimal hoyde, avstander og tilgang til tjenester."
+      },
+      "q6": {
+        "question": "Hvilke byrakratiske prosedyrer trenger jeg for a legalisere mitt modulhus?",
+        "answer": "Prosedyrene pa bygrunn er: 1) Byplanleggingssertifikat, 2) Teknisk prosjekt godkjent av arkitekt, 3) Geoteknisk studie, 4) Hovedbyggetillatelse, 5) Tilkobling til tjenester, 6) Forstegangsbrukstillatelse, 7) Erklæring om nybygg hos notar, 8) Matrikkelregistrering. Vi folger deg gjennom hele prosessen."
+      },
+      "q7": {
+        "question": "Hvor mye koster skatter og avgifter for et modulhus?",
+        "answer": "Skatter er de samme som for ethvert hus: 10% mva pa prisen, 2-4% kommunal ICIO, 2-6% lisensavgift avhengig av kommune, og 1-1,5% IAJD ved erklæringen. Totalt representerer den byrakratiske delen mellom 6% og 10% av boligkostnaden."
+      },
+      "q8": {
+        "question": "Kan jeg utvide mitt modulhus i fremtiden?",
+        "answer": "Ja, det er nettopp en av de store fordelene med det modulære systemet: du kan legge til moduler hvis tomten din og kommunens PGOU tillater det. Strukturen er designet for a være kombinerbar horisontalt og vertikalt, uten overflatebegrensning."
+      },
+      "q9": {
+        "question": "Hvilke fordeler har et modulhus sammenlignet med tradisjonell bygging?",
+        "answer": "De viktigste fordelene er: byggetid pa 4-8 uker etter tillatelse (vs 12-18 maneder), fast budsjett uten overraskelser, energisertifisering A med overlegen isolasjon, industriell produksjon med jevn kvalitet, mindre miljøpavirkning, og kostnad per m2 mellom 30% og 50% lavere."
+      },
+      "q10": {
+        "question": "Hvilken garanti har NIDO45 modulhus?",
+        "answer": "Vi tilbyr 2 ars garanti pa hovedstrukturen og 1 ar pa komponenter og installasjoner. Alle hus leveres med CE- og ISO-fabrikkertifisering, i samsvar med CTE for sikkerhet, beboelighet og energieffektivitet."
+      },
+      "q11": {
+        "question": "Kan jeg installere et modulhus uten fundament pa landlig grunn?",
+        "answer": "Dette er en juridisk grasone. Utvidbare hus er transportable og i noen kommuner, hvis de ikke har fast fundament og forblir pa originalchassiet, kan de behandles som løsøre. Dette er ikke enhetlig regulert i Spania. Vi garanterer aldri dette alternativet, vi informerer det som mulighet for validering fra sak til sak."
+      },
+      "q12": {
+        "question": "Kan jeg besøke et visningshus for jeg kjoper?",
+        "answer": "Ja, vi har visningshus tilgjengelig for besøk ved vart hovedkontor i El Capitan, Almayate (Malaga). Kontakt oss for a avtale et besøk."
+      },
+      "q13": {
+        "question": "Passer modulhus for helarsbolig eller bare til ferie?",
+        "answer": "Vare hus er designet for permanent bruk som hovedbolig. De har høytetthetsisolasjon termisk og akustisk, egnet for ethvert spansk klima. De oppfyller CTE-krav for kontinuerlig bruk."
+      },
+      "q14": {
+        "question": "Hvilken type fundament trenger hver modulhusmodell?",
+        "answer": "Det avhenger av modellen: utvidbare hus kan installeres pa eget chassis (uten fast fundament) eller med betongplotter. Flat Pack og Demonterbare Husmodeller krever plate eller lett fundament. Vi utfører alltid en geoteknisk studie."
+      },
+      "q15": {
+        "question": "Hjelper NIDO45 ogsa med a finne tomt?",
+        "answer": "Ja, vi veileder deg om hva du skal se etter og hva du skal unnga. Vi hjelper med a identifisere byggbare bytomter i ditt omrade, verifiserer byplanleggingssertifikatet med radhuset for kjøp, og følger deg gjennom hele prosessen."
+      },
+      "q16": {
+        "question": "Hvilken plate eller fundament trenger jeg for a installere modulene?",
+        "answer": "For flat pack-moduler anbefaler vi en armert betongplate pa 10-15 cm tykkelse pa et komprimert gruslag pa 15-20 cm. Dimensjonene bor være litt storre enn modulens fotavtrykk (minimum 6,2m x 2,7m for en grunnleggende 15m2 modul). Betongen bor være HA-25 med elektrosveist nett. Gyldige alternativer: betongplotter i hjorner og senter (hver 2-3m), eller omkretsfundament med stripefundamenter. For skraende eller ustabilt terreng anbefales en forutgaende geoteknisk studie. Utvidbare hus kan installeres pa sitt eget chassis uten fast fundament, eller med betongplotter for mer stabilitet. Vi radgir alltid om den optimale losningen for ditt terreng."
+      },
+      "q17": {
+        "question": "Hva er inkludert i prisen og hva tilbys separat?",
+        "answer": "Grunnprisen inkluderer: produserte moduler med all innvendig finish, sjøfrakt fra fabrikk til spansk havn (Algeciras) og tollklarering. Tilbys separat i henhold til ditt prosjekt: landtransport fra havn til din tomt (varierer etter avstand og tilgjengelighet), fundament og tomtforberedelse, montering og installasjon (kranlossing, sammenstilling, tilkoblinger), byggetillatelse og kommunale avgifter, tilkoblinger for strøm, vann og avløp. Vi sender deg et detaljert tilbud med alle poster spesifisert. Slik vet du nøyaktig hva hvert konsept inkluderer og kan sammenligne transparent."
+      },
+      "q18": {
+        "question": "Kan jeg kjope det og montere det selv?",
+        "answer": "Ja. Vare moduler er designet for enkel montering. Ved selvinstallasjon leverer vi den komplette tekniske handboken og tilbyr gratis videosam talestotte. Du trenger: minst 2-3 personer til montasje, kran eller gaffeltruck for a posisjonere modulene, REBT-sertifisert elektriker for elektrisk installasjon (obligatorisk ifølge spansk regelverk), og kvalifisert rorlegger hvis nettilkoblingen krever kommunal sertifisering. Tilkoblinger til forsyninger ma alltid utfores av fagfolk med tilsvarende kvalifikasjoner."
+      },
+      "q19": {
+        "question": "Tilbyr dere komplett installasjonstjeneste?",
+        "answer": "Ja. Vi samarbeider med sertifiserte installatorer i Andalucia, pa Kanarioyene og Balearene. Den komplette installasjonstjenesten inkluderer: kranlosing og posisjonering, strukturmontasje, elektrisk tilkobling (REBT-sertifisert installator), rorlegger- og avlopstilkobling, og sluttinspeksjon og levering med overtakelsesprotokoll. Inkluder det i din tilbudsforespørsel, og vi tilbyr alt til en pris."
+      },
+      "q20": {
+        "question": "Hvor lang tid tar installasjonen?",
+        "answer": "Montasjen er rask. Veiledende tider per modell: Enkeltmodul (15 m2) en halv dag strukturmontasje; Utvidbart Hus (68 m2) 1 dag for a folde ut strukturen; Multimodul modulhus (90-150 m2) 1 til 2 dager montasje; elektriske og rorleggertilkoblinger 1 til 2 ekstra dager. En komplett installasjon med forsyninger er vanligvis klar pa 2 til 4 dager. Den noyaktige tiden avhenger av forutgaende klargjoring av tomten."
+      },
+      "q21": {
+        "question": "Er det tilgjengelig for personer med nedsatt mobilitet?",
+        "answer": "Ja. Vare boliger er fullt tilpassbare nar det gjelder tilgjengelighet. Pa kundens forespørsel kan vi inkludere: bredere inngangsdor (opptil 90 cm fri passasje) for a lette rullestoltilgang, adkomstrampe i stedet for inngangstrinn, tilpassede innerdorer (minimum 80 cm passasje), tilpasset bad med innfelt dusjkar og stottestenger, og innvendig planlosning uten arkitektoniske barrierer. Fortell oss dine behov nar du ber om tilbud, og vi tilpasser modulen uten vesentlige merkostnader."
+      },
+      "q22": {
+        "question": "Hva dekker garantien nøyaktig og hvem er ansvarlig ved mangler?",
+        "answer": "Den kommersielle garantien fra NIDO45 dekker: 3 år på hovedstrukturen (stålramme, forbindelser, tak) og 1 år på komponenter (vinduer, dører, elektriske og sanitærinstallasjoner, overflater). Under sjøtransport (Kina-Algeciras) er forsikringen til den internasjonale transportøren ansvarlig. Under landtransport (Algeciras-tomt) er transportørens ansvarsforsikring ansvarlig. Under montering og installasjon er installatørens ansvarsforsikring ansvarlig (minimum 300.000 EUR dekning, gyldig 1 år etter installasjon). For produksjonsfeil som ikke er relatert til transport eller installasjon, er NIDO45 direkte ansvarlig som produsent. Tips: fotografer tilstanden til modulene ved lossing og ved starten av montasjen for å dokumentere opphavet til eventuell skade. Behold alltid kjøpsdokumentasjonen og garantisertifikatet vi gir deg."
+      },
+      "q23": {
+        "question": "Kan jeg tilpasse innvendig og utvendig finish?",
+        "answer": "Ja. Vi tilbyr flere tilpasningsalternativer: utvendig finish (hvitt, grått sandwichpanel, syntetisk tre eller spesialtilpasset kledning), innvendige gulv (vinyl, keramikk eller parkett), kjøkken og bad (møbler og sanitærutstyr etter eget valg), trearbeid (hvit PVC, antrasitt eller treimitasjon) og innvendig planløsning (flyttbare skillevegger, skyvedører). Vi sender deg finishkatalogen sammen med tilbudet. Endringer fra standard kan påvirke produksjonstiden."
+      },
+      "q24": {
+        "question": "Hvilket vedlikehold krever en ny-generasjons bolig?",
+        "answer": "Vedlikeholdet er minimalt og sammenlignbart med ethvert hus: årlig sjekk av fuger og tettinger, rengjøring av takrenner, kontroll av elektriske og sanitæranlegg. Den galvaniserte stålstrukturen krever ingen ekstra behandling på minst 25 år. Vi anbefaler å male utsiden på nytt hvert 10-15 år hvis du vil bevare det opprinnelige utseendet. Det er ingen risiko for termitter, kapillær fuktighet eller typiske strukturelle problemer ved tradisjonell konstruksjon."
+      },
+      "q25": {
+        "question": "Leverer dere til Kanariøyene, Balearene eller andre land?",
+        "answer": "Ja. Vi leverer i hele fastlands-Spania, til Kanariøyene og Balearene. Sjøtransport til øyene har ekstra kostnader spesifisert i tilbudet. Vi eksporterer også til Portugal, Frankrike, Italia og andre europeiske land. Vi håndterer import- og tollprosessen i alle tilfeller. For destinasjoner utenfor EU, spør om spesifikke vilkår."
+      },
+      "q26": {
+        "question": "Hvilke frister kan forventes mellom bestilling og installasjon?",
+        "answer": "Total tid er omtrent 60 dager fra kontraktsignering. Fordeling: 18 dager produksjon på fabrikken, omtrent 45 dager sjøtransport, deretter montering og installasjon på din tomt (1-5 dager avhengig av kompleksitet). For hastende prosjekter kan vi fremskynde produksjonen mot et tillegg. Vi holder deg informert ved hvert steg med sanntidssporing."
+      },
+      "q27": {
+        "question": "Hvilke betalingsmetoder aksepterer dere?",
+        "answer": "Vi aksepterer bankoverføring og finansiering. Den vanlige betalingsprosessen er: 30% depositum ved ordrebekreftelse, 40% ved avgang fra fabrikken, 20% ved ankomst til din tomt, og de resterende 10% ved endelig levering. For større prosjekter tilbyr vi tilpassede betalingsplaner. Alle transaksjoner gjøres gjennom verifiserte spanske bankkontoer."
+      },
+      "q28": {
+        "question": "Tilbyr dere finansiering for kjøpet?",
+        "answer": "Ja, vi samarbeider med finansinstitusjoner som tilbyr personlige lån for modulkjøp. Når huset er registrert i Eiendomsregisteret, kan du konvertere det til et konvensjonelt boliglån med bedre vilkår. Vi gir deg også råd om tilskudd og subsidier som er tilgjengelige i din region for effektive eller landlige boliger."
+      },
+      "q29": {
+        "question": "Trenger jeg spesialforsikring for min modulære bolig?",
+        "answer": "Du trenger ikke spesialforsikring. Når den er registrert i Eiendomsregisteret, dekker enhver forsikringsgiver den som en konvensjonell bolig: boligforsikring, ansvarsforsikring, brann, tyveri osv. Under transport og installasjon er varene dekket av transportørens og installatørens forsikring. Vi anbefaler å tegne boligforsikring før endelig levering."
+      },
+      "q30": {
+        "question": "Kan jeg videreselge min modulære bolig? Øker den i verdi?",
+        "answer": "Ja, du kan selge den som enhver eiendom når den er registrert i Eiendomsregisteret. Kvalitets modulære boliger øker i verdi med eiendomsmarkedet akkurat som tradisjonelle. Faktisk er sertifisert energieffektivitet (klasse A eller B) og lave vedlikeholdskostnader svært verdsatte salgsargumenter i dag. Vi har kunder som har solgt sin modulære bolig med fortjeneste."
+      },
+      "q31": {
+        "question": "Hvilke materialer brukes til varmeisolasjon i NIDO45-boliger?",
+        "answer": "Vi bruker materialer av høyeste kvalitet for varmeisolasjon. I flat pack-moduler (El Gorrión, El Halcón, El Águila) er standarden sandwichpanel med 50mm tykk steinull. Valgfritt, for mer ekstreme klimaer eller større energieffektivitet, tilbyr vi versjoner med 75mm eller 100mm på forespørsel. Steinull er ubrennbar, absorberer ikke fuktighet og beholder sine isolerende egenskaper gjennom hele boligens levetid. I utvidbare hus (El Cuco) og romkapsler (El Colibrí) bruker vi høydensitets polyuretan på 60-80mm, som gir maksimal termisk ytelse i begrensede rom. All vår isolasjon overholder CTE energibesparelsesforskrifter og tillater energisertifisering A eller B."
+      },
+      "q32": {
+        "question": "Hvilken type vinduer har NIDO45 modulære boliger?",
+        "answer": "Alle våre hus har doble glassvinduer med luftkammer eller argongass for maksimal termisk og akustisk isolasjon. Profilene er av PVC eller aluminium med termisk brudd, som forhindrer kondens og varmetap. Panoramavinduene i Apple Cabin (El Flamenco) og Space Cabin (El Colibrí) modellene inkluderer spesiell termisk behandling med solkontroll for å redusere oppvarming om sommeren. Tilgjengelige alternativer: dreieskip, skyve, fast eller kippåpning. Karmfarger: hvit, antrasitt, grå, treimitasjon. Den akustiske isolasjonen i våre vinduer reduserer utvendig støy med 30-40 dB, ideelt for plasseringer nær veier eller urbane områder."
+      },
+      "q33": {
+        "question": "Hvilke utvendige finishalternativer er tilgjengelige?",
+        "answer": "Vi tilbyr flere utvendige finisher for å tilpasse din modulære bolig. Standardfinish: sandwichpanel i hvit, antrasittgrå eller krem. Syntetisk trefinish: naturlig treimitasjon motstandsdyktig mot vær, vedlikeholdsfri. Premiumfinish: ventilert keramisk kledning, rekonstituert naturstein, eller høykvalitets kompositt. RAL-farger: enhver farge fra RAL-kartet på forespørsel. For Apple Cabin-modellen (El Flamenco) skiller hvite eller naturlig treeffekt finisher med karakteristiske buede linjer seg ut. For El Colibrí (Space Cabin) tilbyr vi futuristiske metallfinisher med integrert LED-belysning. Alle utvendige finisher er designet for å tåle middelhavsklima i minst 15-20 år uten betydelig vedlikehold."
+      },
+      "q34": {
+        "question": "Hvilke innvendige gulvalternativer er tilgjengelige?",
+        "answer": "Vi har tre kategorier innvendige gulv. Høymotstandsdyktig vinyl (standard): vannbestandig, enkel rengjøring, flere finisher (tre, stein, ensfarget). Ideell for bad, kjøkken og områder med mye trafikk. Keramiske eller porselen fliser: maksimal holdbarhet, stort utvalg av design, ideelt for varme klimaer. Parkett eller laminat: premiumfinish i høykvalitets naturlig eller syntetisk tre, varme og komfort. For luksusmodeller som El Águila (herskapshus) og El Flamenco (Apple Cabin) anbefaler vi storformat porselen eller eikeparkett. For El Colibrí (Space Cabin) komplementerer premium design vinylgulv den futuristiske finishen. Alle gulv installeres på en nivellert base med akustisk isolasjon for å forhindre overføring av kontaktstøy."
+      },
+      "q35": {
+        "question": "Leveres boligene med oppvarming og aircondition inkludert?",
+        "answer": "Det avhenger av modellen. El Colibrí (Space Cabin) og El Flamenco (Apple Cabin) inkluderer nyeste generasjons oppvarming og høyeffektiv skjult aircondition som standard i prisen. Du trenger ikke installere noe ekstra: de kommer klare til å koble til strømnettet. De øvrige modellene (El Gorrión, El Halcón, El Águila, El Cuco, El Martín) kommer forberedt for klimainstallasjon: elektrisk forinstallasjon, kanaler og reservert plassering. Du kan velge mellom: konvensjonell split aircondition (mest økonomiske alternativ), luft-til-vann varmepumpe (maksimal effektivitet, varme og kjøling), gulvvarme (premium komfort, ideelt for store hus), eller sentralisert VRV/VRF-system (for kontorer og store områder). Vi gir deg råd om det beste alternativet i henhold til ditt klima og bruk."
+      },
+      "q36": {
+        "question": "Hva er kvaliteten på stålstrukturen i modulære boliger?",
+        "answer": "Strukturen til alle våre hus er av høystyrke galvanisert stål. Minimumstykkelsen er 2mm i hovedprofilene, økende til 3mm ved forbindelser og lastpunkter. Varmgalvanisering (sink) beskytter stålet mot korrosjon i minst 50 år uten vedlikehold. Strukturen er beregnet for å bære snølaster opptil 150 kg/m², vind opptil 120 km/t og jordskjelv i henhold til europeiske forskrifter. Moduler kobles sammen med AISI 304 rustfritt stål festemidler og forsterkede ankerplater. Den omtrentlige vekten av en basismodul (15 m²) er 2.500 kg, noe som garanterer stabilitet og robusthet. Strukturen overholder EN 1090 standarder for produksjon av metallstrukturer."
+      },
+      "q37": {
+        "question": "Hvordan er den akustiske isolasjonen i NIDO45-boliger?",
+        "answer": "Den akustiske isolasjonen i våre modulære boliger er sammenlignbar med eller bedre enn en tradisjonell kvalitetsbolig. Sandwichpaneler med steinull eller polyuretan gir akustisk reduksjon på 40-50 dB i vegger og tak. Doble glassvinduer med kammer reduserer utvendig støy med 30-40 dB. Mellom tilstøtende moduler overstiger akustisk isolasjon 45 dB, i samsvar med CTE-DB-HR støybeskyttelsesforskrifter. For prosjekter med spesielle krav (innspillingsstudioer, møterom, boliger nær jernbanespor eller flyplasser), tilbyr vi forsterkede akustiske isolasjonsløsninger med ekstra lag av høydensitets steinull og spesifikke akustiske membraner."
+      },
+      "q38": {
+        "question": "Hvilke kjøkken- og badalternativer er inkludert i NIDO45-boliger?",
+        "answer": "Kjøkken og bad varierer etter modell og finishnivå. Standardfinish: kjøkkenmøbler i hvit eller tre melamin, syntetisk granitt benkeplate, rustfritt stål vask, forkrommede ettgreps blandebatterier. Bad med akryl dusjkar, herdet glass dusjvegg, hvitt porselen sanitærutstyr og forkrommede blandebatterier. Premiumfinish: lakkerte eller massivt tre kjøkkenmøbler, Silestone kvarts eller naturlig granitt benkeplate, merkevareapparater (alternativ Bosch, Siemens eller lignende), designerblandebatterier. Bad med ekstra flat harpiks dusjkar, fast glass dusjvegg, vegghengt sanitærutstyr og matt svarte eller gyldne blandebatterier. El Flamenco (Apple Cabin) og El Colibrí (Space Cabin) inkluderer fullt utstyrt kjøkken med apparater som standard. El Colibrí legger til det eksklusive Smart Toilet med japansk teknologi."
+      },
+      "q39": {
+        "question": "Tåler NIDO45 modulære boliger ekstrem varme og kulde godt?",
+        "answer": "Ja, våre hus er designet for alle spanske klimaer. I områder med intens varme (Andalucia, Murcia, Kanariøyene) holder 75-100mm steinull isolasjon og solkontrollvinduer interiøret kjølig med minimalt airconditionforbruk. I kalde områder (Castilla, Aragon, fjellområder) holder den samme varmeisolasjonen innvendig varme, og reduserer varmebehovet med opptil 60% sammenlignet med en tradisjonell bolig. Boligene overholder CTE-krav for alle spanske klimasoner (A4 til E1). For ekstreme steder (høyfjell med hyppig snøfall) forsterker vi taket for å bære ekstra snølaster. Energisertifisering A eller B garanterer maksimal komfort med minimalt forbruk."
+      },
+      "q40": {
+        "question": "Kan jeg installere solcellepaneler, varmepumpe eller andre bærekraftige systemer?",
+        "answer": "Ja, alle våre hus er kompatible med fornybar energi og bærekraftssystemer. Fotovoltaiske solcellepaneler: det flate taket på modulene er ideelt for installasjon av solcellepaneler. Vi anbefaler sørvendt orientering og beregner optimal helning i henhold til din plassering. Varmepumpe: luft-til-vann varmepumpe for oppvarming, kjøling og varmtvann med maksimal effektivitet (COP 4-5). Kompatibel med gulvvarme eller lavtemperaturradiatorer. Solfanger: paneler for varmtvann, ideelt kombinert med varmepumpe. Lagerbatterier: Tesla Powerwall eller lignende systemer for nattlig egenforbruk. Smart styring: hjemmeautomatisering for å optimalisere energiforbruk, klimaprogrammering og sanntidsovervåking. Vi gir deg råd om tilskudd og subsidier tilgjengelige i din region for fornybar energiinstallasjoner."
+      },
+      "q41": {
+        "question": "Er veggene i basismodulene støtbestandige? Kan platetykkelsen økes?",
+        "answer": "Ja, sandwichpanelene i våre basismoduler (El Gorrión, El Halcón, El Águila, El Martín) er designet for å tåle daglig bruk og mindre støt. Standardtykkelsen på den ytre galvaniserte stålplaten er 0,3 mm, tilstrekkelig for normal boligbruk. For applikasjoner som krever større støtmotstand (områder med mye trafikk, kommersiell bruk, lagre, verksteder eller steder utsatt for mer krevende forhold), tilbyr vi alternativet å øke platetykkelsen til 0,5 mm. Denne 0,5 mm platen er ekstremt motstandsdyktig og tåler betydelig større støt uten bulker eller deformasjoner. Ekstrakostnadene er minimale og vi anbefaler spesielt dette alternativet for: kontorer med mye fotgjengere, lagermoduler, byggeplassbrakker, lette industrianlegg, eller boliger i områder med risiko for intens hagl. Rådfør deg med vårt tekniske team for å vurdere hvilken platetykkelse som er best egnet for ditt prosjekt."
+      },
+      "q42": {
+        "question": "Hva dekker garantien nøyaktig og hvem er ansvarlig ved mangler?",
+        "answer": "Den kommersielle garantien fra NIDO45 dekker: 3 år på hovedstrukturen (stålramme, forbindelser, tak) og 1 år på komponenter (vinduer, dører, elektriske og sanitærinstallasjoner, overflater). Under sjøtransport (Kina-Algeciras) er forsikringen til den internasjonale transportøren ansvarlig. Under landtransport (Algeciras-tomt) er transportørens ansvarsforsikring ansvarlig. Under montering og installasjon er installatørens ansvarsforsikring ansvarlig (minimum 300.000 EUR dekning, gyldig 1 år etter installasjon). For produksjonsfeil som ikke er relatert til transport eller installasjon, er NIDO45 direkte ansvarlig som produsent. Tips: fotografer tilstanden til modulene ved lossing og ved starten av montasjen for å dokumentere opphavet til eventuell skade. Behold alltid kjøpsdokumentasjonen og garantisertifikatet vi gir deg."
+      },
+      "q43": {
+        "question": "Kan jeg forsikre en modulær bolig som primærbolig? Hvilke selskaper dekker det?",
+        "answer": "Ja, modulære boliger registrert i Eiendomsregisteret er forsikringsbare som enhver konvensjonell bolig. De viktigste spanske forsikringsselskapene (Mapfre, Allianz, AXA, Zurich, Mutua Madrileña, Línea Directa, blant andre) tilbyr boligforsikringer for prefabrikkerte modulære boliger. Det viktige er at huset har: beboelighetssertifikat eller førstegangs brukstillatelse, registrering i Eiendomsregisteret (eller minst notarialbekreftet skjøte), og ferdigstillelsessertifikat hvis tillatelse var påkrevd. Forsikringen dekker de samme risikoene som en tradisjonell bolig: brann, tyveri, vannskader, ansvar, atmosfæriske fenomener osv. Forsikringskostnaden er lik den for en konvensjonell bolig av samme størrelse og beliggenhet. For uregistrerte moduler (ikke-bolig, midlertidig eller tilleggsbruk) finnes det spesifikke forsikringer for hjelpebygg eller løsøre. Vi leverer all nødvendig dokumentasjon for å tegne forsikring uten problemer."
+      },
+      "q44": {
+        "question": "Tilbyr dere egen finansiering, leasing eller delbetaling?",
+        "answer": "Ja, vi tilbyr flere fleksible finansieringsalternativer tilpasset hver kunde. NIDO45 delbetaling: direkte finansiering uten bankformidlere. Forskudd på 30-40% og resten i månedlige avdrag over 12-36 måneder. Rentefritt på korte perioder (opptil 12 måneder). Redusert rente på lange perioder. Leasing eller leie: ideelt for bedrifter og selvstendig næringsdrivende. Månedlige betalinger skattemessig fradragsberettiget. Kjøpsopsjon ved kontraktslutt eller fornyelse. Tilgjengelig for kontorer, forretningslokaler og utleieboliger. Bankfinansiering: vi samarbeider med finansinstitusjoner som kjenner det modulære produktet. Vi hjelper deg med dokumentasjon og søknadsprosessen. Mulighet for boliglån hvis huset er registrert som fast eiendom. Fasebetaling: for store prosjekter (herskapshus, flermodulkomplekser) tilbyr vi faset betaling etter produksjonsfremgang: 30% ved bestilling, 40% på fabrikken, 30% ved levering. Kontakt vårt salgsteam for alternativet som best passer din økonomiske situasjon."
+      },
+      "q45": {
+        "question": "Hvor mange år varer en NIDO45 modulær bolig? Hva er dens levetid?",
+        "answer": "Levetiden til våre modulære boliger er sammenlignbar med en tradisjonell kvalitetsbolig: mellom 50 og 100 år med riktig vedlikehold. Den galvaniserte stålstrukturen er beskyttet mot korrosjon i minst 50 år uten behandling. Sandwichpaneler beholder sine isolerende egenskaper gjennom hele boligens levetid. PVC eller aluminium vinduer med termisk brudd har en levetid på 30-40 år. Innvendige og utvendige finisher krever samme vedlikehold som ethvert hus: maling på nytt hvert 10-15 år, sjekk av fuger og forseglinger hvert 5-10 år, vedlikehold av installasjoner i henhold til forskrifter. Nøkkelen til lang levetid er kvaliteten på materialene (galvanisert stål, steinull, høykvalitets PVC) og grunnleggende forebyggende vedlikehold. Mange kvalitets prefabrikkerte hus bygget for 40-50 år siden er fortsatt i perfekt bruk i dag. Våre hus er designet for å være hjemmet til flere generasjoner."
+      },
+      "q46": {
+        "question": "Kan jeg flytte min modulære bolig til en annen tomt? Er den demonterbar og flyttbar?",
+        "answer": "Det avhenger av modellen. Flat pack-moduler (El Gorrión, El Halcón, El Águila, El Martín): JA de er demonterbare og flyttbare. Det skrudde panelsystemet tillater demontering av huset, transport og gjenmontering på et annet sted. Den omvendte prosessen til montering tar omtrent dobbelt så lang tid. Omtrentlig kostnad: transport + arbeidskraft for demontering og montering (forespør etter avstand og kompleksitet). Utvidbare hus (El Cuco): JA de er flyttbare. Som selvbærende enheter på chassis kan de lastes på lastebil og flyttes komplette hvis adkomst tillater det. Hvis ikke, foldes de hydraulisk og transporteres som de ankom. Apple Cabin (El Flamenco) og Space Cabin (El Colibrí): JA de er flyttbare. De er komplette moduler transporterbare på vei. De kobles fra forsyninger og lastes på lavlaster. Viktig: hvis huset er registrert i Eiendomsregisteret som fast eiendom, innebærer flytting eiendoms- og reguleringsplanprosedyrer på begge steder. Vi gir deg råd om hele prosessen."
+      },
+      "q47": {
+        "question": "Hvordan kobles huset til strøm, vann og avløp hvis tomten ikke har tilkoblinger?",
+        "answer": "Hvis din tomt ikke har forsyningstilkoblinger, finnes det flere løsninger. Strøm: Alternativ 1 - Be om elektrisk tilkobling fra distribusjonsselskapet (Endesa, Iberdrola osv.). Vanlig tidsramme 2-4 måneder. Kostnad avhengig av avstand til nærmeste tilkoblingspunkt. Alternativ 2 - Isolert fotovoltaisk solinstallasjon med batterier for 100% egenforbruk. Ideelt for avsidesliggende steder. Alternativ 3 - Generator som midlertidig eller backup-løsning. Vann: Alternativ 1 - Be om tilkobling til kommunalt nettverk hvis det finnes i området. Alternativ 2 - Egen brønn med nedsenkbar pumpe (krever tillatelse fra Vannmyndigheten). Alternativ 3 - Vanntank med periodisk forsyning via tankbil. Avløp: Alternativ 1 - Tilkobling til kommunalt avløpsnett hvis det finnes. Alternativ 2 - Septiktank med biologisk filter (mest vanlig på landlige tomter). Alternativ 3 - Kompakt totaloksidasjon renseanlegg for autorisert utslipp. Vi hjelper deg med å evaluere tilgjengelige alternativer på din tomt og dimensjonere nødvendige installasjoner før vi produserer ditt hus."
+      },
+      "q48": {
+        "question": "Har El Cuco (utvidbart hus) CTE-sertifisering? Kan jeg lovlig bo i det?",
+        "answer": "Ja, El Cuco har nå full CTE (Spansk Byggeforskrift) sertifisering. Dette betyr at alle 7 NIDO45 modeller oppfyller de mest krevende spanske byggeforskriftene. Hva dette betyr for deg: Du kan få byggetillatelse for permanent boligbruk i enhver kommune. Huset er pantbart, registrerbart i Eiendomsregisteret og lovlig for helårsbolig. Du kan registrere adressen din og få tilgang til alle kommunale tjenester. El Cuco beholder sine unike fordeler: hydraulisk utfoldingssystem som tredobler plassen på minutter, mulighet for installasjon på chassis uten fast fundament (sjekk med din kommune) og rask installasjon. Med komplett CE + ISO + CTE sertifisering tilbyr El Cuco de samme juridiske garantiene som våre flat pack-modeller og Apple Cabin, kombinert med bekvemmeligheten til et utvidbart system."
+      }
+    }
+  },
+  "contact": {
+    "title": "Start Prosjektet Ditt I Dag",
+    "subtitle": "Kontakt",
+    "description": "Vi svarer på spørsmålene dine uten forpliktelse. Vi rådgir deg om tomten, prosedyrene og den ideelle modellen for deg.",
+    "whatsapp": "WhatsApp",
+    "email": "E-post",
+    "location": "Hovedkontor & Visningshus",
+    "locationValue": "El Capitán, Almayate (Málaga)",
+    "cta": "Be om Informasjon",
+    "company": {
+      "title": "Bedriftsinformasjon",
+      "importer": "Importerende selskap",
+      "importerValue": "Isla Sofia SLU",
+      "nif": "Org.nr.",
+      "nifValue": "B26607044",
+      "headquarters": "Hovedkontor",
+      "headquartersValue": "El Capitán, Almayate (Málaga)",
+      "showroom": "Visningshus",
+      "showroomValue": "Tilgjengelig for besøk - Se plassering",
+      "manufacturer": "Produsent",
+      "manufacturerValue": "Shandong GIS Integrated Housing Co., Ltd.",
+      "certifications": "Sertifiseringer",
+      "certificationsValue": "Alle produkter oppfyller gjeldende CE- og ISO-forskrifter",
+      "warranty": "Garanti",
+      "warrantyValue": "3 år hovedstruktur · 1 år komponenter"
+    }
+  },
+  "footer": {
+    "rights": "NIDO45. Eksklusiv distributør Andalucia, Kanariøyene og Balearene."
+  }
+}
