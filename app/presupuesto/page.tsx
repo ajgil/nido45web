@@ -4,7 +4,7 @@ import { useState, type FormEvent } from "react"
 import Link from "next/link"
 import { ArrowLeft } from "lucide-react"
 
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz51KZGizoOxCrKadkd47t_zsuCwTwFTu_s_o08R37BtnL7klKXn3-pwO2eH2txRFs/exec"
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwCYZZT32_KUk_GUM23kxy81kouIElqmap7wuiSECUBCYpM-zBlN5wzbnb4gfluAWg/exec"
 
 export default function PresupuestoPage() {
   const [success, setSuccess] = useState(false)
